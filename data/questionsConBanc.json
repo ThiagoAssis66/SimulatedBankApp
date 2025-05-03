@@ -1,0 +1,1343 @@
+[ 
+  {
+    "question": " O Sistema Financeiro Nacional (SFN) é composto por um conjunto de instituições que se dedica a manter o fluxo de recursos entre unidades  uperavitárias (poupadoras) e unidades deficitárias (tomadoras / investidoras). O SFN mantém a ordem no mercado financeiro por meio de normas e procedimentos. O SFN é composto por um sistema normativo, além dos agentes que o operam, tais como instituições (especiais e auxiliares) e intermediários financeiros – monetários e não monetários. Considerando as diferenças entre esses agentes, é correto afirmar que: " ,
+    "answers": [
+      { "text": " intermediários financeiros monetários captam recursos junto ao público e emprestam esses recursos, criando moeda escritural; as instituições auxiliares colocam em contato poupadores e investidores e não criam moeda escritural; ", "isCorrect": true },
+      { "text": "  intermediários financeiros captam recursos junto ao público e investem na Bolsa de Valores; as instituições auxiliares, embora também captem junto ao público, investem no mercado imobiliário; ", "isCorrect": false },
+      { "text": "  intermediários financeiros monetários captam recursos junto ao público e emprestam esses recursos, criando moeda escritural; as instituições auxiliares colocam em contato poupadores e investidores, criando também moeda escritural; ", "isCorrect": false },
+      { "text": "  intermediários financeiros não monetários captam depósitos à vista e as instituições especiais não captam depósitos à vista; ", "isCorrect": false },
+      { "text": "  instituições especiais fazem empréstimos especiais, enquanto as instituições auxiliares auxiliam o Banco Central a regular o sistema. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O Banco Central do Brasil (BC ou BACEN) foi criado pela lei nº 4595, de 31/12/1964, para atuar como órgão executivo central do sistema financeiro, tendo como funções cumprir e fazer cumprir as disposições que regulam o funcionamento do sistema e as normas expedidas pelo CMN (Conselho Monetário Nacional). Entre as atribuições do Banco Central estão: " ,
+    "answers": [
+      { "text": " emitir papel-moeda, exercer o controle do crédito e exercer a fiscalização das instituições financeiras, punindo-as quando necessário; ", "isCorrect": true },
+      { "text": " determinar as taxas de recolhimento compulsório, autorizar as emissões de papel-moeda e estabelecer metas de inflação;  ", "isCorrect": false },
+      { "text": "  regulamentar as operações de redesconto de liquidez, coordenar as políticas monetárias creditícia e cambial e estabelecer metas de inflação; ", "isCorrect": false },
+      { "text": " regular o valor interno da moeda, regular o valor externo da moeda e zelar pela liquidez e solvência das instituições financeiras; ", "isCorrect": false },
+      { "text": " determinar as taxas de recolhimento compulsório, regular o valor interno e externo da moeda e autorizar as emissões de papel-moeda ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Os seguintes bens podem ser oferecidos como garantia na modalidade penhor: (I) joias e relógios; (II) imóveis; (III) aeronaves; (IV) navios. Assinale se: " ,
+    "answers": [
+      { "text": " somente I estiver correta; ", "isCorrect": true },
+      { "text": " somente I e III estiverem corretas; ", "isCorrect": false },
+      { "text": " somente II e IV estiverem corretas; ", "isCorrect": false },
+      { "text": " somente II estiver correta; ", "isCorrect": false },
+      { "text": " somente II, III e IV estiverem corretas. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O Conselho Monetário Nacional (CMN) é o órgão responsável pela fixação das diretrizes das políticas monetária, creditícia e cambial do país. Não cabem ao CMN funções executivas. O número de membros do CMN foi variável desde a sua criação (31/12/1964), de acordo com as exigências políticas e econômicas de cada Governo. Em razão da Lei nº 9.069/95, em vigor, o CMN passou a ser integrado por: " ,
+    "answers": [
+      { "text": " 3 (três) membros. ", "isCorrect": true },
+      { "text": " 11 (onze) membros; ", "isCorrect": false },
+      { "text": " 10 (dez) membros; ", "isCorrect": false },
+      { "text": " 8 (oito) membros; ", "isCorrect": false },
+      { "text": " 4 (quatro) membros; ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Sobre o SPB (Sistema de Pagamentos Brasileiro), é correto afirmar que: " ,
+    "answers": [
+      { "text": " uma das funções do SPB é dar maior agilidade e segurança às transações bancárias;  ", "isCorrect": true },
+      { "text": " o SPB não possui interligação de nenhuma ordem com o Banco Central; ", "isCorrect": false },
+      { "text": " o SPB diminuiu a carga de trabalho do BACEN, estimulando a criação e o desenvolvimento de sistemas e procedimentos que não se relacionam com a transferência de recursos financeiros; ", "isCorrect": false },
+      { "text": " os princípios básicos de funcionamento do SPB foram estabelecidos pelo Conselho Monetário Nacional (CMN) e pela Comissão de Valores Mobiliários (CVM); ", "isCorrect": false },
+      { "text": " o SPB é responsável pelo controle e fiscalização dos bancos de varejo no Brasil. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O Sistema normativo é composto pelas entidades que regulam e fiscalizam o funcionamento do Sistema Financeiro Nacional. Por esse motivo estão no topo do organograma, ou seja, as outras instituições têm que, obrigatoriamente, acatar as decisões do sistema normativo. Entre as entidades que compõem o Sistema Normativo, encontram-se: " ,
+    "answers": [
+      { "text": " Conselho Monetário Nacional e Banco Central do Brasil; ", "isCorrect": true },
+      { "text": " sociedades corretivas e distribuidoras; ", "isCorrect": false },
+      { "text": " bancos múltiplos e de investimento; ", "isCorrect": false },
+      { "text": " Banco do Brasil e Caixa Econômica Federal; ", "isCorrect": false },
+      { "text": " Bolsa de Valores e Comissão de Valores Mobiliários (CVM). ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Com relação à sociedade limitada, analise as afirmativas a seguir: I. Os sócios, após a integralização do capital social, respondem até o valor de suas quotas pelas obrigações sociais. II. Os sócios não têm responsabilidade solidária pela integralização do capital social. III. É disciplinada em capítulo próprio do Código Civil em vigor, podendo o contrato prever a regência supletiva pelas normas das companhias. IV. As quotas sociais poderão ser transferidas a terceiros, não sócios, caso o contrato seja omisso, com o consentimento de todos os sócios. Estão corretas somente as afirmativas: " ,
+    "answers": [
+      { "text": " I e III; ", "isCorrect": true },
+      { "text": " I e II; ", "isCorrect": false },
+      { "text": " II e III; ", "isCorrect": false },
+      { "text": " II e IV; ", "isCorrect": false },
+      { "text": " III e IV. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Os parâmetros básicos utilizados para orientar a concessão de crédito norteiam-se nos chamados “C’s do crédito”. São eles:  " ,
+    "answers": [
+      { "text": " caráter, capacidade, capital, condições e colateral; ", "isCorrect": true },
+      { "text": " caráter, carreira, capacidade, condições e colateral; ", "isCorrect": false },
+      { "text": " cadastro, comunicação, caráter, coação e capital ", "isCorrect": false },
+      { "text": " caráter, cadastro, capital, condições e composição; ", "isCorrect": false },
+      { "text": " caráter, cadastro, capacidade, condições e comunicação. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Os bancos ganham dinheiro com receitas de intermediação financeira e com receitas de prestação de serviços e tarifas. Entre as principais receitas bancárias de prestação de serviços e tarifas, destacam-se: I. tarifas sobre depósito à vista e sobre aplicações em CDBs; II. tarifas sobre serviços de conta corrente e de corretagem e custódia; III. tarifas sobre emissões e anuidades de cartões de crédito; IV. receitas sobre administração de fundos de investimento e administração de consórcios. Está(ão) correta(s) somente: " ,
+    "answers": [
+      { "text": "  II, III e IV. ", "isCorrect": true },
+      { "text": " I e IV; ", "isCorrect": false },
+      { "text": " II e III; ", "isCorrect": false },
+      { "text": " III; ", "isCorrect": false },
+      { "text": " IV; ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O Código Civil disciplina o empréstimo de coisas nos contratos de comodato e mútuo. Quanto às distinções entre esses contratos, analise as afirmativas a seguir: I- O comodato é um contrato consensual, unilateral e comutativo; o mútuo é um contrato real, bilateral e aleatório. II- O comodato é o empréstimo de coisas infungíveis; o mútuo é o empréstimo de coisas fungíveis. III- O comodato deve ser ajustado por escrito; o mútuo pode ser ajustado verbalmente ou por instrumento público. IV- O comodatário deverá conservar a coisa para aliená-la a terceiros; o mutuário não poderá aliená-la a terceiros. V- O comodato não transfere o domínio da coisa emprestada; o mutuário adquire o domínio da coisa do mutuante. Estão corretas somente as afirmativas:  " ,
+    "answers": [
+      { "text": " II e V; ", "isCorrect": true },
+      { "text": " I e III; ", "isCorrect": false },
+      { "text": " I e IV ", "isCorrect": false },
+      { "text": " II e IV ", "isCorrect": false },
+      { "text": " III e V. ", "isCorrect": false }
+    ]
+  },
+  {
+    "question": " Nem todas as sociedades são obrigadas a elaborar e publicar sua Demonstração Financeira, tais como: " ,
+    "answers": [
+      { "text": " microempresas enquadradas no Simples Nacional; ", "isCorrect": true },
+      { "text": " cooperativas de crédito; ", "isCorrect": false },
+      { "text": " companhias abertas; ", "isCorrect": false },
+      { "text": " sociedades anônimas controladas por sociedades do tipo limitada; ", "isCorrect": false },
+      { "text": " bancos comerciais e de investimento. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Com relação à diferença entre aval e fiança, é correto afirmar que " ,
+    "answers": [
+      { "text": " o aval é uma garantia constituída em um título de crédito, enquanto a fiança é uma garantia estabelecida em contrato ou carta; ", "isCorrect": true },
+      { "text": " o aval é uma garantia pessoal, enquanto a fiança é uma garantia real; ", "isCorrect": false },
+      { "text": " o aval é uma garantia real, enquanto a fiança é uma garantia pessoal; ", "isCorrect": false },
+      { "text": " no aval, o credor pode acionar diretamente o avalista, enquanto na fiança se aciona o fiel depositário;  ", "isCorrect": false },
+      { "text": " o aval precisa da assinatura do cônjuge, enquanto a fiança não tem essa exigência. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " As Instituições Financeiras podem ser classificadas em monetárias e não monetárias. Entre as instituições financeiras monetárias, encontram-se: " ,
+    "answers": [
+      { "text": " Bancos Comerciais e Caixas Econômicas. ", "isCorrect": true },
+      { "text": " Bancos Comerciais e Bancos de Investimento; ", "isCorrect": false },
+      { "text": " Bancos de Investimento e Bancos de Desenvolvimento; ", "isCorrect": false },
+      { "text": " Bancos Comerciais e Bancos de Desenvolvimento; ", "isCorrect": false },
+      { "text": " Bancos de Investimento e Caixas Econômicas; ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O Plano Gerador de Benefício Livre (PGBL) se difere do Vida Gerador de Benefício Livre (VGBL) no que tange ao tratamento fiscal. No caso do PGBL: " ,
+    "answers": [
+      { "text": " o imposto de renda é pago no resgate e incide sobre o total do valor resgatado; ", "isCorrect": true },
+      { "text": " o imposto de renda é pago no resgate e incide sobre os ganhos de capital; ", "isCorrect": false },
+      { "text": " o imposto de renda é pago semestralmente e incide sobre os ganhos de capital;  ", "isCorrect": false },
+      { "text": " ambas as aplicações são isentas de cobrança de imposto de renda; ", "isCorrect": false },
+      { "text": " ambas as aplicações estão sujeitas a alíquota fixa de 6% de imposto de renda.  ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O contrato de compra e venda é uma espécie de negócio jurídico pela qual um dos contratantes se obriga a transferir o domínio de certa coisa, e o outro, a pagar-lhe certo preço em dinheiro. Com relação a esse contrato, considere as afirmativas abaixo: I. O contrato de compra e venda é nulo, quando se deixa ao arbítrio exclusivo de uma das partes a fixação do preço. II. A compra e venda pode ter por objeto coisa atual ou futura. III. A lei civil autoriza expressamente a  compra e venda entre cônjuges, com relação a bens excluídos da comunhão. IV. A fixação do preço não pode, de maneira nenhuma, ser deixada ao arbítrio de terceiro. Assinale se: " ,
+    "answers": [
+      { "text": " I, II e III estiverem corretas; ", "isCorrect": true },
+      { "text": " II e IV estiverem corretas; ", "isCorrect": false },
+      { "text": " I, II e IV estiverem corretas; ", "isCorrect": false },
+      { "text": " IV estiver correta; ", "isCorrect": false },
+      { "text": " I, II, III e IV estiverem corretas. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O Conselho Monetário Nacional (CMN) é o órgão superior do Sistema Financeiro. A política do CMN objetiva: " ,
+    "answers": [
+      { "text": " regular o valor interno e externo da moeda; ", "isCorrect": true },
+      { "text": " controlar exclusivamente o fluxo de capitais estrangeiros; ", "isCorrect": false },
+      { "text": " **realizar operações de redesconto e empréstimos, como instrumento de política monetária como auxílio a problemas de liquidez;**** ", "isCorrect": false },
+      { "text": " fiscalizar a interferência de outras sociedades nos mercados financeiros e de capitais; ", "isCorrect": false },
+      { "text": " emitir papel moeda e moeda metálica. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " As operações de empréstimo concedidas por instituições financeiras à pessoa física ou jurídica que se dedique à atividade comercial ou de prestação de serviços poderão ser representadas por Cédula de Crédito Comercial ou por Nota de Crédito Comercial. Sobre esses títulos de crédito e suas garantias, é correto afirmar que: " ,
+    "answers": [
+      { "text": " a não identificação dos bens objeto da alienação fiduciária cedular não retira a eficácia da garantia, que incidirá sobre outros de mesmo gênero, quantidade e qualidade; ", "isCorrect": true },
+      { "text": " nas cédulas e notas de crédito comercial, não poderão ser pactuados juros capitalizados, sob pena de nulidade dos títulos e dos contratos a eles vinculados; ", "isCorrect": false },
+      { "text": " a não inscrição da cédula de crédito comercial no Cartório de Registro de Imóveis retira sua validade tanto entre as partes quanto em relação a terceiros; ", "isCorrect": false },
+      { "text": " o beneficiário da cédula de crédito comercial é a instituição financeira concedente do empréstimo; na nota de crédito comercial, a instituição financeira é a emitente do título; ", "isCorrect": false },
+      { "text": " é obrigatória a descrição dos bens objeto de penhor e do local de seu depósito quando a  garantia se constituir através de penhor de títulos de crédito ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Com relação aos títulos de crédito, é correto afirmar que: " ,
+    "answers": [
+      { "text": " caso a quantia, em uma nota promissória, esteja escrita mais de uma vez, quer por extenso, quer em algarismos, havendo divergência, prevalecerá a indicação da quantia de menor valor. ", "isCorrect": true },
+      { "text": " para a execução de uma duplicata não aceita e não devolvida, há obrigatoriedade do protesto por falta de pagamento e comprovação da remessa da mercadoria; ", "isCorrect": false },
+      { "text": " a omissão de qualquer requisito legal, que tire ao escrito a sua validade como título de crédito, implica a invalidade do negócio jurídico que lhe deu origem; ", "isCorrect": false },
+      { "text": " o aval deve ser dado no verso ou no anverso do próprio título, sendo necessário conter a data e a assinatura do avalista; ", "isCorrect": false },
+      { "text": " em nenhuma hipótese o emitente de uma nota promissória pode opor ao portador endossatário as exceções que poderia opor contra o endossante; ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O processo do crédito à pessoa física começa com a coleta e a verificação da veracidade das informações obtidas na ficha de cadastro e em consultas às agências especializadas. Essas informações permitem a atribuição de uma pontuação (credit core), após a qual se aceita ou não o potencial cliente como merecedor de um limite para uma ou mais operações. No caso da pessoa física, a informação que mais interfere na não aceitação de um potencial cliente é: " ,
+    "answers": [
+      { "text": " existência de restrições e/ou desabonos no nome do potencial cliente; ", "isCorrect": true },
+      { "text": " idade entre 45 e 60 anos; ", "isCorrect": false },
+      { "text": " baixo patrimônio em nome do potencial cliente; ", "isCorrect": false },
+      { "text": " participação do potencial cliente em sociedades de pequeno porte; ", "isCorrect": false },
+      { "text": " renda familiar entre R$ 1.500,00 e R$ 3.000,00. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Pedreira Pedra Mole Ltda. pretende descontar duplicatas perante o Banco X. Todos os títulos estão vencidos há mais de quarenta dias e sem pagamento pelo aceitante; também não houve protesto por falta de pagamento. Considerando-se que a orientação do Banco X para desconto de duplicatas é sempre poder cobrar do endossante através de processo de execução, a conduta a ser adotada, com a correspondente justificativa, é: " ,
+    "answers": [
+      { "text": " recusar o desconto das duplicatas, porque, caso o Banco figure como endossatário, não poderá exercer o direito de regresso em face do endossante; ", "isCorrect": true },
+      { "text": " recusar o desconto das duplicatas, porque o aceite na duplicata é proibido, e seu descumprimento acarreta a perda do direito de ação em face dos coobrigados; ", "isCorrect": false },
+      { "text": " aceitar o desconto das duplicatas, porque será possível promover ação de execução em face do endossante, já que este é sempre um coobrigado pelo pagamento; ", "isCorrect": false },
+      { "text": " aceitar o desconto das duplicatas, porque será possível promover ação de execução em face do endossante, já que este é sempre um coobrigado pelo pagamento;  ", "isCorrect": false },
+      { "text": " aceitar o desconto das duplicatas, desde que os títulos estejam protestados por falta de pagamento e acompanhados do comprovante de entrega da mercadoria ", "isCorrect": false }
+    ]
+  },
+  {
+    "question": " Zabelê tem 17 (dezessete) anos de idade e pediu a seu pai a abertura de uma conta corrente bancária para depositar recursos. O pai concordou com o pedido do filho e procurou a instituição financeira. Na abertura de conta, o empregado responsável irá orientar o futuro correntista que: " ,
+    "answers": [
+      { "text": " o pai de Zabelê deverá ser identificado na abertura da conta corrente como responsável assistente do relativamente incapaz, que poderá movimentá-la;  ", "isCorrect": true },
+      { "text": " o pai de Zabelê é considerado representante legal do absolutamente incapaz e deverá movimentar a conta corrente simultaneamente com ele; ", "isCorrect": false },
+      { "text": " o pai de Zabelê deverá obter autorização judicial prévia à abertura de conta corrente em favor do relativamente incapaz e deverá movimentá-la com ele; ", "isCorrect": false },
+      { "text": " Zabelê poderá abrir a conta corrente e movimentá-la independentemente de autorização de seu pai porque é plenamente capaz para os atos civis; ", "isCorrect": false },
+      { "text": " por ser relativamente incapaz, Zabelê deverá estar autorizado pelos seus pais e tutor, que os assistirão na abertura da conta e responderão solidariamente com ele. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O cheque é um dos instrumentos disponibilizados pelos bancos para os clientes movimentarem suas contas correntes. Acerca desse título de crédito, considere as seguintes afirmativas: I. Os cheques cruzados só podem ser pagos presencialmente ao beneficiário no estabelecimento sobre o qual foi sacado. II. Os bancos podem recusar o pagamento de um cheque, caso haja insuficiência ou divergência na assinatura constante de seus cadastros. III. Os cheques emitidos acima de R$ 75,00 (setenta e cinco reais) devem, obrigatoriamente, ser nominais.Assinale se: " ,
+    "answers": [
+      { "text": " apenas II estiver correta; ", "isCorrect": true },
+      { "text": " somente I e II estiverem corretas; ", "isCorrect": false },
+      { "text": " somente I e III estiverem corretas; ", "isCorrect": false },
+      { "text": " somente II e III estiverem corretas; ", "isCorrect": false },
+      { "text": " somente I, II e III estiverem corretas. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Na assinatura de contrato pelo Banco X com sociedade empresária do tipo limitada foram emitidas pelo administrador da sociedade cinco notas promissórias, cada uma no valor de R$12.000,00 (doze mil reais), vinculadas ao cumprimento do contrato. Rosa de Lima, empregada do banco, recebeu o contrato e os títulos para conferência e verificou que em nenhum deles foi indicado o lugar de emissão. Ao consultar seu superior, recebeu a informação correta de que as notas promissórias são: " ,
+    "answers": [
+      { "text": " válidas, pois na falta de indicação do lugar de emissão presume-se que esta se deu no domicílio do subscritor; ", "isCorrect": true },
+      { "text": " nulas e deverão ser substituídas por outras onde conste expressamente o lugar de emissão; ", "isCorrect": false },
+      { "text": " válidas, por se tratar de título de crédito causal vinculado a um contrato de mútuo de fins econômicos;  ", "isCorrect": false },
+      { "text": " nulas, porque deveria ter sido emitida cédula de crédito bancário para qualquer contrato bancário; ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Foi celebrado contrato no âmbito do mercado financeiro entre o Banco W e a sociedade empresária Telha Empreendimentos Turísticos Ltda. pela qual o primeiro terá a propriedade fiduciária em caráter resolúvel de certo bem móvel fungível, em garantia do financiamento concedido, e a segunda, uso e gozo do referido bem. De acordo com as disposições legais relativas a esse contrato e ao procedimento de cobrança, é correto afirmar que, em caso de inadimplemento ou mora da obrigação garantida: " ,
+    "answers": [
+      { "text": " o credor poderá vender a terceiros o bem objeto da propriedade fiduciária independente de leilão, hasta pública ou qualquer outra medida judicial ou extrajudicial; ", "isCorrect": true },
+      { "text": "  o credor deverá interpor o protesto extrajudicial e, com a obtenção da lavratura e registro do protesto, requerer judicialmente a busca e apreensão do bem para posterior venda em hasta pública; ", "isCorrect": false },
+      { "text": " o credor poderá adjudicar em juízo imediatamente o bem, independentemente de previsão contratual ou purgação da mora pelo devedor; ", "isCorrect": false },
+      { "text": " o devedor poderá reter o bem em seu poder até que o credor lhe pague as despesas feitas com a coisa, e os prejuízos que da sua conservação provierem, se devidamente provados; ", "isCorrect": false },
+      { "text": " verificada a mora, independentemente de notificação ou interpelação, o devedor poderá requerer o depósito judicial da coisa para evitar sua alienação extrajudicial pelo credor.  ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Augusto Cardoso contraiu obrigação perante o Banco W S/A com garantia pessoal (fiança) prestada por Cristóvão Carira. No contrato de fiança ficou estabelecido que o fiador é garante solidário ao afiançado, inexistindo qualquer benefício de ordem a seu favor. Na data do vencimento, Augusto Cardoso obteve do credor uma prorrogação de prazo para o pagamento por 120 (cento e vinte) dias, sendo tal acordo celebrado por escrito e sem a anuência ou ciência de Cristóvão Carira. Com base nas disposições do Código Civil relativas ao contrato de fiança, é correto afirmar que:  " ,
+    "answers": [
+      { "text": " o fiador ficou desobrigado ao pagamento da obrigação em caso de inadimplemento, operando-se a extinção da fiança; ", "isCorrect": true },
+      { "text": " o fiador permanece obrigado ao pagamento porque ao prestar a fiança se declarou garante solidário ao afiançado;  ", "isCorrect": false },
+      { "text": " do fiador poderá ser exigido o pagamento imediato da dívida, mas perante o afiançado prevalecerá o acordo entre este e o credor; ", "isCorrect": false },
+      { "text": " deverá o fiador interpelar judicialmente o afiançado para ser incluído como parte no acordo firmado por este e o credor; ", "isCorrect": false },
+      { "text": " o credor deverá interpelar o fiador para se manifestar sobre a prorrogação, em 2 (dois) dias, sob pena de nulidade do acordo. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O Fundo Constitucional do Nordeste (FNE) tem seus recursos administrados pelo Banco do Nordeste do Brasil (BNB). Quanto a esse Fundo, analise as afirmativas a seguir: I. Na formulação dos programas de financiamento do FNE, será observada a proibição de aplicação de recursos a fundo perdido. II. Os planos regionais de desenvolvimento poderão estabelecer prioridades para fins de distribuição dos recursos entre os beneficiários do FNE. III. Os recursos do FNE devem ser aplicados no Nordeste, assim compreendido como a região abrangida pelos Estados do Maranhão, Piauí, Ceará, Rio Grande do Norte, Paraíba, Pernambuco, Alagoas, Sergipe e Bahia. Está(ão) correta(s) somente a(s) afirmativa(s): " ,
+    "answers": [
+      { "text": " I e II; ", "isCorrect": true },
+      { "text": " I e III; ", "isCorrect": false },
+      { "text": " II e III; ", "isCorrect": false },
+      { "text": " II; ", "isCorrect": false },
+      { "text": " I, II e III ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Num contrato bancário de concessão de crédito com garantia hipotecária de bem imóvel de propriedade do mutuário Cooperativa do Vale do Rio Pardo, cujo valor de avaliação é de R$4.590.000,00 (quatro milhões quinhentos e noventa mil reais), é imprescindível que: " ,
+    "answers": [
+      { "text": " seja lavrada escritura pública de hipoteca, tendo em vista o valor do imóvel e o negócio jurídico ser constitutivo de garantia real; ", "isCorrect": true },
+      { "text": " seja lavrado instrumento particular de hipoteca, tendo em vista que o devedor é uma cooperativa e o elevado valor do imóvel; ", "isCorrect": false },
+      { "text": "  as partes escolham previamente qual será o instrumento de constituição da hipoteca; sendo instrumento particular, deverá ser averbado no Registro de Títulos e Documentos; ", "isCorrect": false },
+      { "text": " seja lavrado instrumento particular de hipoteca, sob pena de nulidade por descumprimento da forma prescrita em lei para constituição de garantias reais;  ", "isCorrect": false },
+      { "text": " as partes escolham previamente qual será o instrumento de constituição da hipoteca; sendo instrumento público, deverá ser lavrado pelo Registro Empresarial. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Simão Dias depositou em sua conta corrente um cheque emitido por Tobias Barreto no valor de R$ 2.590,00 (dois mil quinhentos e noventa reais). No verso do cheque, o tomador realizou um endosso em favor do sacado. Em conformidade com as normas legais referentes ao cheque, é correto afirmar que: " ,
+    "answers": [
+      { "text": " o endosso ao sacado vale apenas como quitação, não podendo o cheque ser transferido por novo endosso. ", "isCorrect": true },
+      { "text": " o sacado não poderá efetuar a compensação desse cheque porque o endosso ao sacado é nulo;  ", "isCorrect": false },
+      { "text": " o sacado torna-se coobrigado pelo pagamento do cheque, respondendo solidariamente com o emitente; ", "isCorrect": false },
+      { "text": " com o endosso ao sacado, o emitente está se exonerando da garantia em caso de não pagamento do cheque;  ", "isCorrect": false },
+      { "text": " o sacado não poderá efetuar a compensação deste cheque porque ele não pode figurar como endossatário; ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " No Brasil, uma característica do modelo de negócios dos bancos na era digital é a " ,
+    "answers": [
+      { "text": " disseminação das plataformas on-line. ", "isCorrect": true },
+      { "text": " maior proximidade física com os clientes nas agências bancárias. ", "isCorrect": false },
+      { "text": " dispensa de regulação por parte do Banco Central do Brasil ", "isCorrect": false },
+      { "text": " lentidão dos canais de comunicação. ", "isCorrect": false },
+      { "text": " menor oferta de produtos e serviços aos clientes. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Quando um indivíduo, ao comprar um produto em uma loja, efetua o pagamento utilizando papel-moeda (cash), a moeda estará cumprindo, nessa operação, a função de " ,
+    "answers": [
+      { "text": " meio de troca ", "isCorrect": true },
+      { "text": " unidade de medida de valor ", "isCorrect": false },
+      { "text": " reserva de valor ", "isCorrect": false },
+      { "text": " financiamento ", "isCorrect": false },
+      { "text": " precaução ", "isCorrect": false }
+    ]
+  },
+  {
+    "question": " O Internet banking facilita a realização de transações bancárias, mas também oferece risco para usuários finais que são pessoas naturais. Para minimizar os riscos, o banco Central do Brasil determina que os participantes provedores de conta transacional do Pix devem estabelecer limites máximos de valor para iniciação de um Pix com finalidade de compra ou de transferência, por conta transacional, e possibilidade de diferenciação do limite estabelecido para o período diurno e para o período noturno. Os participantes poderão, a seu critério, ofertar funcionalidade para que o usuário final possa solicitar que o período noturno compreenda o período entre " ,
+    "answers": [
+      { "text": " 22 horas e 6 horas ", "isCorrect": true },
+      { "text": " 21 horas e 6 horas ", "isCorrect": false },
+      { "text": " 23 horas e 6 horas ", "isCorrect": false },
+      { "text": " 0 hora e 7 horas ", "isCorrect": false },
+      { "text": " 1 hora e 7 horas ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Existem grupos que trabalham cooperativamente para validar as transações na Blockchain, por meio da solução de cálculos complexos, e que concordam em dividir, proporcionalmente, recompensas de bloco entre eles, de acordo com sua contribuição nesse trabalho. Tais grupos são denominados " ,
+    "answers": [
+      { "text": " pools de mineração ", "isCorrect": true },
+      { "text": " grupos de data lake ", "isCorrect": false },
+      { "text": " redes de extração  ", "isCorrect": false },
+      { "text": " cooperativas de blocos ", "isCorrect": false },
+      { "text": " pools de distribuição ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O Banco Central tem dedicado atenção às entidades identificadas como shadow banking (bancos sombra). Essas entidades já se encontram sob alguma regulação e supervisão, feita por autoridades com jurisdição nacional, como a(o)  " ,
+    "answers": [
+      { "text": " CVM ", "isCorrect": true },
+      { "text": " Banco Caixa Econômica ", "isCorrect": false },
+      { "text": " Banco do Brasil ", "isCorrect": false },
+      { "text": " Banco SICRED ", "isCorrect": false },
+      { "text": " Open finance ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um consultor financeiro capta clientela para investir em instituição financeira legalmente autorizada a funcionar pelo Banco Central do Brasil, sendo eficiente na sua atividade. Em determinado momento, é informado pelo seu contato na referida instituição de que um dos indivíduos indicados estaria realizando operações de aportes de recursos em descompasso com sua capacidade financeira. Nos termos da Carta Circular no  4.001, de 29 de janeiro de 2020, os fatos descritos pertinentes aos aportes constituem a ocorrência de indícios de suspeita de lavagem de dinheiro para fins dos procedimentos relacionados às suas atividades financeiras de " ,
+    "answers": [
+      { "text": " monitoramento ", "isCorrect": true },
+      { "text": " bloqueio ", "isCorrect": false },
+      { "text": " interdição ", "isCorrect": false },
+      { "text": " exclusão ", "isCorrect": false },
+      { "text": " análise ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Uma funcionária de determinada instituição financeira segue religião de matriz africana, fato conhecido dos demais colegas de trabalho. Após reunião com a equipe da qual participa, é surpreendida com afirmações desairosas em relação aos que são integrantes da referida religião. Diante disso, formula reclamação ao Coordenador Geral do grupo de trabalho, assentando sua inconformidade com o evento. Essa situação não ocorreria facilmente no Banco do Brasil, uma vez que, nos termos do seu Código de Ética, as relações devem ser pautadas pelo respeito a várias diferenças, dentre as quais figuram as diferenças " ,
+    "answers": [
+      { "text": " religiosas ", "isCorrect": true },
+      { "text": " pessoais ", "isCorrect": false },
+      { "text": " cambiais ", "isCorrect": false },
+      { "text": " preventivas ", "isCorrect": false },
+      { "text": " alteradas ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um pesquisador em ciências da informação busca descobrir como os vários sistemas financeiros nacionais tratam a proteção dos seus bancos de dados contra ataques cibernéticos que se tornaram comuns na contemporaneidade. Nos termos da Resolução CMN no  4.658, de 26 de abril de 2018, que dispõe sobre a política de segurança cibernética aplicável às instituições financeiras, devem ser observados, no mínimo, os controles específicos, incluindo os voltados para a rastreabilidade da informação, que busquem garantir a segurança das " ,
+    "answers": [
+      { "text": " informações sensíveis ", "isCorrect": true },
+      { "text": " relações empresariais ", "isCorrect": false },
+      { "text": " situações sigilosas ", "isCorrect": false },
+      { "text": " bases financeiras ", "isCorrect": false },
+      { "text": " questões litigiosas ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Se os preços das mercadorias produzidas no Brasil e nos Estados Unidos forem calculados em uma mesma moeda comum (por exemplo, em Dólar americano) e, na pressuposição de que todos os demais fatores permaneçam constantes, uma desvalorização real da moeda brasileira em relação ao Dólar americano " ,
+    "answers": [
+      { "text": " barateará relativamente os produtos exportados do Brasil para os Estados Unidos. ", "isCorrect": true },
+      { "text": " desestimulará as exportações brasileiras para os Estados Unidos. ", "isCorrect": false },
+      { "text": " tornará relativamente mais baratas as viagens turísticas dos brasileiros para os Estados Unidos. ", "isCorrect": false },
+      { "text": " encarecerá relativamente os produtos exportados do Brasil para os Estados Unidos. ", "isCorrect": false },
+      { "text": " manterá inalterados os preços dos produtos exportados do Brasil para os Estados Unidos. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A função principal das operações de Tesouraria bancária é " ,
+    "answers": [
+      { "text": " administrar os fluxos de despesas e receitas da instituição financeira, visando a controlar os gastos e a maximizar os lucros ", "isCorrect": true },
+      { "text": " aprimorar a qualidade de atendimento aos clientes. ", "isCorrect": false },
+      { "text": " ampliar o uso de serviços digitais nas transações financeiras. ", "isCorrect": false },
+      { "text": " aumentar a carteira de serviços financeiros oferecidos aos clientes ", "isCorrect": false },
+      { "text": " gerenciar as atividades de marketing, publicidade e propaganda da instituição financeira. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O comportamento das taxas de câmbio nominais e reais é fundamental para a tomada de decisões por parte de produtores e investidores. Enquanto as taxas de câmbio nominais são cotadas diariamente nos mercados de câmbio, as taxas de câmbio reais são determinadas pelas forças subjacentes à paridade real do poder de compra entre a moeda nacional e a moeda estrangeira. Considere o conceito de paridade relativa real do poder de compra. Considere, também, que, no início de um determinado período, a taxa de câmbio nominal R$/US$ seja igual à paridade relativa real do poder de compra. Nesse contexto, para que a paridade relativa real do poder de compra (ou seja, a taxa de câmbio real R$/US$) fique constante, entre o início e o final daquele período, será preciso que a taxa de desvalorização nominal do Real brasileiro em relação ao Dólar americano seja " ,
+    "answers": [
+      { "text": " igual à diferença entre as taxas de inflação brasileira e americana, acumuladas no período. ", "isCorrect": true },
+      { "text": " igual à diferença entre as taxas de inflação americana e brasileira, acumuladas no período. ", "isCorrect": false },
+      { "text": " igual à taxa de inflação brasileira acumulada no período. ", "isCorrect": false },
+      { "text": " igual à taxa de inflação americana acumulada no período. ", "isCorrect": false },
+      { "text": " livremente cotada no mercado de câmbio, sem relação com as taxas de inflação brasileira e americana, acumuladas no período ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A oferta da moeda (meios de pagamento M1) no Brasil tende a se expandir se as autoridades monetárias " ,
+    "answers": [
+      { "text": " comprarem liquidamente títulos públicos em operações de mercado aberto ", "isCorrect": true },
+      { "text": " aumentarem a taxa de recolhimento de reserva compulsória sobre os depósitos nos bancos ", "isCorrect": false },
+      { "text": " aumentarem a taxa do redesconto dos empréstimos de liquidez. ", "isCorrect": false },
+      { "text": " aumentarem os dividendos pagos pelas empresas públicas ", "isCorrect": false },
+      { "text": " diminuírem os impostos indiretos incidentes sobre os bens de investimento.  ", "isCorrect": false }
+    ]
+  },
+  {
+    "question": " Considerando-se o atual regime cambial brasileiro, uma redução pronunciada da taxa de juros dos Estados Unidos, relativamente à taxa de juros no Brasil, tenderia a fazer com que " ,
+    "answers": [
+      { "text": " a moeda brasileira, o Real, se valorizasse cambialmente em relação ao Dólar americano. ", "isCorrect": true },
+      { "text": " as exportações brasileiras para os Estados Unidos fossem cambialmente estimuladas ", "isCorrect": false },
+      { "text": " as reservas brasileiras de divisas em Dólar americano diminuíssem.  ", "isCorrect": false },
+      { "text": " os fluxos de capitais financeiros brasileiros para os Estados Unidos aumentassem. ", "isCorrect": false },
+      { "text": " as importações brasileiras originárias dos Estados Unidos fossem cambialmente desestimuladas. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " No caso de um regime de taxa de câmbio fixa entre o Real e o Dólar americano, verifica-se que as " ,
+    "answers": [
+      { "text": " taxas de juros no Brasil e nos Estados Unidos seriam muito próximas, se houvesse muita mobilidade de capital financeiro entre esses dois países. ", "isCorrect": true },
+      { "text": " diferenças de taxa de inflação entre o Brasil e os Estados Unidos não alterariam a taxa de câmbio real entre as moedas desses dois países. ", "isCorrect": false },
+      { "text": " políticas monetárias expansionistas nos Estados Unidos causariam recessão no Brasil. ", "isCorrect": false },
+      { "text": " políticas monetárias no Brasil e nos Estados Unidos seriam sempre contracionistas ", "isCorrect": false },
+      { "text": "  taxas de câmbio entre o Real e a moeda europeia seriam fixas ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O Conselho Monetário Nacional (CMN) é um órgão importante do Sistema Financeiro Nacional. As atribuições do CMN são inúmeras, entre as quais " ,
+    "answers": [
+      { "text": " autorizar a emissão de papel moeda. ", "isCorrect": true },
+      { "text": " regular os serviços de compensação de cheques e outros papéis ", "isCorrect": false },
+      { "text": " determinar, via Comitê de Política Monetária, a taxa de juros Selic. ", "isCorrect": false },
+      { "text": " autorizar o funcionamento das instituições financeiras operando no país. ", "isCorrect": false },
+      { "text": " emitir títulos do CMN, responsabilizando-se pelo seu resgate. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " D é um deficiente visual e necessita realizar atendimento presencial em determinada agência bancária. Dirige-se ao local onde possui conta corrente e vários investimentos com seu acompanhante vidente, que também necessita do mesmo serviço. Ao ingressar no estabelecimento bancário, verifica a existência de longa fila para obtenção de idêntico serviço. O gerente da agência, constatando a necessidade do correntista, pessoalmente disponibiliza um caixa, que presta os serviços a D, bem como ao seu acompanhante. Nos termos da Lei no  13.146, de 06 de julho de 2015, a providência do gerente " ,
+    "answers": [
+      { "text": " realiza o direito a receber atendimento prioritário ", "isCorrect": true },
+      { "text": " confronta com o princípio da igualdade entre os correntistas ", "isCorrect": false },
+      { "text": " caracteriza um privilégio que deve ser reprimido ", "isCorrect": false },
+      { "text": " está em dissonância com o posto na norma por privilegiar o acompanhante ", "isCorrect": false },
+      { "text": " é medida sem proteção pelo estatuto legal. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um indivíduo é correntista de determinada instituição financeira que lhe apresenta, através dos responsáveis internos, proposta para investimento no mercado de renda variável, apresentando o mercado de capitais como capaz de superar o rendimento fixo de várias aplicações financeiras, sem apresentar as desvantagens e perigos desse setor da economia. Nesse contexto, nos termos da Lei no  8.078/1990, a atuação dos prepostos da instituição financeira estaria violando a regra da " ,
+    "answers": [
+      { "text": " informação adequada ", "isCorrect": true },
+      { "text": " lucratividade planejada ", "isCorrect": false },
+      { "text": " menor onerosidade ", "isCorrect": false },
+      { "text": " capacidade econômica ", "isCorrect": false },
+      { "text": " conservação de valores ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um cliente da instituição financeira M.O. apresenta reclamação sobre lançamentos indevidos na sua conta corrente sobre os quais solicitou esclarecimento. A instituição quedou-se inerte, tendo o cliente renovado seu pleito por vinte outras vezes. Sem esmorecer, procurou saber quais seriam as alternativas previstas na legislação para amparar sua pretensão, uma vez que foram esgotados os meios normais de acesso ao cliente previstos. Nos termos da Resolução CMN no  4.860, de 23 de outubro de 2020, o caso deve merecer a intervenção da " ,
+    "answers": [
+      { "text": " Ouvidoria da instituição ", "isCorrect": true },
+      { "text": " Presidência da instituição  ", "isCorrect": false },
+      { "text": " Auditoria da instituição ", "isCorrect": false },
+      { "text": " Diretoria da instituição ", "isCorrect": false },
+      { "text": " Corregedoria da instituição ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A gerência de uma agência bancária analisou os padrões de qualidade no atendimento aos clientes ao longo de um mês, e, como resultado, iniciou uma série de treinamentos focados na execução dos serviços prometidos aos clientes de forma segura e precisa. Dessa forma, a gerência está propondo tratar da dimensão da qualidade denominada " ,
+    "answers": [
+      { "text": " confiabilidade ", "isCorrect": true },
+      { "text": " entrega ", "isCorrect": false },
+      { "text": " empatia ", "isCorrect": false },
+      { "text": " resposta ", "isCorrect": false },
+      { "text": " tangibilidade ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O diretor de um banco está preocupado com a jornada do cliente e tem concentrado atenção na fase da assimilação, a qual considera a mais importante. Levando-se em conta o caminho dos 5As do cliente, na fase de assimilação, o consumidor " ,
+    "answers": [
+      { "text": " é exposto às marcas a partir de experiências, anúncios e recomendações. ", "isCorrect": true },
+      { "text": " processa as mensagens das marcas e é atraído por algumas dessas mensagens ", "isCorrect": false },
+      { "text": " pesquisa mais informações a respeito das marcas ofertadas no mercado. ", "isCorrect": false },
+      { "text": " decide qual marca e onde comprar o produto ou serviço desejado. ", "isCorrect": false },
+      { "text": " passa a dar preferência por uma marca específica e torna-se leal a essa marca. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A empresa X fabrica bijuterias de prata há mais de dez anos e conseguiu um empréstimo bancário que será usado em ações para ampliar as suas vendas. A diretora de marketing decidiu que parte dos recursos será gasto em novas estratégias de comunicação da empresa e solicitou que a equipe de marketing desenvolvesse uma proposta de inbound marketing A proposta que atende à solicitação da diretora e corresponde a uma ação de inbound marketing é a seguinte:" ,
+    "answers": [
+      { "text": " Produzir vídeos que ensinam como manter e customizar bijuterias de prata e disponibilizar esse material para livre acesso em redes sociais ", "isCorrect": true },
+      { "text": " Contratar consultores para a avaliação de todo o processo produtivo, visando à redução dos custos de produção e, consequentemente, à redução dos preços ", "isCorrect": false },
+      { "text": " Reunir os revendedores espalhados por todo o país via videoconferência e promover um treinamento focado em argumentos de persuasão. ", "isCorrect": false },
+      { "text": " Solicitar aos engenheiros de produto que eles desenvolvam ligas de prata mais resistentes e apresentar essa nova característica do produto em propagandas. ", "isCorrect": false },
+      { "text": " Montar uma rede própria de lojas e tratar internamente de todo o processo de comercialização das bijuterias para fortalecer o marketing de relacionamento. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Uma característica do atendimento bancário, que interfere decisivamente na percepção dos clientes, é a inseparabilidade – cuja importância se manifesta no fato de  que o prestador de serviço é o serviço. Sendo assim, para administrar corretamente essa característica, o agente comercial deve estar preparado para " ,
+    "answers": [
+      { "text": " orientar os clientes na escolha de produtos adequados ", "isCorrect": true },
+      { "text": " assumir totalmente os fatos que ocorrem em sua agência.  ", "isCorrect": false },
+      { "text": " completar o estoque pleno dos serviços prestados. ", "isCorrect": false },
+      { "text": " compreender seus próprios benefícios e anseios ", "isCorrect": false },
+      { "text": " tornar tangíveis os serviços ofertados aos clientes. ", "isCorrect": false }
+    ]
+  },
+  {
+    "question": " Frequentemente, os bancos realizam pesquisas de satisfação dos clientes com o objetivo de " ,
+    "answers": [
+      { "text": " aperfeiçoar o atendimento prestado por seus funcionários. ", "isCorrect": true },
+      { "text": " acompanhar o passo a passo do cotidiano de suas equipes. ", "isCorrect": false },
+      { "text": " fornecer parâmetros éticos para suas ações sociais. ", "isCorrect": false },
+      { "text": " fortalecer a vigilância sobre a equipe de atendimento. ", "isCorrect": false },
+      { "text": " monitorar o trabalho que vem dos seus fornecedores ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Para aumentar o valor percebido pelo cliente, o agente comercial deve reduzir os custos da transação, incluindo aqueles que vão além dos fatores financeiros, como, por exemplo, o " ,
+    "answers": [
+      { "text": " desgaste emocional até a definição do negócio ", "isCorrect": true },
+      { "text": " impacto da aquisição no orçamento familiar ", "isCorrect": false },
+      { "text": " montante em dinheiro investido ao longo do tempo ", "isCorrect": false },
+      { "text": " parcelamento do total investido, quando houve ", "isCorrect": false },
+      { "text": " preço dos produtos ofertados pelos concorrentes ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Uma instituição bancária criou três contas únicas que não existiam no mercado financeiro: Digital, para movimentação exclusiva pelos seus canais de conveniência, Universitária, para pessoas que estão cursando o Ensino Superior, e Agrícola, para produtores rurais, com concessão de crédito e benefícios exclusivos. Essa ação é denominada " ,
+    "answers": [
+      { "text": " estratégia de posicionamento ", "isCorrect": true },
+      { "text": " tecnografia ", "isCorrect": false },
+      { "text": " personalização em massa ", "isCorrect": false },
+      { "text": " hospitalidade ", "isCorrect": false },
+      { "text": " vantagem competitiva sustentável ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O diretor operacional de um banco destacou que, para tomar decisões estratégicas inteligentes, é preciso entender como o esforço de vendas está alinhado às variáveis do ambiente interno do sistema de marketing organizacional, tais como as seguintes: " ,
+    "answers": [
+      { "text": " estrutura de preços e sistema de distribuição ", "isCorrect": true },
+      { "text": " demografia e fatores legais e políticos ", "isCorrect": false },
+      { "text": " fatores socioculturais e planejamento do produto ", "isCorrect": false },
+      { "text": " competição e ambiente físico ", "isCorrect": false },
+      { "text": " condições econômicas e tecnologia ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Ao decidir pela aplicação em um ativo financeiro, os investidores levam em conta a chamada taxa de juros real ex-ante. Se eles considerarem a taxa de juros SELIC, o índice da taxa de juros real ex-ante para os próximos 12 meses é entendido como o índice da " ,
+    "answers": [
+      { "text": " SELIC nominal esperada para os próximos 12 meses, descontado o índice da variação cambial esperada para os próximos 12 meses ", "isCorrect": true },
+      { "text": " SELIC nominal esperada para os próximos 12 meses, descontado o índice da inflação esperada para os próximos 12 meses. ", "isCorrect": false },
+      { "text": " SELIC nominal acumulada nos últimos 12 meses, descontado o índice de variação cambial acumulada nos últimos 12 meses ", "isCorrect": false },
+      { "text": " SELIC nominal acumulada nos últimos 12 meses, descontado o índice da inflação acumulada nos últimos 12 meses. ", "isCorrect": false },
+      { "text": " SELIC nominal acumulada nos últimos 12 meses, descontado o índice de impostos acumulados nos últimos 12 meses, incidentes sobre os rendimentos do ativo. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " As operações diárias de compra e venda de divisas estrangeiras (dólares, euros, libras esterlinas, dentre outras) são parte integrante do mercado " ,
+    "answers": [
+      { "text": " cambial ", "isCorrect": true },
+      { "text": " monetário ", "isCorrect": false },
+      { "text": " acionário ", "isCorrect": false },
+      { "text": " creditício ", "isCorrect": false },
+      { "text": " de trabalho ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A equação da paridade dos juros, a descoberto, estabelece que: taxa de juros interna – taxa de juros externa = expectativas de depreciação da moeda nacional em relação ao Dólar americano + risco-país Admita-se que a deterioração de indicadores macroeconômicos fundamentais no Brasil, como o déficit fiscal e o déficit em transações correntes do balanço de pagamentos, provoque o aumento do risco-país e a fuga de capitais estrangeiros do Brasil. Se a equação de paridade dos juros for aplicada ao caso brasileiro, supondo-se que todos os demais indicadores econômicos permaneçam constantes, para que os influxos de capitais estrangeiros no Brasil voltem a se estabilizar, será necessário " ,
+    "answers": [
+      { "text": " depreciar o Real brasileiro em relação ao Dólar americano. ", "isCorrect": true },
+      { "text": " aumentar o risco-país. ", "isCorrect": false },
+      { "text": " aumentar a taxa de juros externa ", "isCorrect": false },
+      { "text": " aumentar a taxa de juros interna. ", "isCorrect": false },
+      { "text": " reduzir a taxa de juros interna. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Considere-se a execução, em determinado ano, do orçamento público consolidado do Brasil. Se, no final desse mesmo ano, o total das despesas primárias relativas a gastos em custeio e investimento – excluídas as despesas de juros incidentes sobre o estoque da dívida pública – tiver sido superior ao total das receitas de impostos arrecadados, o governo brasileiro terá fechado o ano com  " ,
+    "answers": [
+      { "text": " superávit fiscal nominal ", "isCorrect": true },
+      { "text": " déficit fiscal primário ", "isCorrect": false },
+      { "text": " déficit fiscal nominal ", "isCorrect": false },
+      { "text": " superávit fiscal primário ", "isCorrect": false },
+      { "text": " orçamento equilibrado ", "isCorrect": false }
+    ]
+  },
+  {
+    "question": " Um pesquisador na área de finanças públicas e privadas atua, também, como consultor de negócios. Em determinado momento, recebe proposta para assessorar empresário que deseja constituir sociedade para negociar informações constantes de dados de instituições financeiras. Tal atividade não é autorizada pela legislação. O pesquisador aduz que, consoante a Lei Complementar no  105/2001, devem observar o sigilo em suas operações ativas e passivas e serviços prestados diversas instituições financeiras, dentre as quais administradoras de " ,
+    "answers": [
+      { "text": " empréstimo de automóveis ", "isCorrect": true },
+      { "text": " imóveis urbanos ", "isCorrect": false },
+      { "text": " locação de móveis ", "isCorrect": false },
+      { "text": " bens antigos de raridade comprovada ", "isCorrect": false },
+      { "text": " mercado de balcão organizado ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " No Brasil, a fixação das diretrizes e normas concernentes às políticas monetária, creditícia e cambial, é da competência do " ,
+    "answers": [
+      { "text": " Conselho Monetário Nacional  ", "isCorrect": true },
+      { "text": " Ministério do Planejamento, Orçamento e Gestão ", "isCorrect": false },
+      { "text": " Ministério da Fazenda ", "isCorrect": false },
+      { "text": " Banco Central do Brasil ", "isCorrect": false },
+      { "text": " Banco do Brasil ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A reação dos mercados de câmbio ontem deu uma boa sinalização de qual pode ser o caminho caso Washington intensifique o tom em relação às relações comerciais dos Estados Unidos com o restante do mundo. As moedas emergentes recuaram a mínimas em dez dias, segundo dados do Deutsche Bank, sob peso da queda de divisas correlacionadas às matérias-primas – como o rand sulafricano e o real brasileiro (...). No Brasil, o dólar fechou em alta de 0,90%, para R$3,290, no maior nível desde o último 9 de fevereiro. Na máxima, a cotação beirou os R$3,30 ao tocar R$3,2966. CASTRO, J. Dólar deve subir no curto prazo, dizem analistas. Valor Econômico, 15 mar. 2018, p.C2. Adaptado. Em países que adotam o regime de câmbio flutuante, as mudanças diárias observadas nas taxas de câmbio estão relacionadas a diversos fatores. Considerando-se, no entanto, exclusivamente, a matéria jornalística, o principal fator que explica a desvalorização do real brasileiro no movimento diário do mercado de câmbio descrito no texto foi a(o) " ,
+    "answers": [
+      { "text": " incerteza futura e maior percepção de risco por parte dos investidores ", "isCorrect": true },
+      { "text": " aumento da oferta de divisas no mercado de câmbio ", "isCorrect": false },
+      { "text": " forte intervenção do Banco Central do Brasil no mercado de câmbio ", "isCorrect": false },
+      { "text": " situação política corrente no Brasil ", "isCorrect": false },
+      { "text": " piora das condições macroeconômicas no Brasil ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Para um investidor interessado em aplicar seus recursos financeiros no mercado de ações, sua rentabilidade será positivamente afetada pela tendência de valorização das ações na bolsa de valores. O Ibovespa, índice que acompanha a variação média das cotações das ações negociadas na BM&F Bovespa é um dos mais importantes indicadores do comportamento do mercado acionário brasileiro, sendo utilizado como indicador do comportamento médio do mercado. Considerando-se que o Ibovespa venha mostrando tendência média de alta nos últimos meses, o evento que, supondo tudo o mais constante, poderia representar uma reversão abrupta dessa tendência e desencadear resultados negativos no índice nos movimentos seguintes é a(o) " ,
+    "answers": [
+      { "text": " aumento das taxas de juros nos Estados Unidos, para níveis superiores aos esperados pelo mercado ", "isCorrect": true },
+      { "text": " aumento da lucratividade média das companhias brasileiras de capital aberto ", "isCorrect": false },
+      { "text": " continuidade do processo de recuperação econômica brasileira ", "isCorrect": false },
+      { "text": " redução das taxas de desemprego no Brasil ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Admita que um fundo de pensão norte-americano, em determinado momento t0 , pretenda investir o equivalente a US$100 milhões em títulos públicos brasileiros, expressos em reais e aplicados por um ano à taxa fixa de 6,5% a.a. Admita, adicionalmente, que a taxa de câmbio no mercado à vista no momento t0  seja cotada a R$ 3,25/US$, e a taxa de câmbio no mercado a termo para 360 dias seja cotada a R$ 3,20/US$. Considerando-se que os títulos sejam resgatados na data de vencimento (após um ano) e que a taxa de câmbio no mercado à vista coincida, na data de resgate, com a negociada no mercado a termo, a rentabilidade do investidor, em dólares (cupom cambial) será, aproximadamente, de " ,
+    "answers": [
+      { "text": " 8,2% a.a ", "isCorrect": true },
+      { "text": " 8,5% a.a. ", "isCorrect": false },
+      { "text": " 1,7% a.a ", "isCorrect": false },
+      { "text": " 4,9% a.a. ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Determinada instituição autorizada pelo Banco Central do Brasil a realizar operações de câmbio é solicitada a fornecer informações sobre suas contratações. Nos termos das normas estabelecidas pelo órgão autorizador, os documentos comprobatórios das operações devem ser conservados por determinado período, contado do término do exercício em que ocorra o evento de contratação. Tal período é de, no mínimo " ,
+    "answers": [
+      { "text": " dez anos ", "isCorrect": true },
+      { "text": " vinte anos ", "isCorrect": false },
+      { "text": " quinze anos ", "isCorrect": false },
+      { "text": " cinco anos ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Dentre as opções de aplicações financeiras disponíveis aos clientes do sistema bancário brasileiro está o Certificado de Depósito Bancário (CDB). Ao ser perguntado sobre essa aplicação financeira, o gerente do banco deve esclarecer ao cliente que o CDB é um " ,
+    "answers": [
+      { "text": " investimento de renda fixa emitido pelas instituições financeiras  ", "isCorrect": true },
+      { "text": " investimento de renda variável, com garantias do fundo garantidor de crédito ", "isCorrect": false },
+      { "text": " investimento com lastro em títulos públicos ", "isCorrect": false },
+      { "text": " título de renda fixa emitido pelo Tesouro Nacional ", "isCorrect": false },
+      { "text": " certificado do Banco Central oferecido pelos bancos comerciais ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A contratação de um seguro é celebrada com a emissão de uma apólice. Em uma apólice de seguro, o prêmio é o valor  " ,
+    "answers": [
+      { "text": " pago pelo segurado para ter a cobertura do risco contratado. ", "isCorrect": true },
+      { "text": " atribuído ao objeto segurado. ", "isCorrect": false },
+      { "text": " pago pela seguradora ao segurado em caso de sinistro coberto. ", "isCorrect": false },
+      { "text": " arcado pelo segurado como parte do prejuízo indenizável por sinistro coberto. ", "isCorrect": false },
+      { "text": " devolvido ao segurado caso não haja sinistro durante a vigência da apólice ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O cliente de um banco que deseje adquirir ações na bolsa de valores deve conhecer as características das operações envolvendo esses ativos. Na B3, bolsa de valores sediada em São Paulo, o prazo para a liquidação das operações no mercado à vista de ações é " ,
+    "answers": [
+      { "text": " de 2 dias úteis, a partir da data da negociação ", "isCorrect": true },
+      { "text": " imediato, no momento da negociação ", "isCorrect": false },
+      { "text": " imediato, após o registro da negociação ", "isCorrect": false },
+      { "text": " até o fechamento do pregão no dia da negociação ", "isCorrect": false },
+      { "text": " de 1 dia útil, a partir da data da negociação ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Em 23 de março de 2024, o Ministério da Fazenda publicou a seguinte notícia em sua página na internet: O presidente Luiz Inácio Lula da Silva assinou, na manhã desta terça-feira, o decreto que regulamenta a emissão das “debêntures de infraestrutura” e das “debêntures incentivadas”, instituídas, respectivamente, pelas Leis no  14.801/24 e no  12.431/11. [...] O decreto das debêntures de infraestrutura tem como objetivo incentivar a execução de projetos essenciais para o país, sempre pautados em compromissos ambientais e sociais. Ele estabelece critérios claros e objetivos para o enquadramento e acompanhamento dos projetos de investimento considerados prioritários na área de infraestrutura ou de produção econômica intensiva em pesquisa, desenvolvimento e inovação. Dessa forma, são definidas as iniciativas que poderão ter financiamento impulsionado pelas novas debêntures, que contarão com incentivo fiscal. As debêntures são títulos emitidos " ,
+    "answers": [
+      { "text": " por empresas, através dos quais elas podem captar recursos de maneira alternativa ao financiamento bancário. ", "isCorrect": true },
+      { "text": " pelo Governo Federal para o financiamento de grandes projetos de longo prazo ", "isCorrect": false },
+      { "text": " pelo Governo Federal, através dos quais ele repassa recursos para setores específicos da economia.  ", "isCorrect": false },
+      { "text": " por empresas que não possuem capital aberto e, portanto, não captam recursos na bolsa de valores ", "isCorrect": false },
+      { "text": " por empresas e que pagam bônus e dividendos aos seus detentores. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A legislação brasileira prevê diversas formas e ambientes de negociação dos ativos financeiros, como, por exemplo, o mercado de balcão. O mercado de balcão se caracteriza por " ,
+    "answers": [
+      { "text": " demandar menos informações e ter regras mais flexíveis do que a bolsa de valores. ", "isCorrect": true },
+      { "text": " negociar contratos não padronizados em pregões presenciais na bolsa de valores. ", "isCorrect": false },
+      { "text": " não ter acesso a câmaras de liquidação e custódia. ", "isCorrect": false },
+      { "text": " não estar sujeito a fiscalização e regulação como a bolsa de valores. ", "isCorrect": false },
+      { "text": " não exigir que as operações sejam registradas em um sistema. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Empresas exportadoras e importadoras são alguns dos grandes clientes do sistema bancário. Ao realizar uma operação de exportação ou importação no Brasil, a empresa deve estar familiarizada com o SISCOMEX. O SISCOMEX é um(a) " ,
+    "answers": [
+      { "text": " sistema informatizado para registro, acompanhamento e controle das operações de comércio exterior. ", "isCorrect": true },
+      { "text": " conjunto de regras e legislações para os participantes do comércio exterior. ", "isCorrect": false },
+      { "text": " plataforma eletrônica para registro das operações financeiras entre residentes e não residentes do país ", "isCorrect": false },
+      { "text": " câmara de compensação de saldos entre exportadores e importadores ", "isCorrect": false },
+      { "text": " interface virtual para a negociação de contratos de exportação e importação. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um gerente de um banco está analisando uma ação de uma empresa que tem um beta de 1,2. Considerando-se que a taxa sem risco seja de 3% e que a diferença entre o retorno esperado do mercado e a taxa sem juros seja de 9%, o retorno esperado da ação, em Corporate Finance, segundo o modelo de precificação de ativos financeiros (Capital Asset Pricing Model), é de " ,
+    "answers": [
+      { "text": " 13,80% ", "isCorrect": true },
+      { "text": " 3,60%  ", "isCorrect": false },
+      { "text": " 12,00%  ", "isCorrect": false },
+      { "text": " 12,60% ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um investidor negociou dez contratos de compra e venda a termo de café a R$ 120,00 por saca. Cada contrato tinha o tamanho de 100 sacas de 60kg. No final da safra, a cotação da saca ficou em R$ 110,00. Considerando-se as informações apresentadas, o resultado total da operação foi de um(a)  " ,
+    "answers": [
+      { "text": " ganho para o vendedor de R$ 10.000,00 ", "isCorrect": true },
+      { "text": " ganho para o comprador de R$ 10.000,00  ", "isCorrect": false },
+      { "text": " ganho para o vendedor de R$ 1.000,00 ", "isCorrect": false },
+      { "text": " perda para o comprador de R$ 1.000,00  ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um gerente, ao explicar para um cliente as regras do cartão de crédito, indicou os cuidados em relação ao pagamento da fatura, destacando a importância de evitar o pagamento mínimo, e alertou sobre o risco de endividamento crescente. Considerando os preceitos da Resolução no  4.549, de 2017, do Banco Central do Brasil, o gerente explicou que " ,
+    "answers": [
+      { "text": " o saldo devedor da fatura de cartão de crédito, quando não liquidado integralmente no vencimento, somente pode ser objeto de financiamento na modalidade de crédito rotativo até o vencimento da fatura subsequente. ", "isCorrect": true },
+      { "text": " o financiamento do saldo devedor, por meio de outras modalidades de crédito, será realizado em condições mais vantajosas para a instituição credora original, somente após o vencimento da fatura subsequente. ", "isCorrect": false },
+      { "text": " o financiamento do saldo devedor da fatura de cartão de crédito na modalidade de crédito rotativo de valores já parcelados é possível de ser concedido. ", "isCorrect": false },
+      { "text": " a portabilidade do saldo devedor da fatura de cartão de crédito é vedada quando a dívida já estiver parcelada com a instituição original ", "isCorrect": false },
+      { "text": " os custos relacionados à troca de informações e à efetivação da portabilidade do saldo devedor da fatura de cartão de crédito podem ser cobrados pela instituição redora original dos custos. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Uma empresa S.A. acaba de concluir uma avaliação da sua gestão de risco, juntamente com o gerente do banco em que possui conta, e encontrou um item de preocupação. A empresa possui uma incompatibilidade na rentabilidade de alguns ativos financeiros, em relação ao custo de seus passivos financeiros. Seus investimentos em títulos (ativos financeiros) e sua dívida de longo prazo (passivo financeiro) têm um principal de R$ 1.000.000,00 recebíveis/pagáveis em 31 de dezembro. Ambos os instrumentos têm vencimentos de três anos (não há prêmios ou descontos em ambos). No entanto, a dívida de longo prazo é prefixada e incorre em juros anuais de 8%, enquanto os títulos em Reais rendem juros pós-fixados indexados no DI (Depósito Interbancário) de um ano. Considerando as informações apresentadas, a área de gestão de risco indicou que a empresa deveria realizar um " ,
+    "answers": [
+      { "text": " swap de taxa de juros ", "isCorrect": true },
+      { "text": " contrato a termo ", "isCorrect": false },
+      { "text": " contrato de opção ", "isCorrect": false },
+      { "text": " swap de índice  ", "isCorrect": false },
+      { "text": " swap de moeda  ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Na estrutura do Sistema Financeiro Nacional, os trabalhos da Comissão de Valores Mobiliários (CVM) concentram-se na supervisão e fiscalização das operações efetivadas por " ,
+    "answers": [
+      { "text": " fundos de investimento e bolsas de valores e de mercadorias e futuros ", "isCorrect": true },
+      { "text": " bancos comerciais e cooperativas de crédito ", "isCorrect": false },
+      { "text": " bancos de investimento e bancos de desenvolvimento ", "isCorrect": false },
+      { "text": " bancos regionais e caixas econômicas ", "isCorrect": false },
+      { "text": " caixas econômicas e associações de poupança e empréstimo ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Considere que uma empresa cujo faturamento seja expresso, predominantemente, em moeda nacional (o Real) tenha um encargo de dívida externa, em Dólares, a ser pago em três meses a partir de hoje. Admita, hipoteticamente, que a taxa de câmbio R$/US$ seja cotada, hoje, a R$ 5,20/US$, no mercado à vista, mas a empresa só tenha necessidade de deter a quantia em Dólares, necessária para realizar o pagamento ao credor externo, no dia do vencimento. Se a empresa objetivar, hoje, efetivar uma operação de hedge, a fim de se proteger, até a data de vencimento, contra os riscos de depreciação do Real em relação ao Dólar, ela deverá, hoje,  " ,
+    "answers": [
+      { "text": " comprar Dólares no mercado a termo. ", "isCorrect": true },
+      { "text": " evitar qualquer tipo de contrato de compra ou venda de Dólares. ", "isCorrect": false },
+      { "text": " vender Reais no mercado à vista ", "isCorrect": false },
+      { "text": " comprar Reais no mercado à vista. ", "isCorrect": false },
+      { "text": " vender Dólares no mercado a termo. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " De acordo com o Banco Central do Brasil, que regulamenta o mercado de câmbio e de capitais estrangeiros no país, nos contratos de câmbio, é suscetível de alteração o(a) " ,
+    "answers": [
+      { "text": " prazo para a sua liquidação ", "isCorrect": true },
+      { "text": " comprador ", "isCorrect": false },
+      { "text": " vendedor ", "isCorrect": false },
+      { "text": " código da moeda estrangeira ", "isCorrect": false },
+      { "text": " taxa de câmbio ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um executivo com experiência no setor de varejo foi contratado para dirigir um banco. Durante o período de transição da equipe da antiga direção para a nova, ele ordenou que sua equipe analisasse os componentes do capital intelectual da organização. Ao final desse período, sua equipe deu grande destaque aos aspectos ligados ao capital relacional. Esse destaque diz respeito " ,
+    "answers": [
+      { "text": " ao conhecimento gerado a partir das associações com clientes e com fornecedores do banco.  ", "isCorrect": true },
+      { "text": " à quantidade de conhecimento e de competências dos funcionários do banco. ", "isCorrect": false },
+      { "text": " às diversas oportunidades de ganhos, com investimentos financeiros para o próprio banco. ", "isCorrect": false },
+      { "text": " ao grande número de marcas e patentes registradas anteriormente pelo banco.  ", "isCorrect": false },
+      { "text": " aos sistemas de gestão desenvolvidos pelos funcionários e pelos diretores do banco. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Sobre o sistema financeiro nacional e o mercado bancário, assinale a instituição listada a seguir que é considerada uma instituição bancária. " ,
+    "answers": [
+      { "text": " Caixa Econômica Federal. ", "isCorrect": true },
+      { "text": " Associação de poupança e empréstimo. ", "isCorrect": false },
+      { "text": " Sociedade de crédito, financiamento e investimento. ", "isCorrect": false },
+      { "text": " Sociedade de crédito imobiliário ", "isCorrect": false },
+      { "text": " Sociedade de arrendamento mercantil. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Entre as seguintes carteiras distribuídas entre as instituições do grupo Banestes, assinale a que é obrigatória para o Banestes ser classificado como um banco múltiplo " ,
+    "answers": [
+      { "text": " Investimento ", "isCorrect": true },
+      { "text": " Distribuidora de Títulos e Valores Mobiliários. ", "isCorrect": false },
+      { "text": " Crédito, financiamento e investimento. ", "isCorrect": false },
+      { "text": " Crédito imobiliário. ", "isCorrect": false },
+      { "text": " Arrendamento mercantil. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Sobre o Conselho Monetário Nacional (CMN) e o Comitê de Política Monetária (Copom), analise as afirmativas a seguir. I. São objetivos do CMN a estabilidade da moeda e o desenvolvimento econômico e social do país. II. São órgãos supervisores sob a esfera de competência do CMN: o Banco Central do Brasil (BCB), a Comissão de Valores Mobiliários (CVM) e a Superintendência de Seguros Privados (Susep). III. A principal decisão de cada reunião do Copom é a definição da taxa de juros Selic pelo Banco Central do Brasil (BCB). Está correto o que se afirma em " ,
+    "answers": [
+      { "text": " I e III, apenas ", "isCorrect": true },
+      { "text": " I, apenas. ", "isCorrect": false },
+      { "text": " I e II, apenas. ", "isCorrect": false },
+      { "text": " II e III, apenas ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Em relação ao Banco Central do Brasil (BCB), assinale (V) para a afirmativa verdadeira e (F) para a falsa. ( ) A partir da Lei Complementar nº 179/2021, o BCB passou a ter autonomia para contratar servidores e definir salários. ( ) O BCB tem a missão institucional de garantir a estabilidade do poder de compra da moeda, zelar por um sistema financeiro sólido, eficiente e competitivo, e fomentar o bem-estar econômico da sociedade. ( ) O BCB se submete a auditoria independente. As afirmativas são, respectivamente, " ,
+    "answers": [
+      { "text": " F, F e V. ", "isCorrect": true },
+      { "text": " F, F e F. ", "isCorrect": false },
+      { "text": " F, V e V ", "isCorrect": false },
+      { "text": " V, F e V. ", "isCorrect": false },
+      { "text": " V, V e V. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " No mercado de capitais, as seguintes instituições são reguladas pela Comissão de Valores Mobiliários (CVM), à exceção de uma. Assinale-a " ,
+    "answers": [
+      { "text": " Sociedades de Capitalização. ", "isCorrect": true },
+      { "text": " Bolsa de Valores ", "isCorrect": false },
+      { "text": " Fundos de Investimento. ", "isCorrect": false },
+      { "text": " Auditores Independentes. ", "isCorrect": false },
+      { "text": " Agências Classificadoras de Risco (Rating). ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Em relação a seguros e previdência, assinale a afirmativa correta " ,
+    "answers": [
+      { "text": " Em seguro de automóveis, a seguradora não pode estabelecer um prazo máximo para o segurado comunicar o sinistro. ", "isCorrect": true },
+      { "text": " No seguro de acidentes pessoais, o suicídio, ou sua tentativa, não é equiparado a acidente pessoal, para fins de pagamento de indenização. ", "isCorrect": false },
+      { "text": " No seguro prestamista que estabelece indenização para quitação, amortização ou pagamento de um determinado número de parcelas de uma dívida, podem estar incluídas coberturas de desemprego involuntário ou voluntário ", "isCorrect": false },
+      { "text": " O seguro de automóvel na modalidade de valor de mercado referenciado estabelece o pagamento de quantia fixa estipulada pelas partes no ato da contratação do seguro. ", "isCorrect": false },
+      { "text": " O “seguro popular” é igual ao “microsseguro”, ambos são direcionados para as necessidades específicas das famílias de baixa renda. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Em relação à previdência e aos seguros, assinale a afirmativa correta. " ,
+    "answers": [
+      { "text": " Nos planos de benefícios de contribuição definida (CD) dos fundos de pensão, não se tem assegurado o valor do benefício que o participante vai receber no futuro. ", "isCorrect": true },
+      { "text": " Todos os planos de previdência complementar aberta dão direito ao resgate antecipado.  ", "isCorrect": false },
+      { "text": " Os planos de previdência complementar aberta não são passíveis de portabilidade. ", "isCorrect": false },
+      { "text": " No Vida Gerador de Benefício Livres (VGBL), o imposto de renda incide sobre o valor total a ser resgatado ou recebido sob a forma de renda; já no Plano Gerador de Benefício Livres (PGBL), o imposto de renda incide apenas sobre os rendimentos ", "isCorrect": false },
+      { "text": " Nos planos de fundos de pensão organizados por associações ou entidades de classe, estas associações ou entidades de classe têm de fazer contribuições conjuntamente às feitas pelos associados ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Quanto a noções do mercado de capitais (“mercado de valores mobiliários”), assinale (V) para afirmativa verdadeira e (F) para a falsa. ( ) No mercado de capitais, os títulos (valores mobiliários) resultantes do investimento que estabelecem uma relação de crédito e débito entre as partes tomadora e poupadora, constituem-se em títulos patrimoniais ou de capital. ( ) No mercado de capitais, o investidor que adquiriu uma ação pode, passado um prazo pré-estabelecido, solicitar o resgate do valor da ação diretamente à empresa. ( ) No mercado de capitais, os investidores não podem adquirir os títulos (valores mobiliários) indiretamente. As afirmativas são, respectivamente, " ,
+    "answers": [
+      { "text": " F, F e F. ", "isCorrect": true },
+      { "text": " F, V e V. ", "isCorrect": false },
+      { "text": " F, F e V. ", "isCorrect": false },
+      { "text": " V, F e F ", "isCorrect": false },
+      { "text": " V, V e V ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Quanto a noções do mercado de câmbio, analise os itens a seguir. I. O mercado de câmbio é regulamentado e fiscalizado pelo Banco Central do Brasil (BCB) em conjunto com a Comissão de Valores Mobiliários (CVM). II. As taxas de compra e venda de moeda estrangeira no mercado de câmbio brasileiro são livremente pactuadas entre as partes. III. As pessoas físicas e as pessoas jurídicas podem comprar e vender moeda estrangeira, sem limitação de valor, desde que observada a legislação, as diretrizes estabelecidas pelo Conselho Monetário Nacional (CMN) e a regulamentação editada pelo Banco Central do Brasil (BCB). Está correto o que se afirma em " ,
+    "answers": [
+      { "text": " II e III, apenas. ", "isCorrect": true },
+      { "text": " III, apenas ", "isCorrect": false },
+      { "text": " I e II, apenas. ", "isCorrect": false },
+      { "text": " I e III, apenas ", "isCorrect": false },
+      { "text": " I, II e III. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um cliente do Banestes quer fazer uma aplicação financeira, mas exige que a aplicação conte com proteção do Fundo Garantidor de Crédito (FGC). As opções a seguir apresentam aplicações que podem ser oferecidas a esse cliente, à exceção de uma. Assinale-a. " ,
+    "answers": [
+      { "text": " Fundos de Investimento. ", "isCorrect": true },
+      { "text": " Depósito de poupança. ", "isCorrect": false },
+      { "text": " Recibo de Depósito Bancário (RDB). ", "isCorrect": false },
+      { "text": " Certificado de Depósito Bancário (CDB). ", "isCorrect": false },
+      { "text": " Letras de câmbio. ", "isCorrect": false }
+    ]
+  },
+  {
+    "question": " Quanto à autorregulação bancária, analise os itens a seguir. I. A autorregulação bancária vigente no Brasil constitui-se de um conjunto de compromissos básicos de adesão obrigatória, podendo ser complementado por outro conjunto de compromissos adicionais de adesão voluntária. II. As sistemáticas de autorregulação bancária vigentes no Brasil têm eixos normativos de: relacionamento com o consumidor, prevenção a ilícitos e responsabilidade socioambiental. III. As regras de autorregulação bancária são supervisionadas pelo Banco Central do Brasil (BCB). Está correto o que se afirma em " ,
+    "answers": [
+      { "text": " I e II, apenas. ", "isCorrect": true },
+      { "text": " I, apenas. ", "isCorrect": false },
+      { "text": " I e III, apenas. ", "isCorrect": false },
+      { "text": " II e III, apenas. ", "isCorrect": false },
+      { "text": " I, II e III. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Quanto a noções básicas sobre os crimes de lavagem ou ocultação de bens, direitos e valores, assinale (V) para a afirmativa verdadeira e (F) para a falsa. ( ) O fato de um cliente do Banestes tentar fechar um câmbio de exportação no qual o preço do produto exportado está por um valor de 40% do preço internacional do produto constitui situação que precisa ser tratada para a prevenção à lavagem de dinheiro e ao financiamento do terrorismo (PLD/FT). ( ) O fato de ocorrerem saques em espécie da conta de um cliente do Banestes que recebeu diversos depósitos por transferência eletrônica de várias origens em curto período de tempo constitui situação que precisa ser tratada para a prevenção à lavagem de dinheiro e ao financiamento do terrorismo (PLD/FT). ( ) Um cliente brasileiro do Banestes que é diretor presidente de uma grande empresa privada precisa ser tratado como pessoa exposta politicamente (PEP) constante nas normas de prevenção à lavagem de dinheiro e ao financiamento do terrorismo (PLD/FT) editadas pelos órgãos reguladores e fiscalizadores. As afirmativas são, respectivamente " ,
+    "answers": [
+      { "text": " V, V e F. ", "isCorrect": true },
+      { "text": " F, F e F ", "isCorrect": false },
+      { "text": " F, F e V. ", "isCorrect": false },
+      { "text": " V, F e F. ", "isCorrect": false },
+      { "text": " V, V e V. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Em relação à prevenção da utilização do sistema financeiro para os atos ilícitos, em conformidade com a Lei nº 9.613/1998, analise as afirmativas a seguir. I. O Banestes, por ser considerado um banco de menor porte (segmento S3 da definição do Banco Central do Brasil), pode adotar políticas, procedimentos e controles internos para o cumprimento da obrigação de comunicação de atividades suspeitas proporcionalmente menores que os bancos maiores (S1 e S2). II. As operações com indícios de ilicitudes devem ser comunicadas pelo Banestes ao Conselho de Controle de Atividades Financeiras (Coaf), atual Unidade de Inteligência Financeira (UIF), e ao cliente do Banestes a que se refira a operação. III. Se o Banestes não cumprir com as obrigações relacionadas à lavagem ou à ocultação de bens, direitos e valores, poderá ter cassada ou suspensa sua autorização para funcionamento. Está correto o que se afirma em " ,
+    "answers": [
+      { "text": " I e III, apenas. ", "isCorrect": true },
+      { "text": " II, apenas ", "isCorrect": false },
+      { "text": " I e II, apenas. ", "isCorrect": false },
+      { "text": " II e III, apenas ", "isCorrect": false },
+      { "text": " I, II e III ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Tendo por base as previsões do Guia de Conduta Ética do Banestes para o relacionamento com o cliente e os usuários, assinale (V) para afirmativa verdadeira e (F) para a falsa. ( ) É vedado induzir os clientes ou usuários a erro, assegurar ou sugerir a existência de garantia de resultados futuros ou a isenção de risco. ( ) Deve-se evitar a transferência de contas de clientes por motivo de movimentação no quadro de gerentes entre agências. ( ) Caso o cliente do Banestes seja cidadão dos Estados Unidos da América, o Banestes terá de fornecer dados da conta desse cliente ao Fisco norte americano (IRS) em cumprimento às regras do FATCA (Foreign Account Tax Compliance Act). As afirmativas, são, respectivamente, " ,
+    "answers": [
+      { "text": " V, V e V. ", "isCorrect": true },
+      { "text": " F, F e F. ", "isCorrect": false },
+      { "text": " F, F e V. ", "isCorrect": false },
+      { "text": " V, F e F. ", "isCorrect": false },
+      { "text": " V, V e F ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Em relação à ruptura digital no SFN (Sistema Financeiro Nacional) promovida pelas Fintechs de crédito; pelas IPs (Instituições de Pagamento); pelo “Open Finance” (sistema financeiro aberto); e pelo PIX, assinale a afirmativa correta. " ,
+    "answers": [
+      { "text": " Em relação às Fintechs de crédito, a Sociedade de Empréstimo entre Pessoas (SEP) pode fazer captação de recursos do público, desde que eles estejam inteira e exclusivamente vinculados à operação de empréstimo. ", "isCorrect": true },
+      { "text": " As Fintechs de crédito não necessitam de autorização do Banco Central do Brasil (BCB) para operarem. ", "isCorrect": false },
+      { "text": " As IPs podem conceder empréstimos e financiamentos a seus clientes. ", "isCorrect": false },
+      { "text": " No “Open Finance”, é obrigatória a participação de todas as instituições autorizadas a funcionar pelo Banco Central do Brasil (BCB). ", "isCorrect": false },
+      { "text": "  Empresas podem ser tarifadas no envio de pagamentos ou transferências via PIX, mas não podem ser tarifadas no recebimento de pagamentos ou transferências via PIX. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Em relação à ruptura digital no SFN (Sistema Financeiro Nacional) promovida pelas Fintechs de crédito; pelas IPs (Instituições de Pagamento); pelo “Open Finance” (sistema financeiro aberto); e pelo PIX, assinale a afirmativa correta. " ,
+    "answers": [
+      { "text": " No “Open Finance”, os clientes de produtos e serviços financeiros podem compartilhar suas informações entre diferentes instituições autorizadas pelo Banco Central do Brasil (BCB). ", "isCorrect": true },
+      { "text": " Em relação às Fintechs de crédito, a Sociedade de Crédito Direto (SCD) pode prestar os serviços de análise de crédito para terceiros, cobrança de crédito de terceiros, mas não pode realizar operações de crédito com recursos próprios. ", "isCorrect": false },
+      { "text": " As IPs não podem gerir conta de pagamento. ", "isCorrect": false },
+      { "text": " No “Open Finance”, a movimentação de contas bancárias de uma instituição só pode ser realizada a partir do aplicativo ou site dessa instituição. ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Em relação à ruptura digital no SFN (Sistema Financeiro Nacional) promovida pelo “Open Finance” (sistema financeiro aberto); e pelo PIX, assinale a afirmativa correta. " ,
+    "answers": [
+      { "text": " O PIX é o pagamento instantâneo brasileiro criado pelo Banco Central do Brasil (BCB) em que os recursos são transferidos entre contas em poucos segundos.  ", "isCorrect": true },
+      { "text": "  No “Open Finance”, o compartilhamento de informações depende da concordância da instituição detentora dessas informações. ", "isCorrect": false },
+      { "text": " No “Open Finance”, o compartilhamento de informações só pode ser interrompido ao final do prazo estabelecido para o compartilhamento. ", "isCorrect": false },
+      { "text": " O PIX funciona 24 horas por dia, sete dias por semana, exceto feriados. ", "isCorrect": false },
+      { "text": " No âmbito do PIX, aplicam-se aos microempreendedores individuais (MEI) e empresários individuais (EI) as mesmas regras de pessoa jurídica. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Em relação ao que a Resolução CMN nº 4.949, de 30/09/2021, estabelece para o Banestes, assinale (V) para a afirmativa verdadeira e (F) para a falsa. ( ) O Banestes deve adotar o previsto na Resolução nas fases de contratação e de pós-contratação de produtos e de serviços, estando desobrigado na fase de pré-contratação. ( ) A necessidade de o Banestes assegurar a identificação dos usuários finais beneficiários de pagamento ou transferência em demonstrativos e extratos de contas de depósitos não se aplica para contas de pagamento pré-pagas. ( ) O Banestes não pode recusar o recebimento de documentos mediante pagamento por meio de cheque. As afirmativas são, respectivamente, " ,
+    "answers": [
+      { "text": " F, F e F ", "isCorrect": true },
+      { "text": " V, V e F ", "isCorrect": false },
+      { "text": " V, F e V ", "isCorrect": false },
+      { "text": " F, V e V ", "isCorrect": false },
+      { "text": " V, V e V. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Uma administradora de empresas é responsável por organizar os formulários utilizados pela instituição financeira onde atua. Ao criar novo formulário para seguir comandos legais, depara-se com novos conceitos de dados pessoais que devem ser aplicados. Sendo assim, ela precisa saber que, nos termos da Lei no  13.709/2018, dados pessoais sensíveis estão relacionados a " ,
+    "answers": [
+      { "text": " convicção religiosa ", "isCorrect": true },
+      { "text": " opção desportiva ", "isCorrect": false },
+      { "text": " escolha de lazer ", "isCorrect": false },
+      { "text": " método de trabalho ", "isCorrect": false },
+      { "text": " hábito alimentar ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um gerente de um determinado banco participa de vários projetos de investimentos em tecnologias de ponta. Antes da divulgação dos editais para escolha dos projetos mais adequados, ele procura um parente e lhe apresenta todos os detalhes necessários para que esse parente possa apresentar uma candidatura ao financiamento. Nos termos do Código de Conduta da Caixa Econômica Federal, caso esses fatos fossem vinculados a servidor da instituição, estaria caracterizado(a) " ,
+    "answers": [
+      { "text": " conflito de interesses ", "isCorrect": true },
+      { "text": " ato de solidariedade ", "isCorrect": false },
+      { "text": " empreendedorismo indevido ", "isCorrect": false },
+      { "text": " atividade paralela ", "isCorrect": false },
+      { "text": " quebra de decoro ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " P foi diretor de sociedade empresária que foi acusada de praticar atos de corrupção, com geração de prejuízos superiores a cem milhões de reais. Após longo período de negociação, P e a sociedade resolvem compor os prejuízos causados. Nos termos da Lei no  12.846/2013, caso preenchidos os requisitos exigidos, poderá ser realizado(a) " ,
+    "answers": [
+      { "text": " acordo de leniência  ", "isCorrect": true },
+      { "text": " compromisso de honestidade ", "isCorrect": false },
+      { "text": " negócio jurídico ", "isCorrect": false },
+      { "text": " transação legal ", "isCorrect": false },
+      { "text": " promessa de restauração ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A principal característica do crédito direto ao consumidor (CDC) é que esse instrumento de financiamento dispensa " ,
+    "answers": [
+      { "text": " avalista ", "isCorrect": true },
+      { "text": " análise cadastral do cliente ", "isCorrect": false },
+      { "text": " limite de prazo de pagamento ", "isCorrect": false },
+      { "text": " limite de crédito ", "isCorrect": false },
+      { "text": " identificação do cliente ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O texto seguinte diz respeito à generalização das políticas monetárias consideradas não convencionais por parte dos bancos centrais do mundo inteiro. Os bancos centrais globais agora percebem que políticas monetárias antes consideradas não convencionais e temporárias agora se revelam convencionais e duradouras. Obrigados a encontrar novas soluções devido à crise financeira de 2008 e novamente neste ano por causa da pandemia de coronavírus, o Federal Reserve (Fed, na sigla em inglês), o Banco Central Europeu e a maioria dos bancos centrais internacionais se tornaram mais agressivos e inovadores do que nunca na defesa das economias contra a recessão e ameaça de deflação. ////// Um exemplo de política monetária não convencional é a " ,
+    "answers": [
+      { "text": " compra de títulos públicos e privados por parte dos bancos centrai ", "isCorrect": true },
+      { "text": " redução da taxa básica de juros ", "isCorrect": false },
+      { "text": " redução das taxas de redesconto  ", "isCorrect": false },
+      { "text": " expansão da base monetária ", "isCorrect": false },
+      { "text": " venda de títulos com o compromisso de recompra pela autoridade monetária ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Embora as taxas de câmbio R$/US$, cotadas diariamente nos mercados de câmbio à vista, sejam expressas em valores nominais, ao longo do tempo essas taxas podem-sedesviar de seus valores reais. Contribui para a apreciação real da moeda brasileira, em relação ao dólar norte-americano, a(o) " ,
+    "answers": [
+      { "text": " taxa de inflação no Brasil maior do que a taxa de inflação norte-americana ", "isCorrect": true },
+      { "text": " redução da produtividade média no Brasil, comparativamente à dos Estados Unidos ", "isCorrect": false },
+      { "text": " queda dos preços das commodities exportadas pelo Brasil ", "isCorrect": false },
+      { "text": " compra de reservas internacionais pelo Banco Central do Brasil ", "isCorrect": false },
+      { "text": " maior grau de incerteza no Brasil ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A principal marca distintiva do Pix, em relação aos mecanismos de pagamento com cartões de débito automático, é que o Pix é um sistema de pagamento instantâneo criado pelo(s) " ,
+    "answers": [
+      { "text": " Banco Central do Brasil  ", "isCorrect": true },
+      { "text": " Banco do Brasil ", "isCorrect": false },
+      { "text": " Banco do Nordeste ", "isCorrect": false },
+      { "text": " bancos comerciais ", "isCorrect": false },
+      { "text": " bancos de investimento ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Desde 1999, o Brasil adota um regime de câmbio flutuante (ou flexível).Considerando-se a prática brasileira desde então, nesse  regime cambial, a " ,
+    "answers": [
+      { "text": " taxa de câmbio é determinada pela oferta e demanda de moeda estrangeira ", "isCorrect": true },
+      { "text": " taxa de câmbio é fixada pelo Banco Central do Brasil. ", "isCorrect": false },
+      { "text": " taxa de câmbio não sofre interferência do Banco Central do Brasil. ", "isCorrect": false },
+      { "text": " taxa de câmbio não influencia a rentabilidade dos exportadores. ", "isCorrect": false },
+      { "text": " fixação da taxa básica de juros (Selic) torna-se dependente da política cambial. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Nos contratos de financiamento de automóveis, a garantia de pagamento da dívida é o próprio bem, isto é, o automóvel adquirido pelo devedor. Nesse caso, trata-se de " ,
+    "answers": [
+      { "text": " alienação fiduciária ", "isCorrect": true },
+      { "text": " aval ", "isCorrect": false },
+      { "text": " fiança ", "isCorrect": false },
+      { "text": " hipoteca ", "isCorrect": false },
+      { "text": " penhor mercantil ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um trabalhador é regido pelas regras da CLT e tem conta vinculada ao FGTS. Curioso por saber as hipóteses de levantamento do FGTS, formula consulta ao órgão competente. Nos termos da Lei no  8.036/1990, a conta vinculada do trabalhador no FGTS poderá ser movimentada no caso de " ,
+    "answers": [
+      { "text": " aposentadoria concedida pela Previdência Social ", "isCorrect": true },
+      { "text": " aquisição de imóvel comercial ", "isCorrect": false },
+      { "text": " desligamento por justa causa ", "isCorrect": false },
+      { "text": " compra de automóvel  ", "isCorrect": false },
+      { "text": " aluguel de entidade familiar ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Considere a hipótese de a Caixa Econômica Federal aceitar, no contrato de um empréstimo concedido a determinado cliente, o depósito de um conjunto de joias valiosas como garantia pela amortização total da dívida contraída. Esse tipo de garantia é denominado " ,
+    "answers": [
+      { "text": " penhor ", "isCorrect": true },
+      { "text": " aval ", "isCorrect": false },
+      { "text": " fiança ", "isCorrect": false },
+      { "text": " hipoteca ", "isCorrect": false },
+      { "text": " alienação fiduciária ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O texto seguinte comenta sobre a entrada das chamadas fintechs no setor bancário: Uma nova forma de fazer negócios, impulsionada pela geração habituada com a internet desde o nascimento, a partir dos anos 1980, elimina intermediários, busca a comparação exaustiva de produtos e preços, e valoriza o testemunho (ou reclamação) de outros consumidores. É nesse ambiente que sites e aplicativos criados por jovens recém-saídos das universidades fazem agora transações que, até pouco tempo, eram exclusividade das agências bancárias e outros canais de atendimento das instituições financeiras: pagamentos de contas, renegociação de dívidas, transferência de valores e contratações de seguros. As chamadas fintechs, startups de tecnologia do setor financeiro, têm desafiado as empresas tradicionais do setor [...]. Vistas como as “entrantes” do setor, as fintechs surgiram com a popularização dos smartphones e a digitalização da indústria e dos serviços [...]. Com estrutura enxuta e sem a pressão de reguladores e do compliance das grandes empresas, essas startups conseguem entregar com rapidez e transparência serviços que respondem a demandas bastante específicas dos clientes, como aprovar um empréstimo, fazer a cotação de um seguro ou escolher um investimento. ////// Tendo em vista as estratégias de competição concebidas por Michael Porter, de acordo com o texto, a principal força competitiva oriunda dos novos serviços oferecidos pelas fintechs e imposta aos bancos tradicionais provém do(a) " ,
+    "answers": [
+      { "text": " ameaça de entrada ou entrada efetiva de novos concorrentes no setor ", "isCorrect": true },
+      { "text": " poder de negociação dos fornecedores ", "isCorrect": false },
+      { "text": " poder de negociação dos compradores  ", "isCorrect": false },
+      { "text": " monopólio dos novos entrantes ", "isCorrect": false },
+      { "text": " rivalidade entre os concorrentes, tradicionalmente, estabelecidos no setor ", "isCorrect": false }
+    ]
+  },
+  {
+    "question": " Considerando a estrutura organizacional da Caixa Econômica Federal, a decisão final relacionada à definição das linhas estratégicas de atuação, das diretrizes empresariais, da orientação geral dos negócios e do monitoramento e da avaliação dos resultados da empresa fica a cargo da(o) " ,
+    "answers": [
+      { "text": " Conselho de Administração ", "isCorrect": true },
+      { "text": " Diretoria executiva ", "isCorrect": false },
+      { "text": " Presidência ", "isCorrect": false },
+      { "text": " Corregedoria ", "isCorrect": false },
+      { "text": " Ouvidoria ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Na estrutura organizacional do Sistema Financeiro Nacional (SFN), cada uma das instituições exerce uma função específica. Tendo em vista sua forma de atuação, a Caixa Econômica Federal deve ser enquadrada, no âmbito do SFN, como uma instituição cuja função principal é " ,
+    "answers": [
+      { "text": " operadora ", "isCorrect": true },
+      { "text": " reguladora ", "isCorrect": false },
+      { "text": " supervisora ", "isCorrect": false },
+      { "text": " normativa ", "isCorrect": false },
+      { "text": " de autoridade monetária ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O mercado de Reservas Bancárias reflete uma das mais importantes inter-relações entre o Banco Central do Brasil (BCB) e os bancos comerciais. Nos respectivos balancetes consolidados, essas Reservas são lançadas como passivo do BCB, mas como ativo dos bancos comerciais. As Reservas Bancárias formam uma parte expressiva do chamado mercado " ,
+    "answers": [
+      { "text": " monetário ", "isCorrect": true },
+      { "text": " cambial ", "isCorrect": false },
+      { "text": " de crédito ", "isCorrect": false },
+      { "text": " de capitais ", "isCorrect": false },
+      { "text": " de criptomoedas ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Dentre as estratégias utilizadas por um governo para atuar na economia, tem-se a política monetária não convencional. Um exemplo de política monetária não convencional é a(o) " ,
+    "answers": [
+      { "text": " compra recorrente, pelo Banco Central, de títulos de longo prazo do Tesouro Nacional. ", "isCorrect": true },
+      { "text": " redução da taxa de redesconto do Banco Central. ", "isCorrect": false },
+      { "text": " redução das reservas bancárias, mediante venda de títulos de curto prazo pelo Banco Central. ", "isCorrect": false },
+      { "text": " aumento da taxa do depósito compulsório sobre depósitos à vista dos bancos comerciais. ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um dos maiores desafios da política fiscal é manter a razão entre a dívida bruta do setor público e o Produto Interno Bruto (PIB) em níveis baixos e estáveis no longo prazo. Considerando-se que todos os demais fatores permaneçam constantes, o seguinte fator contribui para o aumento da razão dívida pública/PIB: " ,
+    "answers": [
+      { "text": " aumento da taxa básica de juros de curto prazo (Selic) ", "isCorrect": true },
+      { "text": " compromisso do governo com a obtenção de superávits fiscais primários ", "isCorrect": false },
+      { "text": " redução dos gastos do governo ", "isCorrect": false },
+      { "text": " maior ritmo de arrecadação tributária governamental ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " As operações compromissadas são o instrumento mais utilizado pelo Banco Central do Brasil (BCB) para controlar a liquidez do sistema bancário e formar a taxa de juros de curto prazo. Quando o BCB realiza uma operação compromissada de compra de títulos públicos no mercado aberto, ele " ,
+    "answers": [
+      { "text": " aumenta a liquidez no mercado de reservas bancárias e pressiona a taxa de juros de curto prazo para baixo. ", "isCorrect": true },
+      { "text": " eleva os preços dos títulos públicos e pressiona a taxa de juros de curto prazo para cima. ", "isCorrect": false },
+      { "text": " aumenta a liquidez no mercado de reservas bancárias e pressiona a taxa de juros de curto prazo para cima. ", "isCorrect": false },
+      { "text": " reduz a liquidez no mercado de reservas bancárias e pressiona a taxa de juros de curto prazo para baixo. ", "isCorrect": false },
+      { "text": " reduz os preços dos títulos públicos e pressiona a taxa de juros de curto prazo para baixo. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " As taxas de câmbio nominais referem-se aos preços relativos de duas moedas, enquanto as taxas reais de câmbio são definidas em termos de taxas nominais de câmbio e níveis de preços. Considerando-se apenas bens e serviços comercializáveis, uma desvalorização real da moeda brasileira com relação ao Dólar americano implica diretamente um(a) " ,
+    "answers": [
+      { "text": " aumento do poder de compra do Dólar americano sobre os bens e serviços brasileiros. ", "isCorrect": true },
+      { "text": " aumento dos déficits em transações correntes no Brasil. ", "isCorrect": false },
+      { "text": " redução da competitividade das exportações brasileiras para os Estados Unidos. ", "isCorrect": false },
+      { "text": " redução nos índices de preços no Brasil, em relação aos índices de preços nos Estados Unidos ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Diariamente, o Banco Central do Brasil (BCB) publica boletins informando as cotações de diversas moedas com relação ao Dólar americano e ao Real. A taxa de referência entre o Real e o Dólar americano, divulgada pelo BCB em seus boletins e mais utilizada no mercado de câmbio brasileiro, é a taxa " ,
+    "answers": [
+      { "text": " Ptax ", "isCorrect": true },
+      { "text": " Selic ", "isCorrect": false },
+      { "text": " Referencial ", "isCorrect": false },
+      { "text": " cambial direta ", "isCorrect": false },
+      { "text": " Swap ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A mineração de Bitcoin é um processo complexo, que envolve muitos competidores, demanda grande capacidade computacional e enorme gasto de energia elétrica. Esse processo de mineração consiste em  " ,
+    "answers": [
+      { "text": " validar os registros eletrônicos das transações no blockchain ", "isCorrect": true },
+      { "text": " emitir novos Bitcoins, garantindo a crescente expansão da oferta da moeda ", "isCorrect": false },
+      { "text": " controlar a quantidade de Bitcoins emitidos para sustentar o valor da moeda ", "isCorrect": false },
+      { "text": " alterar os registros eletrônicos prévios no blockchain, em troca de recompensa ", "isCorrect": false },
+      { "text": " disputar a compra de Bitcoins na emissão a cotações menores do que as do mercado ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um gerente de uma instituição financeira está trabalhando em um projeto de Oferta Pública de Aquisição (OPA) de uma empresa cliente do banco que quer fechar o capital da empresa. O laudo de avaliação indicou diversos valores da companhia, utilizando diferentes critérios do valor por ação, como: patrimônio líquido contábil, patrimônio líquido avaliado a preço de mercado, fluxo de caixa descontado e múltiplos de mercado. Visto que o preço oferecido em uma OPA é fundamental para garantir a eficiência, a transparência e a equidade do mercado de capitais, protegendo os interesses dos investidores e promovendo uma concorrência justa e eficiente, quais dos diferentes critérios a seguir são aceitos pela Comissão de Valores Monetários? " ,
+    "answers": [
+      { "text": " Patrimônio líquido contábil, patrimônio líquido avaliado a preço de mercado, fluxo de caixa descontado e múltiplos de mercado  ", "isCorrect": true },
+      { "text": " Patrimônio líquido avaliado a preço de mercado, apenas ", "isCorrect": false },
+      { "text": " Patrimônio líquido avaliado a preço de mercado e fluxo de caixa descontado, apena ", "isCorrect": false },
+      { "text": " Fluxo de caixa descontado e múltiplos de mercado, apenas ", "isCorrect": false },
+      { "text": " Patrimônio líquido avaliado a preço de mercado, fluxo de caixa descontado e múltiplos de mercado, apenas ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um gerente, responsável por uma administradora de consórcio, empresa pertencente a uma instituição financeira, deve enviar periodicamente informações contábeis sobre as operações de consórcios ao(à) " ,
+    "answers": [
+      { "text": " Banco Central do Brasil (BCB) ", "isCorrect": true },
+      { "text": " Conselho Nacional de Previdência e Consórcio (CNPC) ", "isCorrect": false },
+      { "text": " Conselho Monetário Nacional (CMN) ", "isCorrect": false },
+      { "text": " Comissão de Valores Mobiliários (CVM) ", "isCorrect": false },
+      { "text": " Superintendência de Seguros Privados (Susep) ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O cliente de um banco solicitou uma recomendação de investimento a seu gerente, que atua na área de investimentos do banco. Ele recebeu uma recomendação com as seguintes características: título emitido por sociedade por ação, considerado crédito privado de renda fixa para captação de recursos no mercado de capitais, que as empresas utilizam para financiar seus projetos, cuja oferta pública é registrada na Comissão de Valores Mobiliários (CVM), e em que haja a expectativa de receber juros prefixados periódicos e o pagamento do principal no vencimento do título. Considerando-se as informações apresentadas, o gerente indicou que o seu cliente investisse em " ,
+    "answers": [
+      { "text": " Debênture ", "isCorrect": true },
+      { "text": " Certificado de Depósito Bancário (CDB) ", "isCorrect": false },
+      { "text": " Ação ", "isCorrect": false },
+      { "text": " Tesouro Direto ", "isCorrect": false },
+      { "text": " Fundo de Renda Fixa ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um trabalhador, empregado de uma determinada empresa, com recursos depositados no Fundo de Garantia do Tempo de Serviço (FGTS), tem dúvidas sobre as situações em que poderá ter acesso a sua conta vinculada no FGTS. De acordo com a Lei no  8.036/1990, o trabalhador poderá movimentar a sua conta vinculada no FGTS na seguinte situação:  " ,
+    "answers": [
+      { "text": " tiver aposentadoria concedida pela Previdência Social. ", "isCorrect": true },
+      { "text": " for despedido sem justa causa, excluídas a rescisão indireta, de culpa recíproca e de força maior ", "isCorrect": false },
+      { "text": " tiver idade igual ou superior a sessenta e cinco anos. ", "isCorrect": false },
+      { "text": " permanecer dois anos ininterruptos fora do regime do FGTS. ", "isCorrect": false },
+      { "text": " for acometido, ou qualquer de seus dependentes, subitamente, de qualquer doença grave ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Após o final da apresentação sobre um serviço, um profissional de venda escutou do cliente potencial as seguintes frases: (i) “Deixe-me pensar a respeito por algum tempo.” (ii) “Tenho que falar sobre isso com meu chefe.” (iii) “Devo aguardar até o próximo período de orçamento.” Para superar essas objeções de adiamento, a estratégia adequada a ser adotada pelo profissional de vendas é " ,
+    "answers": [
+      { "text": " solicitar um compromisso em relação a alguma ação futura que vá impulsionar a venda, como, por exemplo, solicitar um encontro com o cliente e seu chefe, ou com quem possa ter influência sobre a decisão. ", "isCorrect": true },
+      { "text": " convencer o cliente da importância do problema e do valor da solução, retornando à etapa de determinação de necessidades e mudando a percepção do comprador quanto ao valor ou ao preço do serviço. ", "isCorrect": false },
+      { "text": " confrontar o cliente, pedindo que ele repita e esclareça as objeções e dê mais informações, ou fornecer informações adicionais para esclarecer algum mal- -entendido que o cliente tenha a respeito do serviço. ", "isCorrect": false },
+      { "text": " reconhecer que seu serviço não atende ao fim específico e tentar aumentar o valor perceptível desse serviço, enfatizando aquelas necessidades importantes que podem ser atendidas ", "isCorrect": false },
+      { "text": " encarar o potencial cliente como um oponente, criando um clima de intimidade e camaradagem, e tirar o foco da venda da questão financeira, apresentando os melhores benefícios do serviço. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Em 28 de fevereiro de 2024, o presidente da Caixa Econômica Federal, Carlos Vieira, afirmou que o banco está reorientando sua atuação para colocar os clientes no centro das decisões e, para tanto, está mudando suas estruturas internas em busca de um maior foco nos clientes.  As organizações que adotam o clientecentrismo podem usufruir de vários benefícios, mas também precisam gerenciar desafios. Na criação de um mindset clientocêntrico, o maior desafio é a" ,
+    "answers": [
+      { "text": " falta de uma cultura organizacional centrada no cliente e de líderes que estimulem essa cultura e a disseminem. ", "isCorrect": true },
+      { "text": " coleta de dados demográficos para o entendimento das necessidades e dos desejos do cliente. ", "isCorrect": false },
+      { "text": " personalização e a customização de soluções mediante gatilhos de incentivo na primeira compra, para que o consumidor queira fornecer seus dados de cadastr ", "isCorrect": false },
+      { "text": " cocriação de valor com os clientes, para criar serviços ou experiências que ofereçam valor adicional. ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Para implementar uma estratégia de Inbound Marketing, o vendedor de uma empresa oferece um material rico disponibilizado pela sua empresa ao cliente, esperando que o consumidor que recebeu o serviço sinta-se comovido com tal gentileza, a ponto de querer fechar negócio ou priorizar a empresa na contratação de um serviço só pelo sentimento de benevolência que foi criado com a ação. Essa situação exemplifica a aplicação de um gatilho mental denominado " ,
+    "answers": [
+      { "text": " reciprocidade ", "isCorrect": true },
+      { "text": " escassez ", "isCorrect": false },
+      { "text": " aprovação social ", "isCorrect": false },
+      { "text": " autoridade e afeição ", "isCorrect": false },
+      { "text": " compromisso e coerênci ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " No setor bancário, com tanta similaridade entre os produtos e serviços ofertados, o diferencial para o cliente passa a ser a qualidade com que os serviços são prestados. Assim sendo, para um indivíduo escolher em qual banco pediria um financiamento, ele foi a uma agência bancária fortemente recomendada por amigos e, depois de longa espera em uma fila interminável, a qualidade do atendimento face a face caracterizou-se por falta de informação, mau humor e tratamento grosseiro. Diante dessa experiência, ele formou uma imagem negativa da organização e decidiu que não usará os serviços dela. A situação descrita ilustra um exemplo de " ,
+    "answers": [
+      { "text": " momento de verdade ", "isCorrect": true },
+      { "text": " gargalo ", "isCorrect": false },
+      { "text": " deserção ", "isCorrect": false },
+      { "text": " incidente crítico ", "isCorrect": false },
+      { "text": " flor de serviço ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A população de clientes de um banco certamente contém indivíduos que podem não estar satisfeitos ou que nunca serão lucrativos, considerando seu uso de recursos em relação à receita que propiciam. Assim sendo, uma instituição bancária que visava apenas os clientes cujas necessidades ela poderia atender melhor do que seus concorrentes optou, na aplicação do Marketing Digital, pela personalização de conteúdo e pela publicidade direcionada, gerando um aumento da relevância da mensagem para públicos específicos. Esse banco aplicou ao Marketing Digital o conceito de " ,
+    "answers": [
+      { "text": " segmentação de mercado  ", "isCorrect": true },
+      { "text": " fidelidade ", "isCorrect": false },
+      { "text": " reposicionamento ", "isCorrect": false },
+      { "text": " recuperação do serviço ", "isCorrect": false },
+      { "text": " vantagem competitiva sustentável ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O marketing de relacionamento percebe o grau de lealdade do cliente como uma escada, que demonstra a progressão dos graus da relação que os clientes podem estabelecer com uma organização. Considerando esse modelo, imagine dois clientes com os seguintes perfis: Cliente P: alguém que a organização acredita que pode ser persuadido a negociar com a instituição; e Cliente Q: alguém que recomenda ativamente a organização para terceiros, mas não tem um relacionamento de parceria. Considerando-se a escala de lealdade de Payne, os clientes P e Q são respectivamente denominados  " ,
+    "answers": [
+      { "text": " potencial e defensor ", "isCorrect": true },
+      { "text": " defensor e adepto ", "isCorrect": false },
+      { "text": " comprador e parceiro ", "isCorrect": false },
+      { "text": " comprador e potencial ", "isCorrect": false },
+      { "text": " parceiro e prospectivo ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um cliente de um Banco procurou a Ouvidoria da instituição para buscar a solução de uma demanda e recebeu como resposta que a Ouvidoria não poderia atendê-lo naquele caso, por estar fora das finalidades para as quais a Ouvidoria foi constituída. Segundo a Resolução CMN no  4.860/2020, a Ouvidoria constituída pelas instituições financeiras tem por finalidade " ,
+    "answers": [
+      { "text": " atuar como canal de comunicação entre a instituição e os clientes e usuários de produtos e serviços, inclusive na mediação de conflitos ", "isCorrect": true },
+      { "text": " realizar o atendimento habitual, em qualquer ponto ou canal de atendimento, às demandas dos clientes e usuários de produtos e serviços da instituição.   ", "isCorrect": false },
+      { "text": " atender e solucionar, em primeira instância, as demandas dos clientes e usuários de produtos e serviços da instituição.  ", "isCorrect": false },
+      { "text": " atuar como canal de comunicação entre o Banco Central e os clientes e usuários de produtos e serviços, inclusive na arbitragem de conflitos ", "isCorrect": false },
+      { "text": " atuar como canal de comunicação entre o Banco Central e os clientes e usuários de produtos e serviços, inclusive na conciliação de conflitos. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O gerente de agência de uma instituição financeira, ao receber muitas reclamações com relação à demora no serviço presencial prestado pela instituição, decidiu estruturar melhorias no atendimento. Para isso, ele iniciou o atendimento prioritário aos clientes e usuários, a fim de contemplar todas as situações previstas nas legislações vigentes. Conforme a Lei no  10.741/2003 e a Lei no  10.048/2000, ambas com suas respectivas alterações, os funcionários da agência deverão garantir atendimento prioritário   " ,
+    "answers": [
+      { "text": " para os acompanhantes ou atendentes pessoais de pessoas idosas, atendidos junta e acessoriamente aos titulares. ", "isCorrect": true },
+      { "text": " para pessoas a partir dos 65 anos.  ", "isCorrect": false },
+      { "text": " para as pessoas com crianças de até 10 anos de idade ", "isCorrect": false },
+      { "text": " especial a partir de 85 anos, preferencialmente em relação às demais pessoas idosas ", "isCorrect": false },
+      { "text": " especial aos maiores de 75 anos, preferencialmente em relação às demais pessoas idosas. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Após processo seletivo, determinada instituição financeira escolheu, para compor o quadro de funcionários, diversas pessoas com deficiência. Para definir o campo de atuação desses novos colaboradores, criou, no Departamento de Recursos Humanos, um grupo de análise. Nos termos da Lei no  13.146/2015, a avaliação da deficiência, quando necessária, será " ,
+    "answers": [
+      { "text": " biopsicossocial ", "isCorrect": true },
+      { "text": " indicativa ", "isCorrect": false },
+      { "text": " vinculada ", "isCorrect": false },
+      { "text": " histórica ", "isCorrect": false },
+      { "text": " presumida ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Certa instituição financeira convidou seus correntistas para cursos de atualização em finanças e proteção à natureza e foi questionada por alguns clientes sobre essa medida. A instituição respondeu que cumpria os comandos legais pertinentes. Nos termos da Lei no  8.078/1990, a Política Nacional das Relações de Consumo tem por objetivos o atendimento das necessidades dos consumidores, o respeito à sua dignidade, saúde e segurança, a proteção de seus interesses econômicos, a melhoria da sua qualidade de vida, bem como a transparência e a harmonia das relações de consumo, atendidos alguns princípios. Dentre os princípios a serem atendidos está a(o) " ,
+    "answers": [
+      { "text": " fomento de ações direcionadas à educação financeira e ambiental dos consumidores ", "isCorrect": true },
+      { "text": " conscientização do papel financeiro das organizações para preservar a lucratividade almejada. ", "isCorrect": false },
+      { "text": " Implementação de instrumentos para diminuir o nível de endividamento das famílias mais vulneráveis. ", "isCorrect": false },
+      { "text": " verificação de medidas protetivas ao crédito para aquisição de bens duráveis da linha doméstica. ", "isCorrect": false },
+      { "text": " incentivo à poupança da população para propiciar vida melhor na aposentadoria. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um gerente de um determinado banco participa de vários projetos de investimentos em tecnologias de ponta. Antes da divulgação dos editais para escolha dos projetos mais adequados, ele procura um parente e lhe apresenta todos os detalhes necessários para que esse parente possa apresentar uma candidatura ao financiamento. Nos termos do Código de Conduta da Caixa Econômica Federal, caso esses fatos fossem vinculados a servidor da instituição, estaria caracterizado(a)  " ,
+    "answers": [
+      { "text": " conflito de interesses ", "isCorrect": true },
+      { "text": " ato de solidariedade ", "isCorrect": false },
+      { "text": " empreendedorismo indevido ", "isCorrect": false },
+      { "text": " atividade paralela ", "isCorrect": false },
+      { "text": " quebra de decoro ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A principal característica do crédito direto ao consumidor (CDC) é que esse instrumento de financiamento dispensa " ,
+    "answers": [
+      { "text": " avalista ", "isCorrect": true },
+      { "text": " análise cadastral do cliente ", "isCorrect": false },
+      { "text": " limite de prazo de pagamento ", "isCorrect": false },
+      { "text": " limite de crédito ", "isCorrect": false },
+      { "text": " identificação do cliente ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O texto seguinte diz respeito à generalização das políticas monetárias consideradas não convencionais por parte dos bancos centrais do mundo inteiro. // Os bancos centrais globais agora percebem que políticas monetárias antes consideradas não convencionais e temporárias agora se revelam convencionais e duradouras. Obrigados a encontrar novas soluções devido à crise financeira de 2008 e novamente neste ano por causa da pandemia de coronavírus, o Federal Reserve (Fed, na sigla em inglês), o Banco Central Europeu e a maioria dos bancos centrais internacionais se tornaram mais agressivos e inovadores do que nunca na defesa das economias contra a recessão e ameaça de deflação. // Um exemplo de política monetária não convencional é a " ,
+    "answers": [
+      { "text": " compra de títulos públicos e privados por parte dos bancos centrais ", "isCorrect": true },
+      { "text": " redução da taxa básica de juros ", "isCorrect": false },
+      { "text": " redução das taxas de redesconto ", "isCorrect": false },
+      { "text": " expansão da base monetária ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  }
+  
+]  

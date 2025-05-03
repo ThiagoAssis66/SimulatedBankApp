@@ -1,0 +1,443 @@
+[ 
+  {
+    "question": " The new cost of living in New Mexico ALBUQUERQUE, N.M. — Prices are going up in New Mexico, especially at the grocery store. A recent study found the average New Mexican family is spending up to $286 on groceries per week – and even more when children are involved. According to the U.S. Bureau of Labor Statistics, the average price for a pound of ground beef was $5.56 last month. That’s about 20 cents cheaper than back in July, but almost a full dollar more expensive than in January 2020 – right before the pandemic hit. It’s a similar trend for milk, but a gallon is only about 50 cents more expensive than four years ago. Eggs are half the price of what they were last winter, but that’s because there was an avian flu outbreak. Most produce items, like tomatoes and bananas, have stayed around the same price for several years now. That’s probably a good thing, because snacks are getting more expensive. Data shows the average bag of potato chips is almost $2 more expensive than four years ago. The price of chocolate chip cookies is also up almost 40%. All of those small increments add up. While it’s not likely there will be a major drop in grocery prices soon, there is some potentially good news when it comes to your housing budget. Officials with the Apartment Association of New Mexico say there are at least 40 housing projects under construction in the Albuquerque area. That is expected to bring at least 5,000 rental units to the market in the coming months. State leaders are pitching in too, with several new bills opening up millions of dollars in funding for even more housing projects. The average rent in Albuquerque is sitting at $1,340 a month – about $400 higher than in January 2020. Economists suggest an increased housing supply could reduce prices for everyone. There is also evidence that wage growth is happening. Data from the U.S. Bureau of Labor Statistics showed average hourly earnings increased by 1.4% since last January. It’s worth noting wage growth rates have surpassed inflation rates since last February. /////// Paragraphs 1 through 3 indicate that " ,
+    "answers": [
+      { "text": " some food items are now more expensive than they were before the pandemic ", "isCorrect": true },
+      { "text": " New Mexican families are now less numerous, therefore food provision is cheaper. ", "isCorrect": false },
+      { "text": " the consumption of beef and vegetables has increased, along with their prices ", "isCorrect": false },
+      { "text": " an avian flu outbreak is affecting the prices of milk and eggs nowadays. ", "isCorrect": false },
+      { "text": " popular snacks have had the smallest price increase in the last four years. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " The new cost of living in New Mexico ALBUQUERQUE, N.M. — Prices are going up in New Mexico, especially at the grocery store. A recent study found the average New Mexican family is spending up to $286 on groceries per week – and even more when children are involved. According to the U.S. Bureau of Labor Statistics, the average price for a pound of ground beef was $5.56 last month. That’s about 20 cents cheaper than back in July, but almost a full dollar more expensive than in January 2020 – right before the pandemic hit. It’s a similar trend for milk, but a gallon is only about 50 cents more expensive than four years ago. Eggs are half the price of what they were last winter, but that’s because there was an avian flu outbreak. Most produce items, like tomatoes and bananas, have stayed around the same price for several years now. That’s probably a good thing, because snacks are getting more expensive. Data shows the average bag of potato chips is almost $2 more expensive than four years ago. The price of chocolate chip cookies is also up almost 40%. All of those small increments add up. While it’s not likely there will be a major drop in grocery prices soon, there is some potentially good news when it comes to your housing budget. Officials with the Apartment Association of New Mexico say there are at least 40 housing projects under construction in the Albuquerque area. That is expected to bring at least 5,000 rental units to the market in the coming months. State leaders are pitching in too, with several new bills opening up millions of dollars in funding for even more housing projects. The average rent in Albuquerque is sitting at $1,340 a month – about $400 higher than in January 2020. Economists suggest an increased housing supply could reduce prices for everyone. There is also evidence that wage growth is happening. Data from the U.S. Bureau of Labor Statistics showed average hourly earnings increased by 1.4% since last January. It’s worth noting wage growth rates have surpassed inflation rates since last February. /////// n paragraph 4, the fragment “While it’s not likely there will be a major drop in grocery prices soon” conveys the idea that it is  " ,
+    "answers": [
+      { "text": " improbable for grocery items to become significantly cheaper in the near future ", "isCorrect": true },
+      { "text": " certain that grocery products will become much cheaper in the long term. ", "isCorrect": false },
+      { "text": " mandatory that grocery prices be drastically reduced immediately.  ", "isCorrect": false },
+      { "text": " disadvantageous for grocery articles to become considerably cheaper eventually.  ", "isCorrect": false },
+      { "text": " imperceptible that grocery prices should be substantially reduced. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " The new cost of living in New Mexico ALBUQUERQUE, N.M. — Prices are going up in New Mexico, especially at the grocery store. A recent study found the average New Mexican family is spending up to $286 on groceries per week – and even more when children are involved. According to the U.S. Bureau of Labor Statistics, the average price for a pound of ground beef was $5.56 last month. That’s about 20 cents cheaper than back in July, but almost a full dollar more expensive than in January 2020 – right before the pandemic hit. It’s a similar trend for milk, but a gallon is only about 50 cents more expensive than four years ago. Eggs are half the price of what they were last winter, but that’s because there was an avian flu outbreak. Most produce items, like tomatoes and bananas, have stayed around the same price for several years now. That’s probably a good thing, because snacks are getting more expensive. Data shows the average bag of potato chips is almost $2 more expensive than four years ago. The price of chocolate chip cookies is also up almost 40%. All of those small increments add up. While it’s not likely there will be a major drop in grocery prices soon, there is some potentially good news when it comes to your housing budget. Officials with the Apartment Association of New Mexico say there are at least 40 housing projects under construction in the Albuquerque area. That is expected to bring at least 5,000 rental units to the market in the coming months. State leaders are pitching in too, with several new bills opening up millions of dollars in funding for even more housing projects. The average rent in Albuquerque is sitting at $1,340 a month – about $400 higher than in January 2020. Economists suggest an increased housing supply could reduce prices for everyone. There is also evidence that wage growth is happening. Data from the U.S. Bureau of Labor Statistics showed average hourly earnings increased by 1.4% since last January. It’s worth noting wage growth rates have surpassed inflation rates since last February. /////// In paragraph 4, the section “there are at least 40 housing projects under construction” means that new residential units " ,
+    "answers": [
+      { "text": " are currently being built. ", "isCorrect": true },
+      { "text": " have just been finished. ", "isCorrect": false },
+      { "text": " might eventually be built. ", "isCorrect": false },
+      { "text": " couldn’t be finished. ", "isCorrect": false },
+      { "text": " are temporarily suspended. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " The new cost of living in New Mexico ALBUQUERQUE, N.M. — Prices are going up in New Mexico, especially at the grocery store. A recent study found the average New Mexican family is spending up to $286 on groceries per week – and even more when children are involved. According to the U.S. Bureau of Labor Statistics, the average price for a pound of ground beef was $5.56 last month. That’s about 20 cents cheaper than back in July, but almost a full dollar more expensive than in January 2020 – right before the pandemic hit. It’s a similar trend for milk, but a gallon is only about 50 cents more expensive than four years ago. Eggs are half the price of what they were last winter, but that’s because there was an avian flu outbreak. Most produce items, like tomatoes and bananas, have stayed around the same price for several years now. That’s probably a good thing, because snacks are getting more expensive. Data shows the average bag of potato chips is almost $2 more expensive than four years ago. The price of chocolate chip cookies is also up almost 40%. All of those small increments add up. While it’s not likely there will be a major drop in grocery prices soon, there is some potentially good news when it comes to your housing budget. Officials with the Apartment Association of New Mexico say there are at least 40 housing projects under construction in the Albuquerque area. That is expected to bring at least 5,000 rental units to the market in the coming months. State leaders are pitching in too, with several new bills opening up millions of dollars in funding for even more housing projects. The average rent in Albuquerque is sitting at $1,340 a month – about $400 higher than in January 2020. Economists suggest an increased housing supply could reduce prices for everyone. There is also evidence that wage growth is happening. Data from the U.S. Bureau of Labor Statistics showed average hourly earnings increased by 1.4% since last January. It’s worth noting wage growth rates have surpassed inflation rates since last February. /////// In the fragment of paragraph 4 “The average rent in Albuquerque is […] about $400 higher than in January '2020”, the word “higher” can be replaced, with no change in meaning, by " ,
+    "answers": [
+      { "text": " more expensive ", "isCorrect": true },
+      { "text": " cheaper ", "isCorrect": false },
+      { "text": " better ", "isCorrect": false },
+      { "text": " taller ", "isCorrect": false },
+      { "text": " more manageable ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " The new cost of living in New Mexico ALBUQUERQUE, N.M. — Prices are going up in New Mexico, especially at the grocery store. A recent study found the average New Mexican family is spending up to $286 on groceries per week – and even more when children are involved. According to the U.S. Bureau of Labor Statistics, the average price for a pound of ground beef was $5.56 last month. That’s about 20 cents cheaper than back in July, but almost a full dollar more expensive than in January 2020 – right before the pandemic hit. It’s a similar trend for milk, but a gallon is only about 50 cents more expensive than four years ago. Eggs are half the price of what they were last winter, but that’s because there was an avian flu outbreak. Most produce items, like tomatoes and bananas, have stayed around the same price for several years now. That’s probably a good thing, because snacks are getting more expensive. Data shows the average bag of potato chips is almost $2 more expensive than four years ago. The price of chocolate chip cookies is also up almost 40%. All of those small increments add up. While it’s not likely there will be a major drop in grocery prices soon, there is some potentially good news when it comes to your housing budget. Officials with the Apartment Association of New Mexico say there are at least 40 housing projects under construction in the Albuquerque area. That is expected to bring at least 5,000 rental units to the market in the coming months. State leaders are pitching in too, with several new bills opening up millions of dollars in funding for even more housing projects. The average rent in Albuquerque is sitting at $1,340 a month – about $400 higher than in January 2020. Economists suggest an increased housing supply could reduce prices for everyone. There is also evidence that wage growth is happening. Data from the U.S. Bureau of Labor Statistics showed average hourly earnings increased by 1.4% since last January. It’s worth noting wage growth rates have surpassed inflation rates since last February. /////// The excerpt of paragraph 5 “wage growth rates have surpassed inflation rates since last February” informs that  " ,
+    "answers": [
+      { "text": " salaries have increased beyond inflation. ", "isCorrect": true },
+      { "text": " inflation rates have enlarged people’s income ", "isCorrect": false },
+      { "text": " inflation rates are lower now than last February. ", "isCorrect": false },
+      { "text": " salaries have reduced because of inflation. ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Qual é o artigo definido em inglês? " ,
+    "answers": [
+      { "text": " The ", "isCorrect": true },
+      { "text": " A ", "isCorrect": false },
+      { "text": " Any ", "isCorrect": false },
+      { "text": " Some ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Qual é o passado do verbo 'go'? " ,
+    "answers": [
+      { "text": " Went ", "isCorrect": true },
+      { "text": " Goes ", "isCorrect": false },
+      { "text": " Gone ", "isCorrect": false },
+      { "text": " Going ", "isCorrect": false },
+      { "text": " Go ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " ual a forma correta de dizer 'Ela está estudando agora'? " ,
+    "answers": [
+      { "text": " She is studying now. ", "isCorrect": true },
+      { "text": " She study now. ", "isCorrect": false },
+      { "text": " She studies now. ", "isCorrect": false },
+      { "text": " She studying now. ", "isCorrect": false },
+      { "text": " She is study now. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Qual é o plural irregular da palavra 'child'? " ,
+    "answers": [
+      { "text": " Chields ", "isCorrect": true },
+      { "text": " Childs ", "isCorrect": false },
+      { "text": " Children ", "isCorrect": false },
+      { "text": " Childrens ", "isCorrect": false },
+      { "text": " Childes ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Como se diz 'Você já esteve na Inglaterra?' em inglês? " ,
+    "answers": [
+      { "text": " Have you ever been to England? ", "isCorrect": true },
+      { "text": " Did you ever go to England? ", "isCorrect": false },
+      { "text": " Are you already in England? ", "isCorrect": false },
+      { "text": " Do you ever go to England? ", "isCorrect": false },
+      { "text": " Were you in England? ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Complete a frase: 'If I had money, I ______ a new car.' " ,
+    "answers": [
+      { "text": " would buy ", "isCorrect": true },
+      { "text": " will buy ", "isCorrect": false },
+      { "text": " bought ", "isCorrect": false },
+      { "text": " buy ", "isCorrect": false },
+      { "text": " am buying ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Qual a tradução de 'She has been working since morning'? " ,
+    "answers": [
+      { "text": " Ela tem trabalhado desde a manhã. ", "isCorrect": true },
+      { "text": " Ela trabalha todas as manhãs. ", "isCorrect": false },
+      { "text": " Ela trabalha desde a manhã ", "isCorrect": false },
+      { "text": " Ela está trabalhando desde cedo ", "isCorrect": false },
+      { "text": " Ela esteve trabalhando de manhã ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Escolha a frase correta em inglês: " ,
+    "answers": [
+      { "text": " I have two children. ", "isCorrect": true },
+      { "text": " I have two childs. ", "isCorrect": false },
+      { "text": " I haved two children. ", "isCorrect": false },
+      { "text": " I has two childs. ", "isCorrect": false },
+      { "text": " I has two children. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Qual é a palavra que completa a frase: 'I need to buy some ______ for breakfast.' " ,
+    "answers": [
+      { "text": " bread ", "isCorrect": true },
+      { "text": " books ", "isCorrect": false },
+      { "text": " information ", "isCorrect": false },
+      { "text": " water ", "isCorrect": false },
+      { "text": " homework ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Qual é o significado de 'to be on cloud nine'? " ,
+    "answers": [
+      { "text": " Estar nas nuvens ", "isCorrect": true },
+      { "text": " Estar irritado. ", "isCorrect": false },
+      { "text": " Estar indeciso ", "isCorrect": false },
+      { "text": " Estar na chuva. ", "isCorrect": false },
+      { "text": " Estar perdido. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Qual é a forma interrogativa da frase 'He likes pizza'? " ,
+    "answers": [
+      { "text": " Does he like pizza? ", "isCorrect": true },
+      { "text": " Do he like pizza? ", "isCorrect": false },
+      { "text": " Does he likes pizza? ", "isCorrect": false },
+      { "text": " He likes pizza? ", "isCorrect": false },
+      { "text": " Did he like pizza? ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Complete a frase com a opção correta: 'By the time we arrived, the movie ______.' " ,
+    "answers": [
+      { "text": " had started ", "isCorrect": true },
+      { "text": " has started ", "isCorrect": false },
+      { "text": " started ", "isCorrect": false },
+      { "text": " starts ", "isCorrect": false },
+      { "text": " was starting ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Qual é o equivalente em inglês para a expressão 'dar uma mão'? " ,
+    "answers": [
+      { "text": " To lend a hand ", "isCorrect": true },
+      { "text": " To give a leg ", "isCorrect": false },
+      { "text": " To take an arm ", "isCorrect": false },
+      { "text": " To take an arm ", "isCorrect": false },
+      { "text": " To offer a finger ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Escolha a frase gramaticalmente correta: " ,
+    "answers": [
+      { "text": " If I had known the answer, I would have told you. ", "isCorrect": true },
+      { "text": " If I knew the answer, I would have told you. ", "isCorrect": false },
+      { "text": " If I had known the answer, I would tell you. ", "isCorrect": false },
+      { "text": " If I have known the answer, I will tell you. ", "isCorrect": false },
+      { "text": " If I know the answer, I would have told you. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Complete com o verbo correto: 'She wishes she ______ how to drive.' " ,
+    "answers": [
+      { "text": " knew ", "isCorrect": true },
+      { "text": " knows ", "isCorrect": false },
+      { "text": " will know ", "isCorrect": false },
+      { "text": " has known ", "isCorrect": false },
+      { "text": " know ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Qual é o significado da expressão 'to be over the moon'? " ,
+    "answers": [
+      { "text": " Estar extremamente feliz ", "isCorrect": true },
+      { "text": " Estar confuso ", "isCorrect": false },
+      { "text": " Estar irritado ", "isCorrect": false },
+      { "text": " Estar cansado ", "isCorrect": false },
+      { "text": " Estar sem esperança ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Qual é o erro na frase 'He don’t like coffee'? " ,
+    "answers": [
+      { "text": " O uso de 'don’t' está incorreto com 'He' ", "isCorrect": true },
+      { "text": " O verbo 'like' está incorreto ", "isCorrect": false },
+      { "text": " Falta o artigo antes de 'coffee' ", "isCorrect": false },
+      { "text": " 'He' deveria ser 'Him' ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Complete a frase: 'I regret ______ her the truth.' " ,
+    "answers": [
+      { "text": " telling ", "isCorrect": true },
+      { "text": " to tell ", "isCorrect": false },
+      { "text": " tell ", "isCorrect": false },
+      { "text": " told ", "isCorrect": false },
+      { "text": " to have telling ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Escolha a alternativa correta para 'Ela tem menos livros que ele' " ,
+    "answers": [
+      { "text": " She has fewer books than him ", "isCorrect": true },
+      { "text": " She has less books than he ", "isCorrect": false },
+      { "text": " She have fewer books than him ", "isCorrect": false },
+      { "text": " She has lesser books than him ", "isCorrect": false },
+      { "text": " She has less books than him ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Qual frase está no estilo formal? " ,
+    "answers": [
+      { "text": " I don’t have any time. ", "isCorrect": true },
+      { "text": " I ain't got no time. ", "isCorrect": false },
+      { "text": " I don't got time. ", "isCorrect": false },
+      { "text": " I ain't have time. ", "isCorrect": false },
+      { "text": " I got no time. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Complete a frase: 'If I hadn’t missed the bus, I ______ late for work.' " ,
+    "answers": [
+      { "text": " wouldn’t have been ", "isCorrect": true },
+      { "text": " wouldn’t be ", "isCorrect": false },
+      { "text": " won’t be ", "isCorrect": false },
+      { "text": " haven’t been ", "isCorrect": false },
+      { "text": " didn’t be ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Complete a frase: 'She ______ to the gym three times a week.' " ,
+    "answers": [
+      { "text": " goes ", "isCorrect": true },
+      { "text": " go ", "isCorrect": false },
+      { "text": " going ", "isCorrect": false },
+      { "text": " gone ", "isCorrect": false },
+      { "text": " has go ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Qual é o significado da expressão 'break the ice'? " ,
+    "answers": [
+      { "text": " Tornar uma situação menos formal ", "isCorrect": true },
+      { "text": " Causar um problema ", "isCorrect": false },
+      { "text": " Interromper alguém ", "isCorrect": false },
+      { "text": " Destruir algo delicad ", "isCorrect": false },
+      { "text": " Resolver um conflito ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Escolha a frase correta: " ,
+    "answers": [
+      { "text": " If I see her, I will tell her the news. ", "isCorrect": true },
+      { "text": " If I will see her, I tell her the news. ", "isCorrect": false },
+      { "text": " If I saw her, I will tell her the news. ", "isCorrect": false },
+      { "text": " If I see her, I would tell her the news. ", "isCorrect": false },
+      { "text": " If I seen her, I would tell her the news. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Complete a frase: 'I am looking forward ______ you again.' " ,
+    "answers": [
+      { "text": " to seeing ", "isCorrect": true },
+      { "text": " see ", "isCorrect": false },
+      { "text": " seeing ", "isCorrect": false },
+      { "text": " to see ", "isCorrect": false },
+      { "text": " saw ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Qual é o erro gramatical em 'She don’t know the answer'? " ,
+    "answers": [
+      { "text": " O uso de 'don’t' com 'She' está incorreto ", "isCorrect": true },
+      { "text": " O sujeito está errado ", "isCorrect": false },
+      { "text": " O verbo 'know' deveria ser 'knows'", "isCorrect": false },
+      { "text": " Falta o artigo antes de 'answer' ", "isCorrect": false },
+      { "text": " Não há erro ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Escolha a alternativa que melhor complete a frase: 'They ______ in London when I visited them.' " ,
+    "answers": [
+      { "text": " were living ", "isCorrect": true },
+      { "text": " live ", "isCorrect": false },
+      { "text": " are living ", "isCorrect": false },
+      { "text": " lived ", "isCorrect": false },
+      { "text": " have lived ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Qual é o significado de 'to hit the nail on the head'? " ,
+    "answers": [
+      { "text": " Ser direto ao ponto ", "isCorrect": true },
+      { "text": " Resolver um problema completamente ", "isCorrect": false },
+      { "text": " Estragar tudo ", "isCorrect": false },
+      { "text": " Fazer algo sem pensar ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Qual é a forma correta de dizer 'Eu estou acostumado a acordar cedo' em inglês? " ,
+    "answers": [
+      { "text": " I am used to waking up early. ", "isCorrect": true },
+      { "text": " I use to wake up early. ", "isCorrect": false },
+      { "text": " I was used to wake up early. ", "isCorrect": false },
+      { "text": " I use waking up early. ", "isCorrect": false },
+      { "text": " I am used waking up early. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Qual opção completa corretamente a frase: 'They ______ finished their homework.' " ,
+    "answers": [
+      { "text": " have ", "isCorrect": true },
+      { "text": " has ", "isCorrect": false },
+      { "text": " had ", "isCorrect": false },
+      { "text": " is ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Escolha a alternativa que apresenta o uso correto de 'there, their, they're': " ,
+    "answers": [
+      { "text": " They're going to visit their friends over there. ", "isCorrect": true },
+      { "text": " There going to visit they're friends over their. ", "isCorrect": false },
+      { "text": " Their going to visit they're friends over there. ", "isCorrect": false },
+      { "text": " They're going to visit there friends over their ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Complete a frase: 'She ______ her keys at home.' " ,
+    "answers": [
+      { "text": " forgot ", "isCorrect": true },
+      { "text": " forgets ", "isCorrect": false },
+      { "text": " forgetting ", "isCorrect": false },
+      { "text": " has forgot ", "isCorrect": false },
+      { "text": " will forget ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Qual é a diferença entre 'much' e 'many'? " ,
+    "answers": [
+      { "text": " 'Many' é usado com substantivos contáveis; 'much' com incontáveis. ", "isCorrect": true },
+      { "text": " 'Much' é usado com substantivos contáveis; 'many' com incontáveis ", "isCorrect": false },
+      { "text": " Ambos são usados com substantivos contáveis. ", "isCorrect": false },
+      { "text": " Ambos são usados com substantivos incontáveis ", "isCorrect": false },
+      { "text": " 'Much' é informal, 'many' é formal. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Qual opção apresenta um erro gramatical? " ,
+    "answers": [
+      { "text": " She don’t like coffee. ", "isCorrect": true },
+      { "text": " I didn’t see him yesterday. ", "isCorrect": false },
+      { "text": " He goes to school every day. ", "isCorrect": false },
+      { "text": " They have been working all day. ", "isCorrect": false },
+      { "text": " We are going to the park. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Complete com a forma correta do verbo: 'If he ______ harder, he would pass the exam.' " ,
+    "answers": [
+      { "text": " studied ", "isCorrect": true },
+      { "text": " studies ", "isCorrect": false },
+      { "text": " is studying ", "isCorrect": false },
+      { "text": " has studied ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Qual é o uso correto de 'who' e 'whom'? " ,
+    "answers": [
+      { "text": " 'Who' é usado como sujeito e 'whom' como objeto ", "isCorrect": true },
+      { "text": " 'Who' é usado como objeto e 'whom' como sujeito. ", "isCorrect": false },
+      { "text": " Ambos são usados como sujeito. ", "isCorrect": false },
+      { "text": " Ambos são usados como objeto ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Escolha a opção correta para: 'Ele está acostumado a trabalhar tarde.' " ,
+    "answers": [
+      { "text": " He is used to working late ", "isCorrect": true },
+      { "text": " He is used to work late ", "isCorrect": false },
+      { "text": " He used to work late ", "isCorrect": false },
+      { "text": " He is working late. ", "isCorrect": false },
+      { "text": " He works late. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Complete com o tempo verbal correto: 'I ______ English for five years.' " ,
+    "answers": [
+      { "text": " have been studying ", "isCorrect": true },
+      { "text": " study ", "isCorrect": false },
+      { "text": " studied ", "isCorrect": false },
+      { "text": " am studying ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Qual frase apresenta o uso correto da voz passiva? " ,
+    "answers": [
+      { "text": " The cake was eaten by the children. ", "isCorrect": true },
+      { "text": " The cake ate by the children. ", "isCorrect": false },
+      { "text": " The children are ate the cake ", "isCorrect": false },
+      { "text": " The cake was eating by the children ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  }  
+  
+]  

@@ -1,0 +1,886 @@
+[ 
+  {
+    "question": " SEM SOLUÇÃO / Carlos Heitor Cony – Folha de São Paulo / Foi melancólico o 1º de Maio deste ano. Não tivemos a tragédia do Riocentro, que até hoje não foi bem explicada e, para todos os efeitos, marcou o início do fim da ditadura militar. Tampouco ressuscitamos o entusiasmo das festividades, os desfiles e a tradicional arenga de um ditador que, durante anos, começava seus discursos com o famoso mantra: Trabalhadores do Brasil. De qualquer forma, era um pretexto para os governos de plantão forçarem um clima de conciliação nacional, o salário mínimo era aumentado e, nos teatros da praça Tiradentes, havia sempre uma apoteose patriótica com os grandes nomes do rebolado agitando bandeirinhas nacionais. Nos rádios, a trilha musical era dos brados e hinos militares, na base do avante camaradas. Este ano, a tônica foram as vaias que os camaradas deram às autoridades federais, estaduais e municipais. Com os suculentos escândalos (mensalão, etrobrás e outros menos votados), as manifestações contra os 12 anos de PT, que começaram no ano passado, só não tiveram maior destaque porque a mídia deu preferência mais que merecida aos 20 anos da morte do nosso maior ídolo esportivo. Depois de Ayrton Senna, o prestígio de nossas cores está em baixa, a menos que Paulo Coelho ganhe antecipadamente o Nobel de Literatura e Roberto Carlos dê um show no Teatro alla Scala, em Milão, ou no Covent Garden, em Londres. Sim, teremos uma Copa do Mundo  para exorcizar o gol de Alcides Gighia, na Copa de 1950, mas há presságios sinistros de grandes manifestações contra o governo e a FIFA, que de repente tornou-se a besta negra da nossa soberania.A única solução para tantos infortúnios seria convidar o papa Francisco para apitar a final do Mundial, desde que Sua Santidade não roube a favor da Argentina. ////// O texto de Carlos Heitor Cony apresenta uma estrutura que pretende: " ,
+    "answers": [
+      { "text": " lamentar a ausência de fatos significativos no Dia do Trabalho; ", "isCorrect": true },
+      { "text": " condenar as atuais autoridades por não respeitarem o Dia do Trabalho; ", "isCorrect": false },
+      { "text": " comemorar, a seu modo, a realização do Dia do Trabalho; ", "isCorrect": false },
+      { "text": " sugerir modificações nas comemorações do Dia do Trabalho; ", "isCorrect": false },
+      { "text": " mostrar as modificações históricas do Dia do Trabalho ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " SEM SOLUÇÃO / Carlos Heitor Cony – Folha de São Paulo / Foi melancólico o 1º de Maio deste ano. Não tivemos a tragédia do Riocentro, que até hoje não foi bem explicada e, para todos os efeitos, marcou o início do fim da ditadura militar. Tampouco ressuscitamos o entusiasmo das festividades, os desfiles e a tradicional arenga de um ditador que, durante anos, começava seus discursos com o famoso mantra: Trabalhadores do Brasil. De qualquer forma, era um pretexto para os governos de plantão forçarem um clima de conciliação nacional, o salário mínimo era aumentado e, nos teatros da praça Tiradentes, havia sempre uma apoteose patriótica com os grandes nomes do rebolado agitando bandeirinhas nacionais. Nos rádios, a trilha musical era dos brados e hinos militares, na base do avante camaradas. Este ano, a tônica foram as vaias que os camaradas deram às autoridades federais, estaduais e municipais. Com os suculentos escândalos (mensalão, etrobrás e outros menos votados), as manifestações contra os 12 anos de PT, que começaram no ano passado, só não tiveram maior destaque porque a mídia deu preferência mais que merecida aos 20 anos da morte do nosso maior ídolo esportivo. Depois de Ayrton Senna, o prestígio de nossas cores está em baixa, a menos que Paulo Coelho ganhe antecipadamente o Nobel de Literatura e Roberto Carlos dê um show no Teatro alla Scala, em Milão, ou no Covent Garden, em Londres. Sim, teremos uma Copa do Mundo  para exorcizar o gol de Alcides Gighia, na Copa de 1950, mas há presságios sinistros de grandes manifestações contra o governo e a FIFA, que de repente tornou-se a besta negra da nossa soberania.A única solução para tantos infortúnios seria convidar o papa Francisco para apitar a final do Mundial, desde que Sua Santidade não roube a favor da Argentina. ////// A tragédia do Riocentro, citada no primeiro parágrafo, tem a função textual de: " ,
+    "answers": [
+      { "text": " indicar um fato importante ocorrido em dia 1º de Maio; ", "isCorrect": true },
+      { "text": " destacar uma tragédia que mudou a vida dos trabalhadores; ", "isCorrect": false },
+      { "text": " comparar um fato antigo aos fatos políticos de hoje; ", "isCorrect": false },
+      { "text": " destacar o fim da ditadura militar como uma ocorrência prejudicial; ", "isCorrect": false },
+      { "text": " valorizar um fato histórico por seu lado popular. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A alternativa em que o termo destacado está empregado em sentido lógico ou denotativo é: " ,
+    "answers": [
+      { "text": " “... que começaram no ano passado, só não tiveram maior destaque porque 'a mídia' deu preferência mais que merecida aos 20 anos da morte do nosso maior ídolo esportivo”;  ", "isCorrect": true },
+      { "text": " “Este ano, a tônica foram as vaias que 'os camaradas' deram às autoridades federais, estaduais e municipais”; ", "isCorrect": false },
+      { "text": " “Com os 'suculentos' escândalos (mensalão, Petrobrás e outros menos votados), as manifestações contra os 12 anos de PT,...”; ", "isCorrect": false },
+      { "text": " “Depois de Ayrton Senna, o prestígio de 'nossas cores' está em baixa...”; ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O verbo “ressuscitar” mostra corretamente a grafia, com o emprego de SC; o vocábulo abaixo que está grafado erradamente por incluir essas mesmas consoantes é: " ,
+    "answers": [
+      { "text": " indescente ", "isCorrect": true },
+      { "text": " ascender ", "isCorrect": false },
+      { "text": " adolescência ", "isCorrect": false },
+      { "text": " fascismo ", "isCorrect": false },
+      { "text": " piscina ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " “... 'desde que' Sua Santidade não roube a favor da Argentina”; o conectivo sublinhado pode ser adequadamente substituído, sem alteração das formas seguintes e do sentido original, por:  " ,
+    "answers": [
+      { "text": " caso ", "isCorrect": true },
+      { "text": " ainda que; ", "isCorrect": false },
+      { "text": " já que ", "isCorrect": false },
+      { "text": " se ", "isCorrect": false },
+      { "text": " a fim de que ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " “Não tivemos a tragédia do Riocentro, que até hoje não foi bem explicada e, para todos os efeitos, marcou o início do fim da ditadura militar”. A expressão “para todos os efeitos”, por seu aspecto modalizador, se aproxima de outra expressão do texto, que é: " ,
+    "answers": [
+      { "text": " “De qualquer forma, era um pretexto para os governos de plantão forçarem um clima de conciliação nacional...”;  ", "isCorrect": true },
+      { "text": " “Tampouco ressuscitamos o entusiasmo das festividades, os desfiles e a tradicional arenga de um ditador...”; ", "isCorrect": false },
+      { "text": " “Nos rádios, a trilha musical era dos brados e hinos militares, na base do 'avante camaradas'; ", "isCorrect": false },
+      { "text": " “Sim, teremos uma Copa do Mundo para exorcizar o gol de Alcides Gighia, na Copa de 1950...”; ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " “De qualquer forma, era um pretexto para os governos de plantão forçarem um clima de conciliação nacional, o salário mínimo era aumentado e, nos teatros da praça Tiradentes, havia sempre uma apoteose patriótica com os grandes nomes do rebolado agitando bandeirinhas nacionais”. O comentário adequado sobre os componentes desse segmento do texto é " ,
+    "answers": [
+      { "text": " “apoteose patriótica” está marcada por forte tom irônico; ", "isCorrect": true },
+      { "text": " “pretexto” equivale a uma noção de causa claramente justificada; ", "isCorrect": false },
+      { "text": " “governos de plantão” se refere às autoridades bastante vigilantes; ", "isCorrect": false },
+      { "text": " o diminutivo em “bandeirinhas” tem valor afetivo; ", "isCorrect": false },
+      { "text": " as duas ocorrências do adjetivo “nacional” têm a mesma significação. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " “Sim, teremos uma Copa do Mundo 'para exorcizar o gol de Alcides Gighia'”. A forma desenvolvida adequada da oração reduzida destacada é: " ,
+    "answers": [
+      { "text": " para que exorcizemos o gol de Alcides Gighia; ", "isCorrect": true },
+      { "text": " para exorcizarmos o gol de Alcides Gighia; ", "isCorrect": false },
+      { "text": " para que exorcizássemos o gol de Alcides Gighia; ", "isCorrect": false },
+      { "text": " para o exorcismo do gol de Alcides Gighia; ", "isCorrect": false },
+      { "text": " para a exorcização do gol de Alcides Gighia. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " “A única solução para tantos infortúnios seria convidar o papa Francisco para apitar a final do Mundial, desde que Sua Santidade não roube...”; se, em lugar de “o papa Francisco” estivesse “o rei da Espanha”, a forma “Sua Santidade” deveria ser substituída adequadamente por: " ,
+    "answers": [
+      { "text": " Sua Majestade. ", "isCorrect": true },
+      { "text": " Vossa Excelência; ", "isCorrect": false },
+      { "text": " Vossa Majestade; ", "isCorrect": false },
+      { "text": " Vossa Senhoria; ", "isCorrect": false },
+      { "text": " Sua Excelência; ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " SEM SOLUÇÃO / Carlos Heitor Cony – Folha de São Paulo / Foi melancólico o 1º de Maio deste ano. Não tivemos a tragédia do Riocentro, que até hoje não foi bem explicada e, para todos os efeitos, marcou o início do fim da ditadura militar. Tampouco ressuscitamos o entusiasmo das festividades, os desfiles e a tradicional arenga de um ditador que, durante anos, começava seus discursos com o famoso mantra: Trabalhadores do Brasil. De qualquer forma, era um pretexto para os governos de plantão forçarem um clima de conciliação nacional, o salário mínimo era aumentado e, nos teatros da praça Tiradentes, havia sempre uma apoteose patriótica com os grandes nomes do rebolado agitando bandeirinhas nacionais. Nos rádios, a trilha musical era dos brados e hinos militares, na base do avante camaradas. Este ano, a tônica foram as vaias que os camaradas deram às autoridades federais, estaduais e municipais. Com os suculentos escândalos (mensalão, etrobrás e outros menos votados), as manifestações contra os 12 anos de PT, que começaram no ano passado, só não tiveram maior destaque porque a mídia deu preferência mais que merecida aos 20 anos da morte do nosso maior ídolo esportivo. Depois de Ayrton Senna, o prestígio de nossas cores está em baixa, a menos que Paulo Coelho ganhe antecipadamente o Nobel de Literatura e Roberto Carlos dê um show no Teatro alla Scala, em Milão, ou no Covent Garden, em Londres. Sim, teremos uma Copa do Mundo  para exorcizar o gol de Alcides Gighia, na Copa de 1950, mas há presságios sinistros de grandes manifestações contra o governo e a FIFA, que de repente tornou-se a besta negra da nossa soberania.A única solução para tantos infortúnios seria convidar o papa Francisco para apitar a final do Mundial, desde que Sua Santidade não roube a favor da Argentina. ////// “A única solução para tantos infortúnios...”; entre os “infortúnios” referidos, está presente:  " ,
+    "answers": [
+      { "text": " as vaias dadas às autoridades federais, estaduais e municipais; ", "isCorrect": true },
+      { "text": " Paulo Coelho ganhar o Prêmio Nobel de Literatura; ", "isCorrect": false },
+      { "text": " Roberto Carlos apresentar-se no Covent Garden, de Londres; ", "isCorrect": false },
+      { "text": " o aumento do salário mínimo nas festas de 1º de Maio; ", "isCorrect": false },
+      { "text": " a morte de Ayrton Senna. ", "isCorrect": false }
+    ]
+  },
+  {
+    "question": " “Sim, teremos uma Copa do Mundo para exorcizar o gol de Alcides Gighia, na Copa de 1950, mas há presságios sinistros de grandes manifestações contra o governo e a FIFA, que de repente tornou-se a besta negra da nossa soberania”. O conectivo “mas” opõe termos dos segmentos que liga, que são: " ,
+    "answers": [
+      { "text": " exorcizar X presságios sinistros; ", "isCorrect": true },
+      { "text": " Copa do Mundo X FIFA; ", "isCorrect": false },
+      { "text": " gol de Alcides Gighia X manifestações; ", "isCorrect": false },
+      { "text": " manifestações X besta negra; ", "isCorrect": false },
+      { "text": " exorcizar X besta negra. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Em todos os segmentos abaixo ocorre uma citação de dois ou três elementos; o segmento em que a troca de posição desses elementos sublinhados traria incoerência ao texto é: " ,
+    "answers": [
+      { "text": " “...há presságios sinistros de grandes manifestações contra o governo e a Fifa, que de repente tornou-se a besta negra da nossa soberania.” ", "isCorrect": true },
+      { "text": " “a menos que Paulo Coelho ganhe antecipadamente o Nobel de Literatura e Roberto Carlos dê um show no Teatro alla Scala, em Milão, ou no Covent Garden, em Londres.” ", "isCorrect": false },
+      { "text": " “... a tônica foram as vaias que os camaradas deram às autoridades federais, estaduais e municipais.” ", "isCorrect": false },
+      { "text": " “Nos rádios, a trilha musical era dos brados e hinos militares, na base do 'avante camaradas'. ", "isCorrect": false },
+      { "text": " “Com os suculentos escândalos (mensalão, Petrobrás e outros menos votados)...” ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " “... os suculentos escândalos... só não tiveram maior destaque porque a mídia deu preferência mais que merecida aos 20 anos da morte do nosso maior ídolo esportivo.” Nesse segmento o autor do texto: " ,
+    "answers": [
+      { "text": " defende a mídia em sua atuação no caso citado; ", "isCorrect": true },
+      { "text": " reprova a atitude parcial da mídia; ", "isCorrect": false },
+      { "text": " critica a valorização do esporte sobre a política; ", "isCorrect": false },
+      { "text": " apoia a mídia em desvalorizar as manifestações de rua; ", "isCorrect": false },
+      { "text": " comprova a inconsciência política do brasileiro. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " SEM SOLUÇÃO / Carlos Heitor Cony – Folha de São Paulo / Foi melancólico o 1º de Maio deste ano. Não tivemos a tragédia do Riocentro, que até hoje não foi bem explicada e, para todos os efeitos, marcou o início do fim da ditadura militar. Tampouco ressuscitamos o entusiasmo das festividades, os desfiles e a tradicional arenga de um ditador que, durante anos, começava seus discursos com o famoso mantra: Trabalhadores do Brasil. De qualquer forma, era um pretexto para os governos de plantão forçarem um clima de conciliação nacional, o salário mínimo era aumentado e, nos teatros da praça Tiradentes, havia sempre uma apoteose patriótica com os grandes nomes do rebolado agitando bandeirinhas nacionais. Nos rádios, a trilha musical era dos brados e hinos militares, na base do avante camaradas. Este ano, a tônica foram as vaias que os camaradas deram às autoridades federais, estaduais e municipais. Com os suculentos escândalos (mensalão, etrobrás e outros menos votados), as manifestações contra os 12 anos de PT, que começaram no ano passado, só não tiveram maior destaque porque a mídia deu preferência mais que merecida aos 20 anos da morte do nosso maior ídolo esportivo. Depois de Ayrton Senna, o prestígio de nossas cores está em baixa, a menos que Paulo Coelho ganhe antecipadamente o Nobel de Literatura e Roberto Carlos dê um show no Teatro alla Scala, em Milão, ou no Covent Garden, em Londres. Sim, teremos uma Copa do Mundo  para exorcizar o gol de Alcides Gighia, na Copa de 1950, mas há presságios sinistros de grandes manifestações contra o governo e a FIFA, que de repente tornou-se a besta negra da nossa soberania.A única solução para tantos infortúnios seria convidar o papa Francisco para apitar a final do Mundial, desde que Sua Santidade não roube a favor da Argentina. //////  O segmento do texto que NÃO manifesta qualquer tipo de posicionamento opinativo do autor do texto é:" ,
+    "answers": [
+      { "text": " “Nos rádios, a trilha musical era dos brados e hinos militares” ", "isCorrect": true },
+      { "text": " “Foi melancólico o 1º de Maio deste ano”; ", "isCorrect": false },
+      { "text": " “Não tivemos a tragédia do Riocentro, que até hoje não foi bem explicada e, para todos os efeitos, marcou o início do fim da ditadura militar”; ", "isCorrect": false },
+      { "text": " “Tampouco ressuscitamos o entusiasmo das festividades, os desfiles e a tradicional arenga de um ditador que, durante anos, começava seus discursos com o famoso mantra: 'Trabalhadores do Brasil'; ", "isCorrect": false },
+      { "text": " ) “... e, nos teatros da praça Tiradentes, havia sempre uma apoteose patriótica com os grandes nomes do rebolado agitando bandeirinhas nacionais”;  ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Na frase “Foi melancólico o 1º de Maio deste ano”, o emprego do demonstrativo “este” se justifica pela mesma razão que na seguinte frase: " ,
+    "answers": [
+      { "text": " Passo por este momento com muita revolta; ", "isCorrect": true },
+      { "text": " João e Mário partiram, mas só este foi de ônibus; ", "isCorrect": false },
+      { "text": " Não me venha com este pedido de novo;  ", "isCorrect": false },
+      { "text": " Este é o meu e esse é o seu! ", "isCorrect": false },
+      { "text": " Este livro não me pertence. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A abreviatura oficial dos meses do ano é feita com as três primeiras letras do mês seguidas de ponto; nesse caso, a única forma de abreviatura que, de fato, nada abrevia é: " ,
+    "answers": [
+      { "text": " Mai ", "isCorrect": true },
+      { "text": " Jan ", "isCorrect": false },
+      { "text": " Ago ", "isCorrect": false },
+      { "text": " Set ", "isCorrect": false },
+      { "text": " Dez ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Se colocarmos o pronome oblíquo “o” após a forma do verbo “empobrecem”, a forma correta da frase seria: " ,
+    "answers": [
+      { "text": " empobrecem-no; ", "isCorrect": true },
+      { "text": " empobrecem-o; ", "isCorrect": false },
+      { "text": " empobrecem-lo; ", "isCorrect": false },
+      { "text": " empobrece-no; ", "isCorrect": false },
+      { "text": " empobrece-lo;", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " De acordo com a norma-padrão da língua portuguesa, o sinal indicativo de crase está corretamente empregado em: " ,
+    "answers": [
+      { "text": " Todos estavam 'à' espera de que o valor de Braille fosse reconhecido. ", "isCorrect": true },
+      { "text": " Braille foi forçado 'à' superar sua cegueira. ", "isCorrect": false },
+      { "text": " O professor referiu-se 'à' um aluno brilhante: Braille. ", "isCorrect": false },
+      { "text": " Braille não foi reconhecido até que se consolidasse 'à' oficialização de seu método. ", "isCorrect": false },
+      { "text": " Ele queria ensinar 'à' todos os alunos o seu sistema de escrita. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A frase em que a palavra destacada respeita as regras da concordância nominal de acordo com a norma-padrão da língua portuguesa é: " ,
+    "answers": [
+      { "text": " Os alunos ficavam 'meio' desorientados com o método de Barbier ", "isCorrect": true },
+      { "text": " Hoje, Braille e seu método são 'muitos' conhecidos. ", "isCorrect": false },
+      { "text": " Depois do acidente, Braille e sua família não ficaram 'só'. ", "isCorrect": false },
+      { "text": " Há 'bastante' razões para se considerar Braille um herói nacional ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O pronome oblíquo átono está colocado de acordo com a norma-padrão da língua portuguesa em " ,
+    "answers": [
+      { "text": "  O menino cego aos cinco anos tornar-se-ia um herói nacional na França. ", "isCorrect": true },
+      { "text": " Me surpreende a história de vida de Braille. ", "isCorrect": false },
+      { "text": " Seu método não trouxe-lhe reconhecimento em vida ", "isCorrect": false },
+      { "text": " Quantos impressionaram-nos como Braille? ", "isCorrect": false },
+      { "text": "  Braille recebia os alunos e sempre auxiliava-os com o método criado ", "isCorrect": false }
+    ]
+  },
+  
+   {
+    "question": " Empreendedorismo social: um caminho para quem quer mudar o mundo Ainda que não exista uma concepção única sobre o empreendedorismo social, de forma geral, o conceito está relacionado ao ato de empreender ou inovar com o objetivo de alavancar causas sociais e ambientais. A meta é transformar uma realidade, promover o bem-estar da sociedade e agregar valor com cunho social. Um empreendedor social produz bens e serviços que irão impactar positivamente a comunidade em que ele está inserido e solucionar algum problema ou necessidade daquele grupo. Apesar de poder ter retorno financeiro, os empreendimentos sociais analisam seu desempenho a partir do impacto social gerado por sua atuação. Vale ressaltar que, apesar de apresentarem muitas similaridades, empreendedorismo social e negócio social não são sinônimos. O empreendedorismo social cria valor por meio da inovação, que gera uma transformação social. O foco não é o retorno financeiro, mas a resolução de problemas sociais e o impacto positivo. Enquanto isso, os negócios sociais seguem a lógica tradicional do mercado, porém com a ambição de gerar valor social. Cinco características também são essenciais para a iniciativa: ser inovadora; realizável; autossustentável; contar com a participação de diversos segmentos da sociedade, incluindo as pessoas impactadas; e promover impacto social com resultados mensuráveis. Quem tem interesse de atuar nessa área precisa trabalhar em grupo e formar parcerias, saber lidar bem com as pessoas e buscar formas de trazer resultados de impacto social. Além disso, o profissional precisa ter flexibilidade e vontade de explorar, pois é possível que ele acabe exercendo um papel que não seja necessariamente na sua área de formação, ou que sua atuação se transforme rapidamente, por conta do dinamismo e das necessidades do negócio.  ///////  O trecho do texto que resume o objetivo do “empreendedorismo social” é" ,
+    "answers": [
+      { "text": " “os empreendimentos sociais analisam seu desempenho a partir do impacto social gerado por sua atuação”. (parágrafo 2) ", "isCorrect": true },
+      { "text": " “A meta é transformar uma realidade, promover o bem-estar da sociedade e agregar valor com cunho social”. (parágrafo 1) ", "isCorrect": false },
+      { "text": " “ser inovadora; realizável; autossustentável; contar com a participação de diversos segmentos da sociedade”. (parágrafo 4) ", "isCorrect": false },
+      { "text": " “Quem tem interesse de atuar nessa área precisa trabalhar em grupo e formar parcerias”. (parágrafo 5) ", "isCorrect": false },
+      { "text": " “o profissional precisa ter flexibilidade e vontade de explorar, pois é possível que ele acabe exercendo um papel que não seja necessariamente na sua área de formação”. (parágrafo 6) ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": "  Empreendedorismo social: um caminho para quem quer mudar o mundo Ainda que não exista uma concepção única sobre o empreendedorismo social, de forma geral, o conceito está relacionado ao ato de empreender ou inovar com o objetivo de alavancar causas sociais e ambientais. A meta é transformar uma realidade, promover o bem-estar da sociedade e agregar valor com cunho social. Um empreendedor social produz bens e serviços que irão impactar positivamente a comunidade em que ele está inserido e solucionar algum problema ou necessidade daquele grupo. Apesar de poder ter retorno financeiro, os empreendimentos sociais analisam seu desempenho a partir do impacto social gerado por sua atuação. Vale ressaltar que, apesar de apresentarem muitas similaridades, empreendedorismo social e negócio social não são sinônimos. O empreendedorismo social cria valor por meio da inovação, que gera uma transformação social. O foco não é o retorno financeiro, mas a resolução de problemas sociais e o impacto positivo. Enquanto isso, os negócios sociais seguem a lógica tradicional do mercado, porém com a ambição de gerar valor social. Cinco características também são essenciais para a iniciativa: ser inovadora; realizável; autossustentável; contar com a participação de diversos segmentos da sociedade, incluindo as pessoas impactadas; e promover impacto social com resultados mensuráveis. Quem tem interesse de atuar nessa área precisa trabalhar em grupo e formar parcerias, saber lidar bem com as pessoas e buscar formas de trazer resultados de impacto social. Além disso, o profissional precisa ter flexibilidade e vontade de explorar, pois é possível que ele acabe exercendo um papel que não seja necessariamente na sua área de formação, ou que sua atuação se transforme rapidamente, por conta do dinamismo e das necessidades do negócio.  /////// O texto explica que o empreendedorismo social se diferencia do conceito de negócio social porque o primeiro procura " ,
+    "answers": [
+      { "text": " excluir do processo a parcela mais carente da população ", "isCorrect": true },
+      { "text": " criar profissionais especializados na sua área de atuação. ", "isCorrect": false },
+      { "text": " seguir a lógica tradicional do mercado de ações. ", "isCorrect": false },
+      { "text": " ter como objetivo produzir retorno financeiro ", "isCorrect": false },
+      { "text": " transformar a sociedade por meio da inovação. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": "  Empreendedorismo social: um caminho para quem quer mudar o mundo Ainda que não exista uma concepção única sobre o empreendedorismo social, de forma geral, o conceito está relacionado ao ato de empreender ou inovar com o objetivo de alavancar causas sociais e ambientais. A meta é transformar uma realidade, promover o bem-estar da sociedade e agregar valor com cunho social. Um empreendedor social produz bens e serviços que irão impactar positivamente a comunidade em que ele está inserido e solucionar algum problema ou necessidade daquele grupo. Apesar de poder ter retorno financeiro, os empreendimentos sociais analisam seu desempenho a partir do impacto social gerado por sua atuação. Vale ressaltar que, apesar de apresentarem muitas similaridades, empreendedorismo social e negócio social não são sinônimos. O empreendedorismo social cria valor por meio da inovação, que gera uma transformação social. O foco não é o retorno financeiro, mas a resolução de problemas sociais e o impacto positivo. Enquanto isso, os negócios sociais seguem a lógica tradicional do mercado, porém com a ambição de gerar valor social. Cinco características também são essenciais para a iniciativa: ser inovadora; realizável; autossustentável; contar com a participação de diversos segmentos da sociedade, incluindo as pessoas impactadas; e promover impacto social com resultados mensuráveis. Quem tem interesse de atuar nessa área precisa trabalhar em grupo e formar parcerias, saber lidar bem com as pessoas e buscar formas de trazer resultados de impacto social. Além disso, o profissional precisa ter flexibilidade e vontade de explorar, pois é possível que ele acabe exercendo um papel que não seja necessariamente na sua área de formação, ou que sua atuação se transforme rapidamente, por conta do dinamismo e das necessidades do negócio.  /////// No trecho “está relacionado ao ato de empreender ou inovar com o objetivo de alavancar causas sociais e ambientais” (parágrafo 1), a palavra destacada pode ser substituída, sem prejuízo do sentido do texto, por " ,
+    "answers": [
+      { "text": " subsidiar ", "isCorrect": true },
+      { "text": " comprovar ", "isCorrect": false },
+      { "text": " defender ", "isCorrect": false },
+      { "text": " impulsionar ", "isCorrect": false },
+      { "text": " modificar ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Empreendedorismo social: um caminho para quem quer mudar o mundo Ainda que não exista uma concepção única sobre o empreendedorismo social, de forma geral, o conceito está relacionado ao ato de empreender ou inovar com o objetivo de alavancar causas sociais e ambientais. A meta é transformar uma realidade, promover o bem-estar da sociedade e agregar valor com cunho social. Um empreendedor social produz bens e serviços que irão impactar positivamente a comunidade em que ele está inserido e solucionar algum problema ou necessidade daquele grupo. Apesar de poder ter retorno financeiro, os empreendimentos sociais analisam seu desempenho a partir do impacto social gerado por sua atuação. Vale ressaltar que, apesar de apresentarem muitas similaridades, empreendedorismo social e negócio social não são sinônimos. O empreendedorismo social cria valor por meio da inovação, que gera uma transformação social. O foco não é o retorno financeiro, mas a resolução de problemas sociais e o impacto positivo. Enquanto isso, os negócios sociais seguem a lógica tradicional do mercado, porém com a ambição de gerar valor social. Cinco características também são essenciais para a iniciativa: ser inovadora; realizável; autossustentável; contar com a participação de diversos segmentos da sociedade, incluindo as pessoas impactadas; e promover impacto social com resultados mensuráveis. Quem tem interesse de atuar nessa área precisa trabalhar em grupo e formar parcerias, saber lidar bem com as pessoas e buscar formas de trazer resultados de impacto social. Além disso, o profissional precisa ter flexibilidade e vontade de explorar, pois é possível que ele acabe exercendo um papel que não seja necessariamente na sua área de formação, ou que sua atuação se transforme rapidamente, por conta do dinamismo e das necessidades do negócio.  ///////  No trecho “Ainda que não exista uma concepção única sobre o empreendedorismo social” (parágrafo 1), a expressão destacada pode ser substituída, sem prejuízo do sentido do texto, por " ,
+    "answers": [
+      { "text": " De modo que ", "isCorrect": true },
+      { "text": " À medida que ", "isCorrect": false },
+      { "text": " Contanto que ", "isCorrect": false },
+      { "text": " Mesmo que ", "isCorrect": false },
+      { "text": " Por causa de ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Empreendedorismo social: um caminho para quem quer mudar o mundo Ainda que não exista uma concepção única sobre o empreendedorismo social, de forma geral, o conceito está relacionado ao ato de empreender ou inovar com o objetivo de alavancar causas sociais e ambientais. A meta é transformar uma realidade, promover o bem-estar da sociedade e agregar valor com cunho social. Um empreendedor social produz bens e serviços que irão impactar positivamente a comunidade em que ele está inserido e solucionar algum problema ou necessidade daquele grupo. Apesar de poder ter retorno financeiro, os empreendimentos sociais analisam seu desempenho a partir do impacto social gerado por sua atuação. Vale ressaltar que, apesar de apresentarem muitas similaridades, empreendedorismo social e negócio social não são sinônimos. O empreendedorismo social cria valor por meio da inovação, que gera uma transformação social. O foco não é o retorno financeiro, mas a resolução de problemas sociais e o impacto positivo. Enquanto isso, os negócios sociais seguem a lógica tradicional do mercado, porém com a ambição de gerar valor social. Cinco características também são essenciais para a iniciativa: ser inovadora; realizável; autossustentável; contar com a participação de diversos segmentos da sociedade, incluindo as pessoas impactadas; e promover impacto social com resultados mensuráveis. Quem tem interesse de atuar nessa área precisa trabalhar em grupo e formar parcerias, saber lidar bem com as pessoas e buscar formas de trazer resultados de impacto social. Além disso, o profissional precisa ter flexibilidade e vontade de explorar, pois é possível que ele acabe exercendo um papel que não seja necessariamente na sua área de formação, ou que sua atuação se transforme rapidamente, por conta do dinamismo e das necessidades do negócio.  /////// No trecho “Ainda que não exista uma concepção única” (parágrafo 1), a palavra destacada pode ser substituída, sem prejuízo do sentido do texto, por " ,
+    "answers": [
+      { "text": " compreensão ", "isCorrect": true },
+      { "text": " conciliação ", "isCorrect": false },
+      { "text": " convivência ", "isCorrect": false },
+      { "text": " capacidade ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A palavra destacada atende às exigências de concordância de acordo com a norma-padrão da língua portuguesa em " ,
+    "answers": [
+      { "text": " O financiamento de projetos e a assistência aos necessitados, 'desejadas' pelos empreendedores sociais, precisam da atenção redobrada dos responsáveis.  ", "isCorrect": true },
+      { "text": " A administração de empresas de tecnologia e o marketing profissional estão 'envolvidos' na promoção de novos negócios na área econômica ", "isCorrect": false },
+      { "text": " A assistência social às pessoas carentes e os cuidados com o aparecimento de novas doenças são 'necessárias' para manter a saúde da população. ", "isCorrect": false },
+      { "text": " A iniciativa de implementar mudanças nas empresas e o sucesso ao alcançar êxito são 'comemoradas' pelos funcionários ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Empreendedorismo social: um caminho para quem quer mudar o mundo Ainda que não exista uma concepção única sobre o empreendedorismo social, de forma geral, o conceito está relacionado ao ato de empreender ou inovar com o objetivo de alavancar causas sociais e ambientais. A meta é transformar uma realidade, promover o bem-estar da sociedade e agregar valor com cunho social. Um empreendedor social produz bens e serviços que irão impactar positivamente a comunidade em que ele está inserido e solucionar algum problema ou necessidade daquele grupo. Apesar de poder ter retorno financeiro, os empreendimentos sociais analisam seu desempenho a partir do impacto social gerado por sua atuação. Vale ressaltar que, apesar de apresentarem muitas similaridades, empreendedorismo social e negócio social não são sinônimos. O empreendedorismo social cria valor por meio da inovação, que gera uma transformação social. O foco não é o retorno financeiro, mas a resolução de problemas sociais e o impacto positivo. Enquanto isso, os negócios sociais seguem a lógica tradicional do mercado, porém com a ambição de gerar valor social. Cinco características também são essenciais para a iniciativa: ser inovadora; realizável; autossustentável; contar com a participação de diversos segmentos da sociedade, incluindo as pessoas impactadas; e promover impacto social com resultados mensuráveis. Quem tem interesse de atuar nessa área precisa trabalhar em grupo e formar parcerias, saber lidar bem com as pessoas e buscar formas de trazer resultados de impacto social. Além disso, o profissional precisa ter flexibilidade e vontade de explorar, pois é possível que ele acabe exercendo um papel que não seja necessariamente na sua área de formação, ou que sua atuação se transforme rapidamente, por conta do dinamismo e das necessidades do negócio.  /////// No trecho “os empreendimentos sociais analisam seu desempenho” (parágrafo 2), a palavra destacada se refere a " ,
+    "answers": [
+      { "text": " comunidade ", "isCorrect": true },
+      { "text": " problema ", "isCorrect": false },
+      { "text": " daquele grupo ", "isCorrect": false },
+      { "text": " retorno financeiro ", "isCorrect": false },
+      { "text": " empreendimentos sociais ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " De acordo com a norma-padrão da língua portuguesa, o uso do acento grave indicativo da crase é obrigatório na palavra destacada em: " ,
+    "answers": [
+      { "text": " O uso de recursos digitais levou os jovens estudiosos 'a' uma nova forma de aprendizagem em diferentes áreas.  ", "isCorrect": true },
+      { "text": " A descrição detalhada de um empreendimento 'a' ser realizado é uma necessidade para a aprovação de sua realização ", "isCorrect": false },
+      { "text": " A divulgação do concurso levou muitas pessoas a se candidatarem 'a' vaga mais concorrida na empresa. ", "isCorrect": false },
+      { "text": " A tentativa de obter a isenção fiscal é buscada 'a' todo custo pelos responsáveis da instituição.  ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+  {
+    "question": " O emprego da vírgula atende às exigências da norma--padrão da língua portuguesa em: " ,
+    "answers": [
+      { "text": " O profissional interessado em mudanças na sua área de atuação deve estudar, com antecedência as suas possibilidades de crescimento.  ", "isCorrect": true },
+      { "text": " A execução de novas tarefas em um supermercado, envolve a disposição dos funcionários de aceitarem as mudanças propostas pelo RH. ", "isCorrect": false },
+      { "text": " Ao consultar os fornecedores de produtos para suas lojas, os responsáveis por esse departamento devem ser cuidadosos.  ", "isCorrect": false },
+      { "text": " A escolha do funcionário para proferir uma palestra em nome da empresa, compete à administração da instituição ", "isCorrect": false },
+      { "text": " Para desenvolver projetos cabe ao gerente da organização, a iniciativa de implementar novas técnicas à disposição dos empreendedores.  ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O pronome oblíquo destacado foi colocado na posição correta, segundo as exigências da norma-padrão da língua portuguesa, em: " ,
+    "answers": [
+      { "text": " Governantes que têm como missão viabilizar o acesso universal à educação pública de qualidade sempre preocupam-'se' com ações de inovação e empreendedorismo ", "isCorrect": true },
+      { "text": " A área da saúde não encontra-'se' atendida em regiões afastadas dos grandes centros urbanos nem em comunidades que vivem nas periferias das cidades ", "isCorrect": false },
+      { "text": " A preocupação com o meio ambiente tem sido um dos segmentos mais relevantes do empreendedorismo social, porque destina-'se' a transformar positivamente a sociedade. ", "isCorrect": false },
+      { "text": " Para uma iniciativa de empreendedorismo destinada à formação de educadores tornar-'se' produtiva, é preciso identificar as necessidades do público-alvo de cada comunidade.  ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " De acordo com as exigências da norma-padrão da língua portuguesa, o verbo destacado está corretamente empregado em " ,
+    "answers": [
+      { "text": " Há quase duzentos anos, atribuem-se às cidades a responsabilidade de motor propulsor do desenvolvimento e a condição de lugar privilegiado para os negócios e a cultura. ", "isCorrect": true },
+      { "text": " No mundo moderno, conferem-se às grandes metrópoles importante papel no desenvolvimento da economia e da geopolítica mundiais, por estarem no topo da hierarquia urbana. ", "isCorrect": false },
+      { "text": " Conforme o grau de influência e importância internacional, classificou-se as 50 maiores cidades em três diferentes classes, a maior parte delas na Europa. ", "isCorrect": false },
+      { "text": " Em centros com grandes aglomerações populacionais, realiza-se negócios nacionais e internacionais, além de um atendimento bastante diversificado, como jornais, teatros, cinemas, entre outros. ", "isCorrect": false },
+      { "text": " Em todos os estudos geopolíticos, considera-se as cidades globais como verdadeiros polos de influência internacional, devido à presença de sedes de grandes empresas transnacionais e importantes centros de pesquisas. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A regência do verbo destacado está de acordo com as exigências da norma-padrão da língua portuguesa em: " ,
+    "answers": [
+      { "text": " Antes de se comprometer com a aquisição de um imóvel acima de sua renda, recomenda-'se' ao comprador que pesquise melhores condições de mercado. ", "isCorrect": true },
+      { "text": " Para ganhar espaço no mercado imobiliário, os bancos 'costumam' a ampliar prazos e limites e baratear o financiamento da casa própria.  ", "isCorrect": false },
+      { "text": " O planejamento econômico é fundamental para o sucesso de um empreendimento familiar, o que 'envolve' ao ato de pesquisar as melhores oportunidades disponíveis.  ", "isCorrect": false },
+      { "text": " A inadimplência ocorre quando o cidadão não 'acata' às cláusulas que determinam os prazos dos empréstimos bancários. ", "isCorrect": false },
+      { "text": " Grande parte das pessoas que se candidatam a empréstimos bancários 'aspiram' a construção da casa própria. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O pronome destacado foi utilizado na posição correta, segundo as exigências da norma-padrão da língua portuguesa, em: " ,
+    "answers": [
+      { "text": " Os dirigentes devem esforçar-'se' para que os funcionários tenham consciência de ações de proteção ao meio ambiente. ", "isCorrect": true },
+      { "text": " Quando as carreiras tradicionais saturam-'se', os futuros profissionais têm de recorrer a outras alternativas ", "isCorrect": false },
+      { "text": " Caso os responsáveis pela limpeza urbana descuidem-'se' de sua tarefa, muitas doenças transmissíveis podem proliferar.   ", "isCorrect": false },
+      { "text": " As empresas têm mantido-'se' atentas às leis de proteção ambiental vigentes no país poderão ser penalizadas. ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " De acordo com a norma-padrão da língua portuguesa, o uso do acento grave indicativo da crase é obrigatório na  palavra destacada em: " ,
+    "answers": [
+      { "text": " As escolas chegaram 'a' etapa em que os professores estão cada vez mais com dificuldade para exercer o seu importante papel de ensinar ", "isCorrect": true },
+      { "text": " Os pais, inseguros na sua tarefa de educar, não percebem que falta de limites e superproteção comprometem 'a' formação dos filhos. ", "isCorrect": false },
+      { "text": " A indisciplina nas salas de aula aumentou 'a' partir do momento em que as mídias divulgaram a necessidade de dar maior liberdade aos estudantes.  ", "isCorrect": false },
+      { "text": " A atenção e a motivação são condições que levam 'a' pessoa a pensar e agir de forma satisfatória para desenvolver o processo de aprendizagem. ", "isCorrect": false },
+      { "text": " As famílias e as escolas encontram-se, na atualidade, frente 'a' jovens com quem não conseguem estabelecer um diálogo produtivo. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " De acordo com a norma-padrão da língua portuguesa, a pontuação está corretamente empregada em: " ,
+    "answers": [
+      { "text": " O conjunto de preocupações e ações efetivas, quando atendem, de forma voluntária, aos funcionários e à comunidade em geral, pode ser definido como responsabilidade social. ", "isCorrect": true },
+      { "text": " As empresas que optam por encampar a prática da responsabilidade social, beneficiam-se de conseguir uma melhor imagem no mercado. ", "isCorrect": false },
+      { "text": " A noção de responsabilidade social foi muito utilizada em campanhas publicitárias: por isso, as empresas precisam relacionar-se melhor, com a sociedade ", "isCorrect": false },
+      { "text": " A responsabilidade social explora um leque abrangente de beneficiários, envolvendo assim: a qualidade de vida o bem-estar dos trabalhadores, a redução de impactos negativos, no meio ambiente. ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Na era da inteligência artificial, como fica a segurança de dados? Pesquisadores explicam que as novas técnicas de computação abrem novas possibilidades para golpes e invasões cibernéticas As empresas de computação em nuvem chocaram o mundo com as inteligências artificiais lançadas no ano de 2023. Muitos se maravilharam com o mundo de possibilidades que esses programas inteligentes abriram. Já outros se chocaram com as implicações na área da segurança, direito autoral e na capacidade de distorção da realidade factual que as ferramentas novas proporcionam, e o debate pela regulamentação do uso segue em curso nas casas legislativas de diversos países. Conforme explica um professor da Escola Politécnica da Universidade de São Paulo, as ferramentas de inteligência artificial abrem novos perigos na área de segurança de dados em dois fronts diferentes. O primeiro deles está na encriptação e na desencriptação dos dados. “Existe de fato uma briga entre os que querem guardar informação sigilosa de forma segura e os que querem abrir essa informação para decifrar. Existem algoritmos clássicos que fazem isso e que podem ser melhorados com técnicas de inteligência artificial. Em particular, técnicas de aprendiado de máquina, aquelas que usam observações, experimentos, experiências para melhorar o desempenho de algoritmos”, explica o professor. A outra batalha é travada no meio da engenharia social, ou seja, os usuários mal-intencionados exploram as vulnerabilidades humanas de outros usuários para obter materiais confidenciais, como senhas bancárias, dados de navegação e outras informações de cunho particular. “As vulnerabilidades podem acontecer na medida em que você tem sistemas artificiais interagindo com os seres humanos. Você pode ter sistemas que, na interação com o usuário, obtêm dados inadvertidamente. Aí, o usuário é levado a revelá-los. Pode haver sistemas que também são feitos para interagir com o usuário de forma adequada, mas têm alguma falha. O usuário pode ser enganado e revelar essas informações para um outro agente inadequado”, conta ele. “A inteligência artificial consegue, com as velhas técnicas, simular situações da vida real. E, nesse sentido, a coisa ficou feia, um cidadão não consegue mais distinguir entre o artificial e o natural e pode ser enganado pela imagem e pela voz. Tudo que é simulado passa a ser quase natural para um cidadão comum.” Técnicas de autenticação de imagens e documentos podem auxiliar os usuários a não serem enganados com o uso da inteligência artificial. Algumas empresas, por exemplo, já colocam marcas d’água em todos os vídeos que a ferramenta produz, outra maneira de impedir o uso malicioso da IA generativa. E, é claro, crimes cibernéticos também são crimes, e também é papel da Justiça agir nesses casos para punir os criminosos: “Os crimes de falsificação ficam mais fáceis com esses processadores mais potentes. É simulada alguma coisa verdadeira, mas quem é que programa esses simuladores? São pessoas hábeis, com talento para programar, mas é sempre um ser humano por trás”, conclui o professor. ////// Em relação à segurança de dados, o texto afirma que o uso da inteligência artificial " ,
+    "answers": [
+      { "text": " gera perigos de natureza técnica e humana. ", "isCorrect": true },
+      { "text": " dificulta crimes de falsificação. ", "isCorrect": false },
+      { "text": " contribui para a punição de criminosos ", "isCorrect": false },
+      { "text": " depende de técnicas de autenticação de imagens e documentos. ", "isCorrect": false },
+      { "text": " traz possibilidades que maravilham a alguns e chocam a outros. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Na era da inteligência artificial, como fica a segurança de dados? Pesquisadores explicam que as novas técnicas de computação abrem novas possibilidades para golpes e invasões cibernéticas As empresas de computação em nuvem chocaram o mundo com as inteligências artificiais lançadas no ano de 2023. Muitos se maravilharam com o mundo de possibilidades que esses programas inteligentes abriram. Já outros se chocaram com as implicações na área da segurança, direito autoral e na capacidade de distorção da realidade factual que as ferramentas novas proporcionam, e o debate pela regulamentação do uso segue em curso nas casas legislativas de diversos países. Conforme explica um professor da Escola Politécnica da Universidade de São Paulo, as ferramentas de inteligência artificial abrem novos perigos na área de segurança de dados em dois fronts diferentes. O primeiro deles está na encriptação e na desencriptação dos dados. “Existe de fato uma briga entre os que querem guardar informação sigilosa de forma segura e os que querem abrir essa informação para decifrar. Existem algoritmos clássicos que fazem isso e que podem ser melhorados com técnicas de inteligência artificial. Em particular, técnicas de aprendiado de máquina, aquelas que usam observações, experimentos, experiências para melhorar o desempenho de algoritmos”, explica o professor. A outra batalha é travada no meio da engenharia social, ou seja, os usuários mal-intencionados exploram as vulnerabilidades humanas de outros usuários para obter materiais confidenciais, como senhas bancárias, dados de navegação e outras informações de cunho particular. “As vulnerabilidades podem acontecer na medida em que você tem sistemas artificiais interagindo com os seres humanos. Você pode ter sistemas que, na interação com o usuário, obtêm dados inadvertidamente. Aí, o usuário é levado a revelá-los. Pode haver sistemas que também são feitos para interagir com o usuário de forma adequada, mas têm alguma falha. O usuário pode ser enganado e revelar essas informações para um outro agente inadequado”, conta ele. “A inteligência artificial consegue, com as velhas técnicas, simular situações da vida real. E, nesse sentido, a coisa ficou feia, um cidadão não consegue mais distinguir entre o artificial e o natural e pode ser enganado pela imagem e pela voz. Tudo que é simulado passa a ser quase natural para um cidadão comum.” Técnicas de autenticação de imagens e documentos podem auxiliar os usuários a não serem enganados com o uso da inteligência artificial. Algumas empresas, por exemplo, já colocam marcas d’água em todos os vídeos que a ferramenta produz, outra maneira de impedir o uso malicioso da IA generativa. E, é claro, crimes cibernéticos também são crimes, e também é papel da Justiça agir nesses casos para punir os criminosos: “Os crimes de falsificação ficam mais fáceis com esses processadores mais potentes. É simulada alguma coisa verdadeira, mas quem é que programa esses simuladores? São pessoas hábeis, com talento para programar, mas é sempre um ser humano por trás”, conclui o professor. ////// De acordo com a ordem das ideias apresentadas no texto, observa-se que, depois de explicar que a inteligência artificial consegue simular situações da vida real de modo que as pessoas não consigam mais distinguir entre o artificial e o natural, sendo enganados pela imagem e pela voz, o texto se refere à ideia de que " ,
+    "answers": [
+      { "text": " uma forma de realizar a autenticação de imagens e documentos é utilizar marcas d´água que possam evitar o uso malicioso da inteligência artificial.  ", "isCorrect": true },
+      { "text": " a inteligência artificial tem provocado reações positivas e negativas devido às inúmeras possibilidades, como por exemplo a capacidade de distorção da realidade factual que as novas ferramentas proporcionam.  ", "isCorrect": false },
+      { "text": " as ferramentas de inteligência artificial provocam novos perigos na área de segurança, que ocorrem tanto na encriptação como na desencriptação de dados. ", "isCorrect": false },
+      { "text": " os usuários mal-intencionados exploram as vulnerabilidades humanas de outros usuários para obter materiais confidenciais, como senhas bancárias, dados de navegação e outras informações de cunho particular.  ", "isCorrect": false },
+      { "text": " os sistemas ficam vulneráveis porque os usuários são enganados e levados a revelar informações que deveriam ser sigilosas. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": "  Na era da inteligência artificial, como fica a segurança de dados? Pesquisadores explicam que as novas técnicas de computação abrem novas possibilidades para golpes e invasões cibernéticas As empresas de computação em nuvem chocaram o mundo com as inteligências artificiais lançadas no ano de 2023. Muitos se maravilharam com o mundo de possibilidades que esses programas inteligentes abriram. Já outros se chocaram com as implicações na área da segurança, direito autoral e na capacidade de distorção da realidade factual que as ferramentas novas proporcionam, e o debate pela regulamentação do uso segue em curso nas casas legislativas de diversos países. Conforme explica um professor da Escola Politécnica da Universidade de São Paulo, as ferramentas de inteligência artificial abrem novos perigos na área de segurança de dados em dois fronts diferentes. O primeiro deles está na encriptação e na desencriptação dos dados. “Existe de fato uma briga entre os que querem guardar informação sigilosa de forma segura e os que querem abrir essa informação para decifrar. Existem algoritmos clássicos que fazem isso e que podem ser melhorados com técnicas de inteligência artificial. Em particular, técnicas de aprendiado de máquina, aquelas que usam observações, experimentos, experiências para melhorar o desempenho de algoritmos”, explica o professor. A outra batalha é travada no meio da engenharia social, ou seja, os usuários mal-intencionados exploram as vulnerabilidades humanas de outros usuários para obter materiais confidenciais, como senhas bancárias, dados de navegação e outras informações de cunho particular. “As vulnerabilidades podem acontecer na medida em que você tem sistemas artificiais interagindo com os seres humanos. Você pode ter sistemas que, na interação com o usuário, obtêm dados inadvertidamente. Aí, o usuário é levado a revelá-los. Pode haver sistemas que também são feitos para interagir com o usuário de forma adequada, mas têm alguma falha. O usuário pode ser enganado e revelar essas informações para um outro agente inadequado”, conta ele. “A inteligência artificial consegue, com as velhas técnicas, simular situações da vida real. E, nesse sentido, a coisa ficou feia, um cidadão não consegue mais distinguir entre o artificial e o natural e pode ser enganado pela imagem e pela voz. Tudo que é simulado passa a ser quase natural para um cidadão comum.” Técnicas de autenticação de imagens e documentos podem auxiliar os usuários a não serem enganados com o uso da inteligência artificial. Algumas empresas, por exemplo, já colocam marcas d’água em todos os vídeos que a ferramenta produz, outra maneira de impedir o uso malicioso da IA generativa. E, é claro, crimes cibernéticos também são crimes, e também é papel da Justiça agir nesses casos para punir os criminosos: “Os crimes de falsificação ficam mais fáceis com esses processadores mais potentes. É simulada alguma coisa verdadeira, mas quem é que programa esses simuladores? São pessoas hábeis, com talento para programar, mas é sempre um ser humano por trás”, conclui o professor. ////// No texto, o referente da expressão em destaque está corretamente explicitado entre colchetes no " ,
+    "answers": [
+      { "text": " parágrafo 3: “Existe de fato uma briga entre os que querem guardar informação sigilosa de forma segura e os que querem abrir essa informação para decifrar.” [informação sigilosa] ", "isCorrect": true },
+      { "text": " parágrafo 1: “Muitos se maravilharam com o mundo de possibilidades que esses programas inteligentes abriram.” [computação em nuvem] ", "isCorrect": false },
+      { "text": " parágrafo 3: “Existem algoritmos clássicos que fazem isso e que podem ser melhorados com técnicas de inteligência artificial.” [guardar informação sigilosa] ", "isCorrect": false },
+      { "text": " parágrafo 5: “Você pode ter sistemas que, na interação com o usuário, obtêm dados inadvertidamente. Aí, o usuário é levado a revelá-los.” [sistemas artificiais] ", "isCorrect": false },
+      { "text": " parágrafo 7: “É simulada alguma coisa verdadeira, mas quem é que programa esses simuladores?” [crimes de falsificação] ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Em relação às regras de concordância, a palavra em destaque está de acordo com a norma-padrão da língua portuguesa em: " ,
+    "answers": [
+      { "text": " Os gestores de tecnologia de informação devem garantir que todos os programas estejam 'atualizados' para evitar brechas de segurança. ", "isCorrect": true },
+      { "text": " As empresas e os indivíduos que as compõem precisam estar 'adequadas' às exigências de segurança dos dados dos seus usuários. ", "isCorrect": false },
+      { "text": " A segurança dos dados de quem se utiliza da inteligência artificial é 'necessário' para o sucesso das empresas de tecnologia ", "isCorrect": false },
+      { "text": " Os usuários, ao utilizar ferramentas de inteligência artificial, costumam estar 'atentas' às senhas que escolhem e atualizá-las regularmente. ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Segundo o Manual de Redação da Presidência da República, para alcançar a objetividade em um texto oficial, é necessário " ,
+    "answers": [
+      { "text": " estabelecer uma hierarquia entre as ideias ", "isCorrect": true },
+      { "text": " suprimir a delicadeza de expressão ", "isCorrect": false },
+      { "text": " dispensar o esclarecimento de ideias principais. ", "isCorrect": false },
+      { "text": " impedir um contato direto do leitor com o tema. ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Assinale o segmento textual abaixo que deve ser incluído entre os textos normativos. " ,
+    "answers": [
+      { "text": " As ordens judiciais devem ser obedecidas ", "isCorrect": true },
+      { "text": " Gastos públicos podem também significar investimentos e não desperdício. ", "isCorrect": false },
+      { "text": " Todos os militares estão obrigados a respeitar os superiores ", "isCorrect": false },
+      { "text": " Os caminhões foram amontoando-se na estrada até fecharem completamente o trânsito.  ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Na descrição de uma paisagem, o autor do texto empregou os seguintes pares de palavras: céu azul, mar agitado, aves ruidosas, ruído agradável, águas cálidas, atmosfera barroca, nuvens densas... Entre todos os adjetivos empregados, os dois que pertencem a um grupo diferente dos demais, são " ,
+    "answers": [
+      { "text": " ruído agradável / atmosfera barroca ", "isCorrect": true },
+      { "text": " céu azul / mar agitado. ", "isCorrect": false },
+      { "text": " aves ruidosas / ruído agradável. ", "isCorrect": false },
+      { "text": " atmosfera barroca / nuvens densas ", "isCorrect": false },
+      { "text": " águas cálidas / aves ruidosas. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Os livros didáticos ensinam que os textos dissertativos discutem um tema, defendem uma opinião, contrariam uma ideia oposta, fornecem informações etc. Assinale a frase que se estrutura pela oposição a um outro pensamento ou opinião " ,
+    "answers": [
+      { "text": " Gastos públicos podem também significar investimentos e não desperdício.  ", "isCorrect": true },
+      { "text": " Como diz a sabedoria popular, mais vale a quem Deus ajuda do que quem cedo madruga.  ", "isCorrect": false },
+      { "text": " Economize para o futuro! ", "isCorrect": false },
+      { "text": " Uma única vela pode acender outras mil sem perder a sua força. ", "isCorrect": false },
+      { "text": " Amar profundamente em uma direção nos torna mais amorosos em todas as outras. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Observe a frase seguinte: “É natural que os franceses considerem suas trufas as melhores, com uma teimosia própria dos compatriotas de Charles de Gaulle. Todo aquele versado na matéria sabe que o tartufo branco italiano, natural do país, é muito superior àquelas”. Nessa frase, dois termos que mantêm relações de coesão, são  " ,
+    "answers": [
+      { "text": " franceses / compatriotas de Charles de Gaulle ", "isCorrect": true },
+      { "text": " teimosia / matéria. ", "isCorrect": false },
+      { "text": " àquelas / compatriotas ", "isCorrect": false },
+      { "text": " natural / aquele. ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " De todas as notícias de jornais abaixo transcritas, assinale aquela que mostra uma inferência adequada. " ,
+    "answers": [
+      { "text": " O motorista comprou novos óculos / óculos velhos trazem problemas de vários tipos.  ", "isCorrect": true },
+      { "text": " Houve um pequeno tremor de terra no Chile / os vinhos chilenos vão ter o preço reduzido ", "isCorrect": false },
+      { "text": " Haverá eleição no próximo domingo / o candidato eleito vai ter o apoio do Congresso ", "isCorrect": false },
+      { "text": " O combustível vai subir de preço / o preço dos veículos vai despencar ", "isCorrect": false },
+      { "text": " O passageiro transportava seu computador / o passageiro estava com seu trabalho atrasado. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " As frases abaixo foram retiradas de para-choques de caminhões. Assinale a frase que é acompanhada da causa adequada dessa frase, que dá coerência a ela.  " ,
+    "answers": [
+      { "text": " Quem sabe sobe / o estudo e a cultura são fontes de progresso. ", "isCorrect": true },
+      { "text": " Sou filho do dono do mundo / é filho de alguém muito rico ", "isCorrect": false },
+      { "text": " Graças a Deus que só um dos candidatos pode ganhar! / caso contrário, após as eleições, continuariam brigando. ", "isCorrect": false },
+      { "text": " Os direitos do homem são três: ver, ouvir e calar / o homem tem autoridade fora de sua casa.  ", "isCorrect": false },
+      { "text": " Seja realista, exija o impossível / declaração de apoio à monarquia ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um aluno do ensino fundamental decidiu dar voz aos animais que estavam presentes em sua redação. Assinale a opção em que o verbo utilizado está adequado ao nome do animal. " ,
+    "answers": [
+      { "text": " o lobo uivava.. ", "isCorrect": true },
+      { "text": " a galinha balia ", "isCorrect": false },
+      { "text": " o peru bramia. ", "isCorrect": false },
+      { "text": " o cavalo silvava.. ", "isCorrect": false },
+      { "text": " a vaca rosnava. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Veja a seguinte descrição: “Fábio é um rapaz bonito: cabelo louro esvoaçante, esteticamente desgrenhado, olhos claros sobre um nariz afilado, lábios finos, tórax largo, cintura estreita e pernas alongadas, numa figura que em nada faz adivinhar sua bondade interior”. Sobre a estratégia descritiva desse texto, assinale a afirmativa correta. " ,
+    "answers": [
+      { "text": " A descrição segue o plano do todo para as partes. ", "isCorrect": true },
+      { "text": " As características fornecidas são todas do aspecto físico. ", "isCorrect": false },
+      { "text": " A estrutura descritiva vai de longe para perto. ", "isCorrect": false },
+      { "text": " A descrição mostra traços positivos e negativos de Fábio. ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+  {
+    "question": " Assinale a opção com duas ações em sequência que mostram uma relação de causa e consequência. " ,
+    "answers": [
+      { "text": " Choveu durante a noite e as ruas ficaram alagadas. ", "isCorrect": true },
+      { "text": " João olhou o cartaz e teve vontade de ir ao cinema. ", "isCorrect": false },
+      { "text": " Cada vez que via as fotos, começava a chorar. ", "isCorrect": false },
+      { "text": " Viu a paisagem e lembrou-se da cidade onde nascera. ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Analise o texto a seguir: “A rua estava cheia de gente, pois havia um festival de cinema na pequena cidade. Via-se logo que se tratava de pessoas que não conheciam o local. Entre esses visitantes, um estacionou o seu carro diante da porta da minha garagem. Tentei chamá-lo, mas o perdi no meio da aglomeração. Telefonei para a polícia local, mas não havia viatura disponível. Perdoei o transgressor mentalmente e fui dormir”. O segmento que serve de marco inicial da narrativa é:  " ,
+    "answers": [
+      { "text": " um estacionou o seu carro diante da porta da minha garagem. ", "isCorrect": true },
+      { "text": " A rua estava cheia de gente. ", "isCorrect": false },
+      { "text": " havia um festival de cinema na pequena cidade ", "isCorrect": false },
+      { "text": " se tratava de pessoas que não conheciam o local ", "isCorrect": false },
+      { "text": " Tentei chamá-lo. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Assinale a frase abaixo em que o vocábulo menos mostra uma classe gramatical diferente das demais. " ,
+    "answers": [
+      { "text": " O candidato estava com menos disposição para o estudo. ", "isCorrect": true },
+      { "text": " Os operários trabalham menos a cada ano. ", "isCorrect": false },
+      { "text": " Os atletas treinaram menos para essa prova. ", "isCorrect": false },
+      { "text": " Meus filhos sempre leram menos que os primos ", "isCorrect": false },
+      { "text": " Os estrangeiros sempre se mostraram menos animados. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O homem que conheceu o amor 1º Do alto de seus oitenta anos, me disse: “Na verdade, fui muito amado.”. E __________ isto com tal plenitude como quem dissesse: sempre me trouxeram flores, sempre comi ostra .......... beira-mar. 2º Não havia arrogância em sua frase, mas algo entre a humanidade e a petulância sagrada. Parecia um pintor, que olhando o quadro terminado assina seu nome embaixo. Havia um certo fastio em suas palavras gestos. Se retirava de um banquete satisfeito. Parecia pronto para morrer, já que sempre estivera pronto para amar. 3º Aquele homem me confessou que amava sem nenhuma coerção. Não lhe encostei .......... faca no peito cobrando algo.Ele é que tinha algo a me oferecer. Foi muito diferente daqueles que não confessam seus sentimentos nem mesmo debaixo de um “pau-de-arara”: estão ali se afogando de paixão, levando choques de amor, mas não se entregam. E, no entanto, basta ler-lhes a ficha que está tudo lá: traficante ou guerrilheiro do amor. 4º Uns dizem: casei várias vezes. Outros assinalam: fiz vários filhos. Outro dia li numa revista um conhecido ator dizendo: tive todas as mulheres que quis. Outros, ainda, dizem: não posso viver sem fulana (ou fulano). Na Bíblia está que Abraão gerou Isac, Isac gerou Jacó e Jacó gerou as doze tribos de Israel. Mas nenhum deles disse: “Na verdade, fui muito amado.”. 5º Mas quando do alto de seus oitenta anos aquele homem desfechou sobre mim aquela frase, me senti não apenas como o filho que quer ser engenheiro como o pai. Senti-me um garoto de quatro anos, de calças curtas, se dizendo: quando eu crescer quero ser um homem de oitenta anos que diga: “Amei muito, na verdade, fui muito amado.”. Se não pensasse isto, não seria digno daquela frase que acabava de me ser ofertada. E eu não poderia desperdiçar uma sabedoria que levou oitenta anos para se formar. É como se eu não visse o instante em que a lagarta se transformaria em libélula. 6º Ouvindo-o, por um instante, suspeitei que a psicanálise havia fracassado; que tudo aquilo que Freud sempre disse de que o desejo nunca é preenchido, que se o é, o é por frações de segundos, e que a vida é insatisfação e procura, tudo isto era coisa passada. Sim, porque sobre o amor há muitas frases inquietantes por aí. 7º Frase que se pode atualizar: eu era amado e não sabia. Porque nem todos sabem reconhecer quando são amados. Flores despencam em arco-íris sobre sua cama, um banquete real está sendo servido e, sonolento, olha noutra direção. 8º Sei que vocês vão me repreender, dizendo: deveria ter-nos apresentado o personagem, também o queríamos conhecer, repartir tal acontecimento. E é justa a reprimenda. Porque quando alguém está amando, já nos contamina de jasmins. Temos vontade de dizer, vendo-o passar: ame por mim, já que não pode se deter para me amar a mim. Exatamente como se diz a alguém que está indo .......... Europa: por favor, na Itália, coma e beba por mim. 9º Ver uma pessoa amando é como ler um romance de amor. É como ver um filme de amor. Também se ama por contaminação na tela do instante.  A estória é do outro, mas passa das páginas e telas para a gente. 10 Reconhece-se a cinquenta metros um desamado, o carente. Mas reconhece-se a cem metros o bem-amado. Lá vem ele: sua luz nos chega antes de suas roupas e pele. Sinos batem nas dobras de seu ser. Pássaros pousam em seus ombros e frases. Flores está colorindo o chão em que pisou. 11 O que ama é um disseminador. 12 O bem-amado é uma usina de luz. Tão necessário .......... comunidade, que deveria ser declarado bem de utilidade pública ////// No primeiro parágrafo as aspas são empregadas para: " ,
+    "answers": [
+      { "text": " indicar uma citação.  ", "isCorrect": true },
+      { "text": " destacar um tom coloquial.  ", "isCorrect": false },
+      { "text": " reforçar a ideia de que foi realmente amado.  ", "isCorrect": false },
+      { "text": " acentuar o valor significativo das palavras ditas pelo homem de oitenta anos.  ", "isCorrect": false },
+      { "text": " indicar um comentário à margem do que se afirma. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O homem que conheceu o amor 1º Do alto de seus oitenta anos, me disse: “Na verdade, fui muito amado.”. E __________ isto com tal plenitude como quem dissesse: sempre me trouxeram flores, sempre comi ostra .......... beira-mar. 2º Não havia arrogância em sua frase, mas algo entre a humanidade e a petulância sagrada. Parecia um pintor, que olhando o quadro terminado assina seu nome embaixo. Havia um certo fastio em suas palavras gestos. Se retirava de um banquete satisfeito. Parecia pronto para morrer, já que sempre estivera pronto para amar. 3º Aquele homem me confessou que amava sem nenhuma coerção. Não lhe encostei .......... faca no peito cobrando algo.Ele é que tinha algo a me oferecer. Foi muito diferente daqueles que não confessam seus sentimentos nem mesmo debaixo de um “pau-de-arara”: estão ali se afogando de paixão, levando choques de amor, mas não se entregam. E, no entanto, basta ler-lhes a ficha que está tudo lá: traficante ou guerrilheiro do amor. 4º Uns dizem: casei várias vezes. Outros assinalam: fiz vários filhos. Outro dia li numa revista um conhecido ator dizendo: tive todas as mulheres que quis. Outros, ainda, dizem: não posso viver sem fulana (ou fulano). Na Bíblia está que Abraão gerou Isac, Isac gerou Jacó e Jacó gerou as doze tribos de Israel. Mas nenhum deles disse: “Na verdade, fui muito amado.”. 5º Mas quando do alto de seus oitenta anos aquele homem desfechou sobre mim aquela frase, me senti não apenas como o filho que quer ser engenheiro como o pai. Senti-me um garoto de quatro anos, de calças curtas, se dizendo: quando eu crescer quero ser um homem de oitenta anos que diga: “Amei muito, na verdade, fui muito amado.”. Se não pensasse isto, não seria digno daquela frase que acabava de me ser ofertada. E eu não poderia desperdiçar uma sabedoria que levou oitenta anos para se formar. É como se eu não visse o instante em que a lagarta se transformaria em libélula. 6º Ouvindo-o, por um instante, suspeitei que a psicanálise havia fracassado; que tudo aquilo que Freud sempre disse de que o desejo nunca é preenchido, que se o é, o é por frações de segundos, e que a vida é insatisfação e procura, tudo isto era coisa passada. Sim, porque sobre o amor há muitas frases inquietantes por aí. 7º Frase que se pode atualizar: eu era amado e não sabia. Porque nem todos sabem reconhecer quando são amados. Flores despencam em arco-íris sobre sua cama, um banquete real está sendo servido e, sonolento, olha noutra direção. 8º Sei que vocês vão me repreender, dizendo: deveria ter-nos apresentado o personagem, também o queríamos conhecer, repartir tal acontecimento. E é justa a reprimenda. Porque quando alguém está amando, já nos contamina de jasmins. Temos vontade de dizer, vendo-o passar: ame por mim, já que não pode se deter para me amar a mim. Exatamente como se diz a alguém que está indo .......... Europa: por favor, na Itália, coma e beba por mim. 9º Ver uma pessoa amando é como ler um romance de amor. É como ver um filme de amor. Também se ama por contaminação na tela do instante.  A estória é do outro, mas passa das páginas e telas para a gente. 10 Reconhece-se a cinquenta metros um desamado, o carente. Mas reconhece-se a cem metros o bem-amado. Lá vem ele: sua luz nos chega antes de suas roupas e pele. Sinos batem nas dobras de seu ser. Pássaros pousam em seus ombros e frases. Flores está colorindo o chão em que pisou. 11 O que ama é um disseminador. 12 O bem-amado é uma usina de luz. Tão necessário .......... comunidade, que deveria ser declarado bem de utilidade pública ////// Assinale a alternativa em que a conjunção destacada no texto indica uma ideia de oposição:  " ,
+    "answers": [
+      { "text": " mas – (2º parágrafo).  ", "isCorrect": true },
+      { "text": " já que – (2º parágrafo). ", "isCorrect": false },
+      { "text": " como – (5º parágrafo).  ", "isCorrect": false },
+      { "text": " quando – (5º parágrafo).  ", "isCorrect": false },
+      { "text": " se não – (5º parágrafo).  ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O homem que conheceu o amor 1º Do alto de seus oitenta anos, me disse: “Na verdade, fui muito amado.”. E __________ isto com tal plenitude como quem dissesse: sempre me trouxeram flores, sempre comi ostra .......... beira-mar. 2º Não havia arrogância em sua frase, mas algo entre a humanidade e a petulância sagrada. Parecia um pintor, que olhando o quadro terminado assina seu nome embaixo. Havia um certo fastio em suas palavras gestos. Se retirava de um banquete satisfeito. Parecia pronto para morrer, já que sempre estivera pronto para amar. 3º Aquele homem me confessou que amava sem nenhuma coerção. Não lhe encostei .......... faca no peito cobrando algo.Ele é que tinha algo a me oferecer. Foi muito diferente daqueles que não confessam seus sentimentos nem mesmo debaixo de um “pau-de-arara”: estão ali se afogando de paixão, levando choques de amor, mas não se entregam. E, no entanto, basta ler-lhes a ficha que está tudo lá: traficante ou guerrilheiro do amor. 4º Uns dizem: casei várias vezes. Outros assinalam: fiz vários filhos. Outro dia li numa revista um conhecido ator dizendo: tive todas as mulheres que quis. Outros, ainda, dizem: não posso viver sem fulana (ou fulano). Na Bíblia está que Abraão gerou Isac, Isac gerou Jacó e Jacó gerou as doze tribos de Israel. Mas nenhum deles disse: “Na verdade, fui muito amado.”. 5º Mas quando do alto de seus oitenta anos aquele homem desfechou sobre mim aquela frase, me senti não apenas como o filho que quer ser engenheiro como o pai. Senti-me um garoto de quatro anos, de calças curtas, se dizendo: quando eu crescer quero ser um homem de oitenta anos que diga: “Amei muito, na verdade, fui muito amado.”. Se não pensasse isto, não seria digno daquela frase que acabava de me ser ofertada. E eu não poderia desperdiçar uma sabedoria que levou oitenta anos para se formar. É como se eu não visse o instante em que a lagarta se transformaria em libélula. 6º Ouvindo-o, por um instante, suspeitei que a psicanálise havia fracassado; que tudo aquilo que Freud sempre disse de que o desejo nunca é preenchido, que se o é, o é por frações de segundos, e que a vida é insatisfação e procura, tudo isto era coisa passada. Sim, porque sobre o amor há muitas frases inquietantes por aí. 7º Frase que se pode atualizar: eu era amado e não sabia. Porque nem todos sabem reconhecer quando são amados. Flores despencam em arco-íris sobre sua cama, um banquete real está sendo servido e, sonolento, olha noutra direção. 8º Sei que vocês vão me repreender, dizendo: deveria ter-nos apresentado o personagem, também o queríamos conhecer, repartir tal acontecimento. E é justa a reprimenda. Porque quando alguém está amando, já nos contamina de jasmins. Temos vontade de dizer, vendo-o passar: ame por mim, já que não pode se deter para me amar a mim. Exatamente como se diz a alguém que está indo .......... Europa: por favor, na Itália, coma e beba por mim. 9º Ver uma pessoa amando é como ler um romance de amor. É como ver um filme de amor. Também se ama por contaminação na tela do instante.  A estória é do outro, mas passa das páginas e telas para a gente. 10 Reconhece-se a cinquenta metros um desamado, o carente. Mas reconhece-se a cem metros o bem-amado. Lá vem ele: sua luz nos chega antes de suas roupas e pele. Sinos batem nas dobras de seu ser. Pássaros pousam em seus ombros e frases. Flores está colorindo o chão em que pisou. 11 O que ama é um disseminador. 12 O bem-amado é uma usina de luz. Tão necessário .......... comunidade, que deveria ser declarado bem de utilidade pública ////// A seguir são apresentadas alternativas de substituição de segmentos sublinhados no texto. Assinale a que, aplicada ao texto, caracteriza ERRO na perspectiva da norma gramatical:  " ,
+    "answers": [
+      { "text": " sim (6º parágrafo) – mesmo ", "isCorrect": true },
+      { "text": " debaixo (3º parágrafo) – sob ", "isCorrect": false },
+      { "text": " mas (3º parágrafo) – contudo.  ", "isCorrect": false },
+      { "text": " havia (6º parágrafo) – tinha ", "isCorrect": false },
+      { "text": " sobre (7º parágrafo) – em cima de.  ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": "O homem que conheceu o amor 1º Do alto de seus oitenta anos, me disse: “Na verdade, fui muito amado.”. E __________ isto com tal plenitude como quem dissesse: sempre me trouxeram flores, sempre comi ostra .......... beira-mar. 2º Não havia arrogância em sua frase, mas algo entre a humanidade e a petulância sagrada. Parecia um pintor, que olhando o quadro terminado assina seu nome embaixo. Havia um certo fastio em suas palavras gestos. Se retirava de um banquete satisfeito. Parecia pronto para morrer, já que sempre estivera pronto para amar. 3º Aquele homem me confessou que amava sem nenhuma coerção. Não lhe encostei .......... faca no peito cobrando algo.Ele é que tinha algo a me oferecer. Foi muito diferente daqueles que não confessam seus sentimentos nem mesmo debaixo de um “pau-de-arara”: estão ali se afogando de paixão, levando choques de amor, mas não se entregam. E, no entanto, basta ler-lhes a ficha que está tudo lá: traficante ou guerrilheiro do amor. 4º Uns dizem: casei várias vezes. Outros assinalam: fiz vários filhos. Outro dia li numa revista um conhecido ator dizendo: tive todas as mulheres que quis. Outros, ainda, dizem: não posso viver sem fulana (ou fulano). Na Bíblia está que Abraão gerou Isac, Isac gerou Jacó e Jacó gerou as doze tribos de Israel. Mas nenhum deles disse: “Na verdade, fui muito amado.”. 5º Mas quando do alto de seus oitenta anos aquele homem desfechou sobre mim aquela frase, me senti não apenas como o filho que quer ser engenheiro como o pai. Senti-me um garoto de quatro anos, de calças curtas, se dizendo: quando eu crescer quero ser um homem de oitenta anos que diga: “Amei muito, na verdade, fui muito amado.”. Se não pensasse isto, não seria digno daquela frase que acabava de me ser ofertada. E eu não poderia desperdiçar uma sabedoria que levou oitenta anos para se formar. É como se eu não visse o instante em que a lagarta se transformaria em libélula. 6º Ouvindo-o, por um instante, suspeitei que a psicanálise havia fracassado; que tudo aquilo que Freud sempre disse de que o desejo nunca é preenchido, que se o é, o é por frações de segundos, e que a vida é insatisfação e procura, tudo isto era coisa passada. Sim, porque sobre o amor há muitas frases inquietantes por aí. 7º Frase que se pode atualizar: eu era amado e não sabia. Porque nem todos sabem reconhecer quando são amados. Flores despencam em arco-íris sobre sua cama, um banquete real está sendo servido e, sonolento, olha noutra direção. 8º Sei que vocês vão me repreender, dizendo: deveria ter-nos apresentado o personagem, também o queríamos conhecer, repartir tal acontecimento. E é justa a reprimenda. Porque quando alguém está amando, já nos contamina de jasmins. Temos vontade de dizer, vendo-o passar: ame por mim, já que não pode se deter para me amar a mim. Exatamente como se diz a alguém que está indo .......... Europa: por favor, na Itália, coma e beba por mim. 9º Ver uma pessoa amando é como ler um romance de amor. É como ver um filme de amor. Também se ama por contaminação na tela do instante.  A estória é do outro, mas passa das páginas e telas para a gente. 10 Reconhece-se a cinquenta metros um desamado, o carente. Mas reconhece-se a cem metros o bem-amado. Lá vem ele: sua luz nos chega antes de suas roupas e pele. Sinos batem nas dobras de seu ser. Pássaros pousam em seus ombros e frases. Flores está colorindo o chão em que pisou. 11 O que ama é um disseminador. 12 O bem-amado é uma usina de luz. Tão necessário .......... comunidade, que deveria ser declarado bem de utilidade pública ////// Analise as afirmativas referentes ao texto: I - O texto pertence ao gênero crônica. II - Para o autor o que torna esse homem diferente é o fato dele declarar o seu amor abertamente. III - O autor no sétimo parágrafo constrói uma imagem poética e traduz gestos de amor dedicados à pessoa amada. IV - Segundo o autor algumas pessoas expressa certo arrependimento, por não reconhecer as demonstrações de amor da pessoa amada. Quais afirmativas estão corretas?  " ,
+    "answers": [
+      { "text": " I, II, III e IV.  ", "isCorrect": true },
+      { "text": " Apenas I e II.  ", "isCorrect": false },
+      { "text": " Apenas I e IV. ", "isCorrect": false },
+      { "text": " Apenas II, III e IV.  ", "isCorrect": false },
+      { "text": " Apenas I, II e III ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O homem que conheceu o amor 1º Do alto de seus oitenta anos, me disse: “Na verdade, fui muito amado.”. E __________ isto com tal plenitude como quem dissesse: sempre me trouxeram flores, sempre comi ostra .......... beira-mar. 2º Não havia arrogância em sua frase, mas algo entre a humanidade e a petulância sagrada. Parecia um pintor, que olhando o quadro terminado assina seu nome embaixo. Havia um certo fastio em suas palavras gestos. Se retirava de um banquete satisfeito. Parecia pronto para morrer, já que sempre estivera pronto para amar. 3º Aquele homem me confessou que amava sem nenhuma coerção. Não lhe encostei .......... faca no peito cobrando algo.Ele é que tinha algo a me oferecer. Foi muito diferente daqueles que não confessam seus sentimentos nem mesmo debaixo de um “pau-de-arara”: estão ali se afogando de paixão, levando choques de amor, mas não se entregam. E, no entanto, basta ler-lhes a ficha que está tudo lá: traficante ou guerrilheiro do amor. 4º Uns dizem: casei várias vezes. Outros assinalam: fiz vários filhos. Outro dia li numa revista um conhecido ator dizendo: tive todas as mulheres que quis. Outros, ainda, dizem: não posso viver sem fulana (ou fulano). Na Bíblia está que Abraão gerou Isac, Isac gerou Jacó e Jacó gerou as doze tribos de Israel. Mas nenhum deles disse: “Na verdade, fui muito amado.”. 5º Mas quando do alto de seus oitenta anos aquele homem desfechou sobre mim aquela frase, me senti não apenas como o filho que quer ser engenheiro como o pai. Senti-me um garoto de quatro anos, de calças curtas, se dizendo: quando eu crescer quero ser um homem de oitenta anos que diga: “Amei muito, na verdade, fui muito amado.”. Se não pensasse isto, não seria digno daquela frase que acabava de me ser ofertada. E eu não poderia desperdiçar uma sabedoria que levou oitenta anos para se formar. É como se eu não visse o instante em que a lagarta se transformaria em libélula. 6º Ouvindo-o, por um instante, suspeitei que a psicanálise havia fracassado; que tudo aquilo que Freud sempre disse de que o desejo nunca é preenchido, que se o é, o é por frações de segundos, e que a vida é insatisfação e procura, tudo isto era coisa passada. Sim, porque sobre o amor há muitas frases inquietantes por aí. 7º Frase que se pode atualizar: eu era amado e não sabia. Porque nem todos sabem reconhecer quando são amados. Flores despencam em arco-íris sobre sua cama, um banquete real está sendo servido e, sonolento, olha noutra direção. 8º Sei que vocês vão me repreender, dizendo: deveria ter-nos apresentado o personagem, também o queríamos conhecer, repartir tal acontecimento. E é justa a reprimenda. Porque quando alguém está amando, já nos contamina de jasmins. Temos vontade de dizer, vendo-o passar: ame por mim, já que não pode se deter para me amar a mim. Exatamente como se diz a alguém que está indo .......... Europa: por favor, na Itália, coma e beba por mim. 9º Ver uma pessoa amando é como ler um romance de amor. É como ver um filme de amor. Também se ama por contaminação na tela do instante.  A estória é do outro, mas passa das páginas e telas para a gente. 10 Reconhece-se a cinquenta metros um desamado, o carente. Mas reconhece-se a cem metros o bem-amado. Lá vem ele: sua luz nos chega antes de suas roupas e pele. Sinos batem nas dobras de seu ser. Pássaros pousam em seus ombros e frases. Flores está colorindo o chão em que pisou. 11 O que ama é um disseminador. 12 O bem-amado é uma usina de luz. Tão necessário .......... comunidade, que deveria ser declarado bem de utilidade pública ////// Assinale a alternativa que preenche corretamente a lacuna de linha contínua do texto (1º parágrafo): " ,
+    "answers": [
+      { "text": " dizia ", "isCorrect": true },
+      { "text": " disse ", "isCorrect": false },
+      { "text": " dissera ", "isCorrect": false },
+      { "text": " diz ", "isCorrect": false },
+      { "text": " dirá ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": "  O homem que conheceu o amor 1º Do alto de seus oitenta anos, me disse: “Na verdade, fui muito amado.”. E __________ isto com tal plenitude como quem dissesse: sempre me trouxeram flores, sempre comi ostra .......... beira-mar. 2º Não havia arrogância em sua frase, mas algo entre a humanidade e a petulância sagrada. Parecia um pintor, que olhando o quadro terminado assina seu nome embaixo. Havia um certo fastio em suas palavras gestos. Se retirava de um banquete satisfeito. Parecia pronto para morrer, já que sempre estivera pronto para amar. 3º Aquele homem me confessou que amava sem nenhuma coerção. Não lhe encostei .......... faca no peito cobrando algo.Ele é que tinha algo a me oferecer. Foi muito diferente daqueles que não confessam seus sentimentos nem mesmo debaixo de um “pau-de-arara”: estão ali se afogando de paixão, levando choques de amor, mas não se entregam. E, no entanto, basta ler-lhes a ficha que está tudo lá: traficante ou guerrilheiro do amor. 4º Uns dizem: casei várias vezes. Outros assinalam: fiz vários filhos. Outro dia li numa revista um conhecido ator dizendo: tive todas as mulheres que quis. Outros, ainda, dizem: não posso viver sem fulana (ou fulano). Na Bíblia está que Abraão gerou Isac, Isac gerou Jacó e Jacó gerou as doze tribos de Israel. Mas nenhum deles disse: “Na verdade, fui muito amado.”. 5º Mas quando do alto de seus oitenta anos aquele homem desfechou sobre mim aquela frase, me senti não apenas como o filho que quer ser engenheiro como o pai. Senti-me um garoto de quatro anos, de calças curtas, se dizendo: quando eu crescer quero ser um homem de oitenta anos que diga: “Amei muito, na verdade, fui muito amado.”. Se não pensasse isto, não seria digno daquela frase que acabava de me ser ofertada. E eu não poderia desperdiçar uma sabedoria que levou oitenta anos para se formar. É como se eu não visse o instante em que a lagarta se transformaria em libélula. 6º Ouvindo-o, por um instante, suspeitei que a psicanálise havia fracassado; que tudo aquilo que Freud sempre disse de que o desejo nunca é preenchido, que se o é, o é por frações de segundos, e que a vida é insatisfação e procura, tudo isto era coisa passada. Sim, porque sobre o amor há muitas frases inquietantes por aí. 7º Frase que se pode atualizar: eu era amado e não sabia. Porque nem todos sabem reconhecer quando são amados. Flores despencam em arco-íris sobre sua cama, um banquete real está sendo servido e, sonolento, olha noutra direção. 8º Sei que vocês vão me repreender, dizendo: deveria ter-nos apresentado o personagem, também o queríamos conhecer, repartir tal acontecimento. E é justa a reprimenda. Porque quando alguém está amando, já nos contamina de jasmins. Temos vontade de dizer, vendo-o passar: ame por mim, já que não pode se deter para me amar a mim. Exatamente como se diz a alguém que está indo .......... Europa: por favor, na Itália, coma e beba por mim. 9º Ver uma pessoa amando é como ler um romance de amor. É como ver um filme de amor. Também se ama por contaminação na tela do instante.  A estória é do outro, mas passa das páginas e telas para a gente. 10 Reconhece-se a cinquenta metros um desamado, o carente. Mas reconhece-se a cem metros o bem-amado. Lá vem ele: sua luz nos chega antes de suas roupas e pele. Sinos batem nas dobras de seu ser. Pássaros pousam em seus ombros e frases. Flores está colorindo o chão em que pisou. 11 O que ama é um disseminador. 12 O bem-amado é uma usina de luz. Tão necessário .......... comunidade, que deveria ser declarado bem de utilidade pública //////  Assinale a alternativa que preenche corretamente as lacunas de linha pontilhada no texto: " ,
+    "answers": [
+      { "text": " à – a – à – à.  ", "isCorrect": true },
+      { "text": " a – a – à – à.  ", "isCorrect": false },
+      { "text": " à – a – a – à ", "isCorrect": false },
+      { "text": " a – à – à – a ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "  Assinale a alternativa em que a palavra é acentuada pela mesma razão que “Bíblia” " ,
+    "answers": [
+      { "text": " estórias ", "isCorrect": true },
+      { "text": " íris ", "isCorrect": false },
+      { "text": " queríamos ", "isCorrect": false },
+      { "text": " aí ", "isCorrect": false },
+      { "text": " páginas ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O homem que conheceu o amor 1º Do alto de seus oitenta anos, me disse: “Na verdade, fui muito amado.”. E __________ isto com tal plenitude como quem dissesse: sempre me trouxeram flores, sempre comi ostra .......... beira-mar. 2º Não havia arrogância em sua frase, mas algo entre a humanidade e a petulância sagrada. Parecia um pintor, que olhando o quadro terminado assina seu nome embaixo. Havia um certo fastio em suas palavras gestos. Se retirava de um banquete satisfeito. Parecia pronto para morrer, já que sempre estivera pronto para amar. 3º Aquele homem me confessou que amava sem nenhuma coerção. Não lhe encostei .......... faca no peito cobrando algo.Ele é que tinha algo a me oferecer. Foi muito diferente daqueles que não confessam seus sentimentos nem mesmo debaixo de um “pau-de-arara”: estão ali se afogando de paixão, levando choques de amor, mas não se entregam. E, no entanto, basta ler-lhes a ficha que está tudo lá: traficante ou guerrilheiro do amor. 4º Uns dizem: casei várias vezes. Outros assinalam: fiz vários filhos. Outro dia li numa revista um conhecido ator dizendo: tive todas as mulheres que quis. Outros, ainda, dizem: não posso viver sem fulana (ou fulano). Na Bíblia está que Abraão gerou Isac, Isac gerou Jacó e Jacó gerou as doze tribos de Israel. Mas nenhum deles disse: “Na verdade, fui muito amado.”. 5º Mas quando do alto de seus oitenta anos aquele homem desfechou sobre mim aquela frase, me senti não apenas como o filho que quer ser engenheiro como o pai. Senti-me um garoto de quatro anos, de calças curtas, se dizendo: quando eu crescer quero ser um homem de oitenta anos que diga: “Amei muito, na verdade, fui muito amado.”. Se não pensasse isto, não seria digno daquela frase que acabava de me ser ofertada. E eu não poderia desperdiçar uma sabedoria que levou oitenta anos para se formar. É como se eu não visse o instante em que a lagarta se transformaria em libélula. 6º Ouvindo-o, por um instante, suspeitei que a psicanálise havia fracassado; que tudo aquilo que Freud sempre disse de que o desejo nunca é preenchido, que se o é, o é por frações de segundos, e que a vida é insatisfação e procura, tudo isto era coisa passada. Sim, porque sobre o amor há muitas frases inquietantes por aí. 7º Frase que se pode atualizar: eu era amado e não sabia. Porque nem todos sabem reconhecer quando são amados. Flores despencam em arco-íris sobre sua cama, um banquete real está sendo servido e, sonolento, olha noutra direção. 8º Sei que vocês vão me repreender, dizendo: deveria ter-nos apresentado o personagem, também o queríamos conhecer, repartir tal acontecimento. E é justa a reprimenda. Porque quando alguém está amando, já nos contamina de jasmins. Temos vontade de dizer, vendo-o passar: ame por mim, já que não pode se deter para me amar a mim. Exatamente como se diz a alguém que está indo .......... Europa: por favor, na Itália, coma e beba por mim. 9º Ver uma pessoa amando é como ler um romance de amor. É como ver um filme de amor. Também se ama por contaminação na tela do instante.  A estória é do outro, mas passa das páginas e telas para a gente. 10 Reconhece-se a cinquenta metros um desamado, o carente. Mas reconhece-se a cem metros o bem-amado. Lá vem ele: sua luz nos chega antes de suas roupas e pele. Sinos batem nas dobras de seu ser. Pássaros pousam em seus ombros e frases. Flores está colorindo o chão em que pisou. 11 O que ama é um disseminador. 12 O bem-amado é uma usina de luz. Tão necessário .......... comunidade, que deveria ser declarado bem de utilidade pública ////// Os verbos destacados no terceiro parágrafo (cobrando, afogando e levando) são formas nominais do: " ,
+    "answers": [
+      { "text": " gerúndio ", "isCorrect": true },
+      { "text": " particípio ", "isCorrect": false },
+      { "text": " infinitivo ", "isCorrect": false },
+      { "text": " subjuntivo ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O homem que conheceu o amor 1º Do alto de seus oitenta anos, me disse: “Na verdade, fui muito amado.”. E __________ isto com tal plenitude como quem dissesse: sempre me trouxeram flores, sempre comi ostra .......... beira-mar. 2º Não havia arrogância em sua frase, mas algo entre a humanidade e a petulância sagrada. Parecia um pintor, que olhando o quadro terminado assina seu nome embaixo. Havia um certo fastio em suas palavras gestos. Se retirava de um banquete satisfeito. Parecia pronto para morrer, já que sempre estivera pronto para amar. 3º Aquele homem me confessou que amava sem nenhuma coerção. Não lhe encostei .......... faca no peito cobrando algo.Ele é que tinha algo a me oferecer. Foi muito diferente daqueles que não confessam seus sentimentos nem mesmo debaixo de um “pau-de-arara”: estão ali se afogando de paixão, levando choques de amor, mas não se entregam. E, no entanto, basta ler-lhes a ficha que está tudo lá: traficante ou guerrilheiro do amor. 4º Uns dizem: casei várias vezes. Outros assinalam: fiz vários filhos. Outro dia li numa revista um conhecido ator dizendo: tive todas as mulheres que quis. Outros, ainda, dizem: não posso viver sem fulana (ou fulano). Na Bíblia está que Abraão gerou Isac, Isac gerou Jacó e Jacó gerou as doze tribos de Israel. Mas nenhum deles disse: “Na verdade, fui muito amado.”. 5º Mas quando do alto de seus oitenta anos aquele homem desfechou sobre mim aquela frase, me senti não apenas como o filho que quer ser engenheiro como o pai. Senti-me um garoto de quatro anos, de calças curtas, se dizendo: quando eu crescer quero ser um homem de oitenta anos que diga: “Amei muito, na verdade, fui muito amado.”. Se não pensasse isto, não seria digno daquela frase que acabava de me ser ofertada. E eu não poderia desperdiçar uma sabedoria que levou oitenta anos para se formar. É como se eu não visse o instante em que a lagarta se transformaria em libélula. 6º Ouvindo-o, por um instante, suspeitei que a psicanálise havia fracassado; que tudo aquilo que Freud sempre disse de que o desejo nunca é preenchido, que se o é, o é por frações de segundos, e que a vida é insatisfação e procura, tudo isto era coisa passada. Sim, porque sobre o amor há muitas frases inquietantes por aí. 7º Frase que se pode atualizar: eu era amado e não sabia. Porque nem todos sabem reconhecer quando são amados. Flores despencam em arco-íris sobre sua cama, um banquete real está sendo servido e, sonolento, olha noutra direção. 8º Sei que vocês vão me repreender, dizendo: deveria ter-nos apresentado o personagem, também o queríamos conhecer, repartir tal acontecimento. E é justa a reprimenda. Porque quando alguém está amando, já nos contamina de jasmins. Temos vontade de dizer, vendo-o passar: ame por mim, já que não pode se deter para me amar a mim. Exatamente como se diz a alguém que está indo .......... Europa: por favor, na Itália, coma e beba por mim. 9º Ver uma pessoa amando é como ler um romance de amor. É como ver um filme de amor. Também se ama por contaminação na tela do instante.  A estória é do outro, mas passa das páginas e telas para a gente. 10 Reconhece-se a cinquenta metros um desamado, o carente. Mas reconhece-se a cem metros o bem-amado. Lá vem ele: sua luz nos chega antes de suas roupas e pele. Sinos batem nas dobras de seu ser. Pássaros pousam em seus ombros e frases. Flores está colorindo o chão em que pisou. 11 O que ama é um disseminador. 12 O bem-amado é uma usina de luz. Tão necessário .......... comunidade, que deveria ser declarado bem de utilidade pública ////// Assinale a alternativa em que os verbos retirados do oitavo parágrafo estão no modo imperativo afirmativo" ,
+    "answers": [
+      { "text": " ame – coma – beba. ", "isCorrect": true },
+      { "text": " pode – beba – diz.  ", "isCorrect": false },
+      { "text": " sei – vão – está. ", "isCorrect": false },
+      { "text": " está – contamina – pode ", "isCorrect": false },
+      { "text": " sei – diz – ame. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " - Em “... não confessam 'seus sentimentos...” se substituir o termo grifado por um pronome, de acordo com a norma culta tem-se:  " ,
+    "answers": [
+      { "text": " não lhes confessam.  ", "isCorrect": true },
+      { "text": " confessam-nos.  ", "isCorrect": false },
+      { "text": " não os confessam ", "isCorrect": false },
+      { "text": " confessam-lhes.  ", "isCorrect": false },
+      { "text": " confessam-os ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Considere a proposição “toda luz brilha” como verdadeira. Dessa forma, é correto afirmar que " ,
+    "answers": [
+      { "text": " ”Alguma luz brilha” é uma proposição necessariamente verdadeira.  ", "isCorrect": true },
+      { "text": " ”Alguma luz não brilha” é uma proposição necessariamente verdadeira.   ", "isCorrect": false },
+      { "text": " ”Nenhuma luz brilha” é uma proposição necessariamente verdadeira. ", "isCorrect": false },
+      { "text": " ”Alguma luz brilha” é uma proposição verdadeira ou falsa ", "isCorrect": false },
+      { "text": " “Alguma luz não brilha” é uma proposição verdadeira ou falsa. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A negação da proposição “todas as crianças são graciosas” é:  " ,
+    "answers": [
+      { "text": " Nenhuma criança é graciosa.  ", "isCorrect": true },
+      { "text": " Todos os adultos não são graciosos ", "isCorrect": false },
+      { "text": " Nenhum adulto é gracioso.  ", "isCorrect": false },
+      { "text": " Todos os adultos são graciosos ", "isCorrect": false },
+      { "text": " Algumas crianças são graciosas.  ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Relacionamento com o dinheiro Desde cedo, começamos a lidar com uma série de situações ligadas ao dinheiro. Para tirar melhor proveito do seu dinheiro, é muito importante saber como utilizá-lo da forma mais favorável a você. O aprendizado e a aplicação de conhecimentos práticos de educação financeira podem contribuir para melhorar a gestão de nossas finanças pessoais, tornando nossas vidas mais tranquilas e equilibradas sob o ponto de vista financeiro. Se pararmos para pensar, estamos sujeitos a um mundo financeiro muito mais complexo que o das gerações anteriores. No entanto, o nível de educação financeira da população não acompanhou esse aumento de complexidade. A ausência de educação financeira, aliada à facilidade de acesso ao crédito, tem levado muitas pessoas ao endividamento excessivo, privando-as de parte de sua renda em função o pagamento de prestações mensais que reduzem suas capacidades de consumir produtos que lhes trariam satisfação. Infelizmente, não faz parte do cotidiano da maioria das pessoas buscar informações que as auxiliem na gestão de suas finanças. Para agravar essa situação, não há uma cultura coletiva, ou seja, uma preocupação da sociedade organizada em torno do tema. Nas escolas, pouco ou nada é falado sobre o assunto. As empresas, não compreendendo a importância de ter seus funcionários alfabetizados financeiramente, também não investem nessa área. Similar problema é encontrado nas famílias, nas quais não há o hábito de reunir os membros para discutir e elaborar um orçamento familiar. Igualmente entre os amigos, assuntos ligados à gestão financeira pessoal muitas vezes são considerados invasão de privacidade e pouco se conversa em torno do tema. Enfim, embora todos lidem diariamente com dinheiro, poucos se dedicam a gerir melhor seus recursos.   educação financeira pode trazer diversos benefícios, entre os quais, possibilitar o equilíbrio das finanças pessoais, preparar para o enfrentamento de imprevistos  financeiros e para a aposentadoria, qualificar para o bom uso do sistema financeiro, reduzir a possibilidade de o indivíduo cair em fraudes, preparar o caminho para a realização de sonhos, enfim, tornar a vida melhor. ////// O texto tem o objetivo primordial de" ,
+    "answers": [
+      { "text": " sensibilizar sobre a importância da educação financeira ", "isCorrect": true },
+      { "text": " ensinar a gerir as finanças pessoais de maneira eficaz. ", "isCorrect": false },
+      { "text": " prevenir quanto aos perigos do acesso facilitado ao crédito ", "isCorrect": false },
+      { "text": " alertar para a complexidade maior do mundo financeiro atual. ", "isCorrect": false },
+      { "text": " sugerir a incorporação do hábito de elaborar orçamento familiar ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Relacionamento com o dinheiro Desde cedo, começamos a lidar com uma série de situações ligadas ao dinheiro. Para tirar melhor proveito do seu dinheiro, é muito importante saber como utilizá-lo da forma mais favorável a você. O aprendizado e a aplicação de conhecimentos práticos de educação financeira podem contribuir para melhorar a gestão de nossas finanças pessoais, tornando nossas vidas mais tranquilas e equilibradas sob o ponto de vista financeiro. Se pararmos para pensar, estamos sujeitos a um mundo financeiro muito mais complexo que o das gerações anteriores. No entanto, o nível de educação financeira da população não acompanhou esse aumento de complexidade. A ausência de educação financeira, aliada à facilidade de acesso ao crédito, tem levado muitas pessoas ao endividamento excessivo, privando-as de parte de sua renda em função o pagamento de prestações mensais que reduzem suas capacidades de consumir produtos que lhes trariam satisfação. Infelizmente, não faz parte do cotidiano da maioria das pessoas buscar informações que as auxiliem na gestão de suas finanças. Para agravar essa situação, não há uma cultura coletiva, ou seja, uma preocupação da sociedade organizada em torno do tema. Nas escolas, pouco ou nada é falado sobre o assunto. As empresas, não compreendendo a importância de ter seus funcionários alfabetizados financeiramente, também não investem nessa área. Similar problema é encontrado nas famílias, nas quais não há o hábito de reunir os membros para discutir e elaborar um orçamento familiar. Igualmente entre os amigos, assuntos ligados à gestão financeira pessoal muitas vezes são considerados invasão de privacidade e pouco se conversa em torno do tema. Enfim, embora todos lidem diariamente com dinheiro, poucos se dedicam a gerir melhor seus recursos.   educação financeira pode trazer diversos benefícios, entre os quais, possibilitar o equilíbrio das finanças pessoais, preparar para o enfrentamento de imprevistos  financeiros e para a aposentadoria, qualificar para o bom uso do sistema financeiro, reduzir a possibilidade de o indivíduo cair em fraudes, preparar o caminho para a realização de sonhos, enfim, tornar a vida melhor. ///// Considere a palavra destacada no seguinte trecho do parágrafo 2: “A ausência de educação financeira, aliada à facilidade de acesso ao crédito, tem levado muitas pessoas ao endividamento 'excessivo'”. Essa palavra pode, sem prejuízo do sentido desse trecho, ser substituída por " ,
+    "answers": [
+      { "text": " desmedido ", "isCorrect": true },
+      { "text": " básico ", "isCorrect": false },
+      { "text": " essencial ", "isCorrect": false },
+      { "text": " inevitável ", "isCorrect": false },
+      { "text": " imprescindível ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": "  Relacionamento com o dinheiro Desde cedo, começamos a lidar com uma série de situações ligadas ao dinheiro. Para tirar melhor proveito do seu dinheiro, é muito importante saber como utilizá-lo da forma mais favorável a você. O aprendizado e a aplicação de conhecimentos práticos de educação financeira podem contribuir para melhorar a gestão de nossas finanças pessoais, tornando nossas vidas mais tranquilas e equilibradas sob o ponto de vista financeiro. Se pararmos para pensar, estamos sujeitos a um mundo financeiro muito mais complexo que o das gerações anteriores. No entanto, o nível de educação financeira da população não acompanhou esse aumento de complexidade. A ausência de educação financeira, aliada à facilidade de acesso ao crédito, tem levado muitas pessoas ao endividamento excessivo, privando-as de parte de sua renda em função o pagamento de prestações mensais que reduzem suas capacidades de consumir produtos que lhes trariam satisfação. Infelizmente, não faz parte do cotidiano da maioria das pessoas buscar informações que as auxiliem na gestão de suas finanças. Para agravar essa situação, não há uma cultura coletiva, ou seja, uma preocupação da sociedade organizada em torno do tema. Nas escolas, pouco ou nada é falado sobre o assunto. As empresas, não compreendendo a importância de ter seus funcionários alfabetizados financeiramente, também não investem nessa área. Similar problema é encontrado nas famílias, nas quais não há o hábito de reunir os membros para discutir e elaborar um orçamento familiar. Igualmente entre os amigos, assuntos ligados à gestão financeira pessoal muitas vezes são considerados invasão de privacidade e pouco se conversa em torno do tema. Enfim, embora todos lidem diariamente com dinheiro, poucos se dedicam a gerir melhor seus recursos.   educação financeira pode trazer diversos benefícios, entre os quais, possibilitar o equilíbrio das finanças pessoais, preparar para o enfrentamento de imprevistos  financeiros e para a aposentadoria, qualificar para o bom uso do sistema financeiro, reduzir a possibilidade de o indivíduo cair em fraudes, preparar o caminho para a realização de sonhos, enfim, tornar a vida melhor. ///// Considerando-se a organização composicional do texto lido, compreende-se que ele se classifica como " ,
+    "answers": [
+      { "text": " argumentativo, pois defende a ideia de que é importante saber lidar com o dinheiro ", "isCorrect": true },
+      { "text": " narrativo, pois relata o episódio de uma conversa sobre gestão financeira entre amigos. ", "isCorrect": false },
+      { "text": " descritivo, pois reproduz uma cena de elaboração de orçamento no cotidiano de uma família ", "isCorrect": false },
+      { "text": " expositivo, pois apresenta informações objetivas sobre conceitos da área de educação financeira. ", "isCorrect": false },
+      { "text": " injuntivo, pois instrui acerca da elaboração de orçamentos para uma vida financeira mais saudável. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O paralelismo sintático é uma das convenções estabelecidas para a escrita oficial. A frase cuja organização sintática está plenamente de acordo com essa convenção é: " ,
+    "answers": [
+      { "text": " O mundo financeiro, hoje, facilita o acesso ao crédito e leva ao endividamento progressivo ", "isCorrect": true },
+      { "text": " É muito salutar que as pessoas se programem em relação à saúde e financeiramente.  ", "isCorrect": false },
+      { "text": " Nossa vida financeira é saudável quando possibilita equilíbrio, segurança e que realizemos nossos sonhos ", "isCorrect": false },
+      { "text": " A educação financeira orienta-nos na revisão de gastos excessivos e que comprometem nosso orçamento. ", "isCorrect": false },
+      { "text": " Os especialistas aconselham as escolas a promoverem momentos de discussão sobre educação financeira com os pais dos alunos e que ofereçam aulas sobre o tema para os alunos.  ", "isCorrect": false }
+    ]
+  },
+  {
+    "question": " Sendo a clareza um requisito básico da escrita, a seguinte frase NÃO apresenta ambiguidade, estando apta a figurar em um texto oficial: " ,
+    "answers": [
+      { "text": " Depois de ler o edital e seu anexo, o gestor solicitou a alteração deste. ", "isCorrect": true },
+      { "text": " A empresa que investe em seus funcionários cuida de seu equilíbrio financeiro.  ", "isCorrect": false },
+      { "text": " O economista discutiu com o presidente da empresa, em sua sala, a melhor forma de gerir os negócios ", "isCorrect": false },
+      { "text": " O nível de educação financeira da população, que cresceu  muito nos últimos anos, é o tema da próxima palestra ", "isCorrect": false },
+      { "text": "  O diretor da escola comunicou ao professor que ele ofereceria um curso de educação financeira para a comunidade escolar. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Relacionamento com o dinheiro Desde cedo, começamos a lidar com uma série de situações ligadas ao dinheiro. Para tirar melhor proveito do seu dinheiro, é muito importante saber como utilizá-lo da forma mais favorável a você. O aprendizado e a aplicação de conhecimentos práticos de educação financeira podem contribuir para melhorar a gestão de nossas finanças pessoais, tornando nossas vidas mais tranquilas e equilibradas sob o ponto de vista financeiro. Se pararmos para pensar, estamos sujeitos a um mundo financeiro muito mais complexo que o das gerações anteriores. No entanto, o nível de educação financeira da população não acompanhou esse aumento de complexidade. A ausência de educação financeira, aliada à facilidade de acesso ao crédito, tem levado muitas pessoas ao endividamento excessivo, privando-as de parte de sua renda em função o pagamento de prestações mensais que reduzem suas capacidades de consumir produtos que lhes trariam satisfação. Infelizmente, não faz parte do cotidiano da maioria das pessoas buscar informações que as auxiliem na gestão de suas finanças. Para agravar essa situação, não há uma cultura coletiva, ou seja, uma preocupação da sociedade organizada em torno do tema. Nas escolas, pouco ou nada é falado sobre o assunto. As empresas, não compreendendo a importância de ter seus funcionários alfabetizados financeiramente, também não investem nessa área. Similar problema é encontrado nas famílias, nas quais não há o hábito de reunir os membros para discutir e elaborar um orçamento familiar. Igualmente entre os amigos, assuntos ligados à gestão financeira pessoal muitas vezes são considerados invasão de privacidade e pouco se conversa em torno do tema. Enfim, embora todos lidem diariamente com dinheiro, poucos se dedicam a gerir melhor seus recursos.   educação financeira pode trazer diversos benefícios, entre os quais, possibilitar o equilíbrio das finanças pessoais, preparar para o enfrentamento de imprevistos  financeiros e para a aposentadoria, qualificar para o bom uso do sistema financeiro, reduzir a possibilidade de o indivíduo cair em fraudes, preparar o caminho para a realização de sonhos, enfim, tornar a vida melhor. ///// No trecho do parágrafo 3 “As empresas, não compreendendo a importância de ter seus funcionários alfabetizados financeiramente, também não investem nessa área”, a oração destacada tem valor semântico de " ,
+    "answers": [
+      { "text": " causa ", "isCorrect": true },
+      { "text": " proporção ", "isCorrect": false },
+      { "text": " alternância ", "isCorrect": false },
+      { "text": " comparação ", "isCorrect": false },
+      { "text": " consequência ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " As vírgulas estão plenamente empregadas de acordo com o padrão formal da língua escrita em: " ,
+    "answers": [
+      { "text": "  É preciso criar uma cultura de discutir, na família, na escola, com os amigos, sobre como usar melhor os recursos financeiros ", "isCorrect": true },
+      { "text": " Há algumas décadas, se alguém falasse, em educação financeira, causaria um certo estranhamento. ", "isCorrect": false },
+      { "text": " Relacionar-se bem com o dinheiro de acordo com os especialistas, é uma forma de levar uma vida mais saudável, sem percalços. ", "isCorrect": false },
+      { "text": " A educação financeira, apesar de não resolver o problema da falta de dinheiro pode auxiliar, com um controle maior, de seu gasto.  ", "isCorrect": false },
+      { "text": " Não gastar em demasia, não acumular dívidas, refletir sobre seus ganhos, e gastos, poupar são estratégias para gerir melhor suas finanças ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Relacionamento com o dinheiro Desde cedo, começamos a lidar com uma série de situações ligadas ao dinheiro. Para tirar melhor proveito do seu dinheiro, é muito importante saber como utilizá-lo da forma mais favorável a você. O aprendizado e a aplicação de conhecimentos práticos de educação financeira podem contribuir para melhorar a gestão de nossas finanças pessoais, tornando nossas vidas mais tranquilas e equilibradas sob o ponto de vista financeiro. Se pararmos para pensar, estamos sujeitos a um mundo financeiro muito mais complexo que o das gerações anteriores. No entanto, o nível de educação financeira da população não acompanhou esse aumento de complexidade. A ausência de educação financeira, aliada à facilidade de acesso ao crédito, tem levado muitas pessoas ao endividamento excessivo, privando-as de parte de sua renda em função o pagamento de prestações mensais que reduzem suas capacidades de consumir produtos que lhes trariam satisfação. Infelizmente, não faz parte do cotidiano da maioria das pessoas buscar informações que as auxiliem na gestão de suas finanças. Para agravar essa situação, não há uma cultura coletiva, ou seja, uma preocupação da sociedade organizada em torno do tema. Nas escolas, pouco ou nada é falado sobre o assunto. As empresas, não compreendendo a importância de ter seus funcionários alfabetizados financeiramente, também não investem nessa área. Similar problema é encontrado nas famílias, nas quais não há o hábito de reunir os membros para discutir e elaborar um orçamento familiar. Igualmente entre os amigos, assuntos ligados à gestão financeira pessoal muitas vezes são considerados invasão de privacidade e pouco se conversa em torno do tema. Enfim, embora todos lidem diariamente com dinheiro, poucos se dedicam a gerir melhor seus recursos.   educação financeira pode trazer diversos benefícios, entre os quais, possibilitar o equilíbrio das finanças pessoais, preparar para o enfrentamento de imprevistos  financeiros e para a aposentadoria, qualificar para o bom uso do sistema financeiro, reduzir a possibilidade de o indivíduo cair em fraudes, preparar o caminho para a realização de sonhos, enfim, tornar a vida melhor. ///// A frase que, ao ser reescrita, guarda o mesmo sentido do trecho do parágrafo 3 “Enfim, embora todos lidem diariamente com dinheiro, poucos se dedicam a gerir melhor seus recursos.” é: " ,
+    "answers": [
+      { "text": " Enfim, apesar de todos lidarem diariamente com dinheiro, poucos se dedicam a gerir melhor seus recursos ", "isCorrect": true },
+      { "text": " Enfim, quando todos lidam diariamente com dinheiro, poucos se dedicam a gerir melhor seus recursos ", "isCorrect": false },
+      { "text": " Enfim, por todos lidarem diariamente com dinheiro, poucos se dedicam a gerir melhor seus recursos. ", "isCorrect": false },
+      { "text": " Enfim, como todos lidam diariamente com dinheiro, poucos se dedicam a gerir melhor seus recursos. ", "isCorrect": false },
+      { "text": " Enfim, desde que todos lidem diariamente com dinheiro, poucos se dedicam a gerir melhor seus recursos. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A colocação do pronome oblíquo átono está em acordo com a norma-padrão da língua portuguesa em: " ,
+    "answers": [
+      { "text": " Poder-se-á levar a educação financeira para as salas de aula, o que será muito proveitoso ", "isCorrect": true },
+      { "text": " Nos perguntam sempre sobre como gerir melhor a vida financeira ", "isCorrect": false },
+      { "text": " As famílias nunca preocuparam-se com a educação financeira como parte da formação de seus filhos. ", "isCorrect": false },
+      { "text": " Aqueles que relacionam-se bem com o dinheiro têm uma vida mais organizada ", "isCorrect": false },
+      { "text": " Compreenderia-se melhor o desempenho da empresa, se o mercado fosse estudado. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Considerando-se as regras da norma-padrão da língua portuguesa, a concordância nominal da palavra destacada está adequadamente construída em: " ,
+    "answers": [
+      { "text": "  É 'proibida' a movimentação financeira efetuada por menores no âmbito do direito financeiro ", "isCorrect": true },
+      { "text": " Naquela palestra, foram 'abordadas' ensinamentos e orientações sobre o bom uso do dinheiro. ", "isCorrect": false },
+      { "text": " Sempre há 'bastante' investidores interessados em discussões que abordam o mercado de ações. ", "isCorrect": false },
+      { "text": " Perderemos 'menas' oportunidades se nos mantivermos sempre atentos ao mercado financeiro. ", "isCorrect": false },
+      { "text": " O mercado está vendo crescer uma tendência de conglomerados 'francos-brasileiros' no país. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Transporte movido a energia limpa tem a necessidade de investimento para o combate às mudanças climáticas ////// A mobilidade urbana se tornou a maior tendência mundial da indústria automotiva. Você já se imaginou morando em uma cidade onde os setores público e privado promovem projetos com veículos elétricos para transporte público, redução de custos, de ruídos, de poluentes causadores do aquecimento global e de mudanças climáticas para que o transporte público funcione de verdade? Imagine as pessoas se deslocando, com facilidade, para vários bairros de metrô ou transporte a energia limpa interligados. Para aqueles que optam por pedalar, estão à disposição mais de 700 quilômetros de ciclovias espalhadas por todos os cantos. Tudo isso parece utopia, mas não é. Essa cidade existe e se chama Estocolmo, capital da Suécia, que ganhou o prêmio de Cidade Verde Europeia em 2010. Ela apresenta a maior percentagem de veículos não poluentes na Europa, e 75% da rede de transportes públicos recorrem a energias renováveis. Até 2050, o governo planeja ficar completamente livre de combustíveis fósseis, o que significa que todas as emissões relacionadas ao aquecimento público e privado, aos veículos e ao uso da eletricidade serão reduzidas a zero. Isso significa uma enorme contribuição à redução do aquecimento global. O uso de energia limpa é muito mais vantajoso para os consumidores. A energia limpa é mais econômica, eficiente e competitiva que os combustíveis fósseis. Para exemplificar, a eficiência de um veículo movido a energia elétrica supera os 80%, enquanto os movidos a combustão não ultrapassam os 20%. Isso sem levar em consideração que os veículos elétricos possuem menos peças e têm menor custo de manutenção, se comparados aos de combustão. Como esperado, a China lidera essa agenda douso de energia limpa para a mobilidade urbana. Para acompanhar as tendências de desenvolvimento sustentável, Paris liderou na COP21 as assinaturas de medidas para promover energia limpa e mobilidade urbana elétrica em conjunto com mil cidades do mundo. Paris, Londres, Milão e Oslo foram exemplos, ao criar as zonas de baixa emissão de poluentes produzidos pelos combustíveis fósseis. O cenário de avanço pelo mundo é muito promissor. O Brasil, de forma ainda tímida, começa a se inserir nesse cenário global. Algumas cidades e estados brasileiros estão tomando a frente para acelerar o processo de desenvolvimento de veículos elétricos e sustentáveis. São Paulo, a maior cidade brasileira, foi a primeira a ter parte de sua frota transformada em veículos elétricos em novembro de 2019. A cidade apresentou lotes de 15 ônibus 100% elétricos distribuídos pela cidade. De acordo com a montadora, os ônibus elétricos proporcionam custos operacionais 70% menores em relação ao ônibus convencional a diesel. Os veículos entregues são de piso baixo e trazem ar-condicionado, conexão wi-fi, tomadas USB, monitoramento por câmeras e dispositivo de acesso a cadeirantes, conforme especificações técnicas da SPTrans. ////// Um trecho do texto que enumera benefícios da redução do uso de combustíveis fósseis é: " ,
+    "answers": [
+      { "text": " “Você já se imaginou morando em uma cidade onde os setores público e privado promovem projetos com veículos elétricos para transporte público, redução de custos, de ruídos, de poluentes causadores do aquecimento global e de mudanças climáticas para que o transporte público funcione de verdade?” (parágrafo 1) ", "isCorrect": true },
+      { "text": " “Essa cidade existe e se chama Estocolmo, capital da Suécia, que ganhou o prêmio de Cidade Verde Europeia em 2010. Ela apresenta a maior percentagem de veículos não poluentes na Europa” (parágrafo 2) ", "isCorrect": false },
+      { "text": " “Paris liderou na COP21 as assinaturas de medidas para promover energia limpa e mobilidade urbana elétrica em conjunto com mil cidades do mundo.” (parágrafo 4) ", "isCorrect": false },
+      { "text": " “Paris, Londres, Milão e Oslo foram exemplos, ao criar as zonas de baixa emissão de poluentes produzidos pelos combustíveis fósseis.” (parágrafo 4) ", "isCorrect": false },
+      { "text": " “O cenário de avanço pelo mundo é muito promissor. O Brasil, de forma ainda tímida, começa a se inserir nesse cenário global.” (parágrafo 5) ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": "  Transporte movido a energia limpa tem a necessidade de investimento para o combate às mudanças climáticas ////// A mobilidade urbana se tornou a maior tendência mundial da indústria automotiva. Você já se imaginou morando em uma cidade onde os setores público e privado promovem projetos com veículos elétricos para transporte público, redução de custos, de ruídos, de poluentes causadores do aquecimento global e de mudanças climáticas para que o transporte público funcione de verdade? Imagine as pessoas se deslocando, com facilidade, para vários bairros de metrô ou transporte a energia limpa interligados. Para aqueles que optam por pedalar, estão à disposição mais de 700 quilômetros de ciclovias espalhadas por todos os cantos. Tudo isso parece utopia, mas não é. Essa cidade existe e se chama Estocolmo, capital da Suécia, que ganhou o prêmio de Cidade Verde Europeia em 2010. Ela apresenta a maior percentagem de veículos não poluentes na Europa, e 75% da rede de transportes públicos recorrem a energias renováveis. Até 2050, o governo planeja ficar completamente livre de combustíveis fósseis, o que significa que todas as emissões relacionadas ao aquecimento público e privado, aos veículos e ao uso da eletricidade serão reduzidas a zero. Isso significa uma enorme contribuição à redução do aquecimento global. O uso de energia limpa é muito mais vantajoso para os consumidores. A energia limpa é mais econômica, eficiente e competitiva que os combustíveis fósseis. Para exemplificar, a eficiência de um veículo movido a energia elétrica supera os 80%, enquanto os movidos a combustão não ultrapassam os 20%. Isso sem levar em consideração que os veículos elétricos possuem menos peças e têm menor custo de manutenção, se comparados aos de combustão. Como esperado, a China lidera essa agenda douso de energia limpa para a mobilidade urbana. Para acompanhar as tendências de desenvolvimento sustentável, Paris liderou na COP21 as assinaturas de medidas para promover energia limpa e mobilidade urbana elétrica em conjunto com mil cidades do mundo. Paris, Londres, Milão e Oslo foram exemplos, ao criar as zonas de baixa emissão de poluentes produzidos pelos combustíveis fósseis. O cenário de avanço pelo mundo é muito promissor. O Brasil, de forma ainda tímida, começa a se inserir nesse cenário global. Algumas cidades e estados brasileiros estão tomando a frente para acelerar o processo de desenvolvimento de veículos elétricos e sustentáveis. São Paulo, a maior cidade brasileira, foi a primeira a ter parte de sua frota transformada em veículos elétricos em novembro de 2019. A cidade apresentou lotes de 15 ônibus 100% elétricos distribuídos pela cidade. De acordo com a montadora, os ônibus elétricos proporcionam custos operacionais 70% menores em relação ao ônibus convencional a diesel. Os veículos entregues são de piso baixo e trazem ar-condicionado, conexão wi-fi, tomadas USB, monitoramento por câmeras e dispositivo de acesso a cadeirantes, conforme especificações técnicas da SPTrans. ////// Em sua progressão temática, depois de informar que algumas cidades e estados brasileiros estão acelerando o processo de desenvolvimento de veículos elétricos e sustentáveis, o texto desenvolve a ideia de que " ,
+    "answers": [
+      { "text": " a maior cidade brasileira transformou parte de sua frota em veículos elétricos em novembro de 2019, com redução ", "isCorrect": true },
+      { "text": " a maior cidade brasileira transformou parte de sua frota em veículos elétricos em novembro de 2019, com redução de custos operacionais em relação ao uso do diesel. ", "isCorrect": false },
+      { "text": " a mobilidade urbana se tornou a maior tendência mundial da indústria automotiva, com projetos de construção de veículos elétricos.  ", "isCorrect": false },
+      { "text": " uma cidade europeia, que já tem 75% da rede de transportes públicos movida a energias renováveis, ganhou um prêmio ambiental em 2010.  ", "isCorrect": false },
+      { "text": " várias cidades europeias estão tomando medidas para promover energia limpa e baixa emissão de poluentes produzidos pelos combustíveis fósseis.  ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": "  Transporte movido a energia limpa tem a necessidade de investimento para o combate às mudanças climáticas ////// A mobilidade urbana se tornou a maior tendência mundial da indústria automotiva. Você já se imaginou morando em uma cidade onde os setores público e privado promovem projetos com veículos elétricos para transporte público, redução de custos, de ruídos, de poluentes causadores do aquecimento global e de mudanças climáticas para que o transporte público funcione de verdade? Imagine as pessoas se deslocando, com facilidade, para vários bairros de metrô ou transporte a energia limpa interligados. Para aqueles que optam por pedalar, estão à disposição mais de 700 quilômetros de ciclovias espalhadas por todos os cantos. Tudo isso parece utopia, mas não é. Essa cidade existe e se chama Estocolmo, capital da Suécia, que ganhou o prêmio de Cidade Verde Europeia em 2010. Ela apresenta a maior percentagem de veículos não poluentes na Europa, e 75% da rede de transportes públicos recorrem a energias renováveis. Até 2050, o governo planeja ficar completamente livre de combustíveis fósseis, o que significa que todas as emissões relacionadas ao aquecimento público e privado, aos veículos e ao uso da eletricidade serão reduzidas a zero. Isso significa uma enorme contribuição à redução do aquecimento global. O uso de energia limpa é muito mais vantajoso para os consumidores. A energia limpa é mais econômica, eficiente e competitiva que os combustíveis fósseis. Para exemplificar, a eficiência de um veículo movido a energia elétrica supera os 80%, enquanto os movidos a combustão não ultrapassam os 20%. Isso sem levar em consideração que os veículos elétricos possuem menos peças e têm menor custo de manutenção, se comparados aos de combustão. Como esperado, a China lidera essa agenda douso de energia limpa para a mobilidade urbana. Para acompanhar as tendências de desenvolvimento sustentável, Paris liderou na COP21 as assinaturas de medidas para promover energia limpa e mobilidade urbana elétrica em conjunto com mil cidades do mundo. Paris, Londres, Milão e Oslo foram exemplos, ao criar as zonas de baixa emissão de poluentes produzidos pelos combustíveis fósseis. O cenário de avanço pelo mundo é muito promissor. O Brasil, de forma ainda tímida, começa a se inserir nesse cenário global. Algumas cidades e estados brasileiros estão tomando a frente para acelerar o processo de desenvolvimento de veículos elétricos e sustentáveis. São Paulo, a maior cidade brasileira, foi a primeira a ter parte de sua frota transformada em veículos elétricos em novembro de 2019. A cidade apresentou lotes de 15 ônibus 100% elétricos distribuídos pela cidade. De acordo com a montadora, os ônibus elétricos proporcionam custos operacionais 70% menores em relação ao ônibus convencional a diesel. Os veículos entregues são de piso baixo e trazem ar-condicionado, conexão wi-fi, tomadas USB, monitoramento por câmeras e dispositivo de acesso a cadeirantes, conforme especificações técnicas da SPTrans. ////// O segundo parágrafo do texto desempenha, em relação ao primeiro parágrafo, a função de expressar uma " ,
+    "answers": [
+      { "text": " exemplificação ", "isCorrect": true },
+      { "text": " adição ", "isCorrect": false },
+      { "text": " condição ", "isCorrect": false },
+      { "text": " consequência ", "isCorrect": false },
+      { "text": " contraposição ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A vírgula está empregada plenamente de acordo com as exigências da norma-padrão da língua portuguesa em: " ,
+    "answers": [
+      { "text": " A redução do uso de plástico, ao abolir as sacolas não recicláveis no comércio, representa não só uma economia no dia a dia mas também a proteção da natureza.  ", "isCorrect": true },
+      { "text": " A preservação do planeta deve ser considerada, uma das prioridades da humanidade, porque é um dos grandes desafios para a manutenção da vida na Terra. ", "isCorrect": false },
+      { "text": " As impressões em papel devem ser evitadas, porque atualmente, a preservação das árvores é essencial à vida humana ", "isCorrect": false },
+      { "text": " O grande aumento nos níveis de chuva em determinadas regiões, pode ser atribuído ao processo de aquecimento global, e às mudanças climáticas. ", "isCorrect": false },
+      { "text": " Os veículos movidos por energia limpa, representam um incrível progresso na busca por reduzir a poluição atmosférica, nas grandes cidades do mundo.  ", "isCorrect": false }
+    ]
+  },
+  {
+    "question": " O acento grave indicador de crase está empregado, de acordo com a norma-padrão da língua portuguesa, na palavra destacada em: " ,
+    "answers": [
+      { "text": " A redução do uso de gasolina, agente poluidor da mais alta intensidade, pode ser conseguida com o incentivo à produção de carros elétricos ", "isCorrect": true },
+      { "text": " A bicicleta é a principal alternativa para à diminuição de poluentes que causam o aquecimento global. ", "isCorrect": false },
+      { "text": " A capacidade de deslocamento da população motiva-a à buscar o aprimoramento contínuo dos transportes e enfrentar a realidade diária. ", "isCorrect": false },
+      { "text": " As causas do aquecimento global podem ser minimizadas se houver a intervenção dos órgãos governamentais que garantam acessibilidade à pessoas vulneráveis. ", "isCorrect": false },
+      { "text": " O combate à mudanças climáticas requer grande investimento dos países para a renovação da frota de transporte público. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Relacionamento com o dinheiro  Desde cedo, começamos a lidar com uma série de situações ligadas ao dinheiro. Para tirar melhor proveito do seu dinheiro, é muito importante saber como utilizá-lo da forma mais favorável a você. O aprendizado e a aplicação de conhecimentos práticos de educação financeira podem contribuir para melhorar a gestão de nossas finanças pessoais, tornando nossas vidas mais tranquilas e equilibradas sob o ponto de vista financeiro. Se pararmos para pensar, estamos sujeitos a um mundo financeiro muito mais complexo que o das gerações anteriores. No entanto, o nível de educação financeira da população não acompanhou esse aumento de complexidade. A ausência de educação financeira, aliada à facilidade de acesso ao crédito, tem levado muitas pessoas ao endividamento excessivo, privando-as de parte de sua renda em função do pagamento de prestações mensais que reduzem suas capacidades de consumir produtos que lhes trariam satisfação. Infelizmente, não faz parte do cotidiano da maioria das pessoas buscar informações que as auxiliem na gestão de suas finanças. Para agravar essa situação, não há uma cultura coletiva, ou seja, uma preocupação da sociedade organizada em torno do tema. Nas escolas, pouco ou nada é falado sobre o assunto. As empresas, não compreendendo a importância de ter seus funcionários alfabetizados financeiramente, também não investem nessa área. Similar problema é encontrado nas famílias, nas quais não há o hábito de reunir os membros para discutir e elaborar um orçamento familiar. Igualmente entre os amigos, assuntos ligados à gestão financeira pessoal muitas vezes são considerados invasão de privacidade e pouco se conversa em torno do tema. Enfim, embora todos lidem diariamente com dinheiro, poucos se dedicam a gerir melhor seus recursos. A educação financeira pode trazer diversos benefícios, entre os quais, possibilitar o equilíbrio das finanças pessoais, preparar para o enfrentamento de imprevistos financeiros e para a aposentadoria, qualificar para o bom uso do sistema financeiro, reduzir a possibilidade de o indivíduo cair em fraudes, preparar o caminho para a realização de sonhos, enfim, tornar a vida melhor. /////// O texto tem o objetivo primordial de " ,
+    "answers": [
+      { "text": " sensibilizar sobre a importância da educação financeira. ", "isCorrect": true },
+      { "text": " ensinar a gerir as finanças pessoais de maneira eficaz. ", "isCorrect": false },
+      { "text": " prevenir quanto aos perigos do acesso facilitado ao crédito. ", "isCorrect": false },
+      { "text": " alertar para a complexidade maior do mundo financeiro atual. ", "isCorrect": false },
+      { "text": " sugerir a incorporação do hábito de elaborar orçamento familiar. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Relacionamento com o dinheiro  Desde cedo, começamos a lidar com uma série de situações ligadas ao dinheiro. Para tirar melhor proveito do seu dinheiro, é muito importante saber como utilizá-lo da forma mais favorável a você. O aprendizado e a aplicação de conhecimentos práticos de educação financeira podem contribuir para melhorar a gestão de nossas finanças pessoais, tornando nossas vidas mais tranquilas e equilibradas sob o ponto de vista financeiro. Se pararmos para pensar, estamos sujeitos a um mundo financeiro muito mais complexo que o das gerações anteriores. No entanto, o nível de educação financeira da população não acompanhou esse aumento de complexidade. A ausência de educação financeira, aliada à facilidade de acesso ao crédito, tem levado muitas pessoas ao endividamento excessivo, privando-as de parte de sua renda em função do pagamento de prestações mensais que reduzem suas capacidades de consumir produtos que lhes trariam satisfação. Infelizmente, não faz parte do cotidiano da maioria das pessoas buscar informações que as auxiliem na gestão de suas finanças. Para agravar essa situação, não há uma cultura coletiva, ou seja, uma preocupação da sociedade organizada em torno do tema. Nas escolas, pouco ou nada é falado sobre o assunto. As empresas, não compreendendo a importância de ter seus funcionários alfabetizados financeiramente, também não investem nessa área. Similar problema é encontrado nas famílias, nas quais não há o hábito de reunir os membros para discutir e elaborar um orçamento familiar. Igualmente entre os amigos, assuntos ligados à gestão financeira pessoal muitas vezes são considerados invasão de privacidade e pouco se conversa em torno do tema. Enfim, embora todos lidem diariamente com dinheiro, poucos se dedicam a gerir melhor seus recursos. A educação financeira pode trazer diversos benefícios, entre os quais, possibilitar o equilíbrio das finanças pessoais, preparar para o enfrentamento de imprevistos financeiros e para a aposentadoria, qualificar para o bom uso do sistema financeiro, reduzir a possibilidade de o indivíduo cair em fraudes, preparar o caminho para a realização de sonhos, enfim, tornar a vida melhor. ////// Considere a palavra destacada no seguinte trecho do parágrafo 2: “A ausência de educação financeira, aliada à facilidade de acesso ao crédito, tem levado muitas pessoas ao endividamento excessivo”. Essa palavra pode, sem prejuízo do sentido desse trecho, ser substituída por " ,
+    "answers": [
+      { "text": " desmedido ", "isCorrect": true },
+      { "text": " básico ", "isCorrect": false },
+      { "text": " essencial ", "isCorrect": false },
+      { "text": " inevitável ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Relacionamento com o dinheiro  Desde cedo, começamos a lidar com uma série de situações ligadas ao dinheiro. Para tirar melhor proveito do seu dinheiro, é muito importante saber como utilizá-lo da forma mais favorável a você. O aprendizado e a aplicação de conhecimentos práticos de educação financeira podem contribuir para melhorar a gestão de nossas finanças pessoais, tornando nossas vidas mais tranquilas e equilibradas sob o ponto de vista financeiro. Se pararmos para pensar, estamos sujeitos a um mundo financeiro muito mais complexo que o das gerações anteriores. No entanto, o nível de educação financeira da população não acompanhou esse aumento de complexidade. A ausência de educação financeira, aliada à facilidade de acesso ao crédito, tem levado muitas pessoas ao endividamento excessivo, privando-as de parte de sua renda em função do pagamento de prestações mensais que reduzem suas capacidades de consumir produtos que lhes trariam satisfação. Infelizmente, não faz parte do cotidiano da maioria das pessoas buscar informações que as auxiliem na gestão de suas finanças. Para agravar essa situação, não há uma cultura coletiva, ou seja, uma preocupação da sociedade organizada em torno do tema. Nas escolas, pouco ou nada é falado sobre o assunto. As empresas, não compreendendo a importância de ter seus funcionários alfabetizados financeiramente, também não investem nessa área. Similar problema é encontrado nas famílias, nas quais não há o hábito de reunir os membros para discutir e elaborar um orçamento familiar. Igualmente entre os amigos, assuntos ligados à gestão financeira pessoal muitas vezes são considerados invasão de privacidade e pouco se conversa em torno do tema. Enfim, embora todos lidem diariamente com dinheiro, poucos se dedicam a gerir melhor seus recursos. A educação financeira pode trazer diversos benefícios, entre os quais, possibilitar o equilíbrio das finanças pessoais, preparar para o enfrentamento de imprevistos financeiros e para a aposentadoria, qualificar para o bom uso do sistema financeiro, reduzir a possibilidade de o indivíduo cair em fraudes, preparar o caminho para a realização de sonhos, enfim, tornar a vida melhor. ////// Considerando-se a organização composicional do texto lido, compreende-se que ele se classifica como  " ,
+    "answers": [
+      { "text": " argumentativo, pois defende a ideia de que é importante saber lidar com o dinheiro. ", "isCorrect": true },
+      { "text": " narrativo, pois relata o episódio de uma conversa sobre gestão financeira entre amigos. ", "isCorrect": false },
+      { "text": " descritivo, pois reproduz uma cena de elaboração de orçamento no cotidiano de uma família. ", "isCorrect": false },
+      { "text": " expositivo, pois apresenta informações objetivas sobre conceitos da área de educação financeira. ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O paralelismo sintático é uma das convenções estabelecidas para a escrita oficial. A frase cuja organização sintática está plenamente de acordo com essa convenção é:  " ,
+    "answers": [
+      { "text": " O mundo financeiro, hoje, facilita o acesso ao crédito e leva ao endividamento progressivo ", "isCorrect": true },
+      { "text": " É muito salutar que as pessoas se programem em relação à saúde e financeiramente. ", "isCorrect": false },
+      { "text": " Nossa vida financeira é saudável quando possibilita equilíbrio, segurança e que realizemos nossos sonhos.  ", "isCorrect": false },
+      { "text": " A educação financeira orienta-nos na revisão de gastos excessivos e que comprometem nosso orçamento. ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Sendo a clareza um requisito básico da escrita, a seguinte frase NÃO apresenta ambiguidade, estando apta a figurar em um texto oficial: " ,
+    "answers": [
+      { "text": " Depois de ler o edital e seu anexo, o gestor solicitou a alteração deste. ", "isCorrect": true },
+      { "text": " A empresa que investe em seus funcionários cuida de seu equilíbrio financeiro.  ", "isCorrect": false },
+      { "text": " O economista discutiu com o presidente da empresa, em sua sala, a melhor forma de gerir os negócios. ", "isCorrect": false },
+      { "text": " O nível de educação financeira da população, que cresceu muito nos últimos anos, é o tema da próxima palestra ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Relacionamento com o dinheiro  Desde cedo, começamos a lidar com uma série de situações ligadas ao dinheiro. Para tirar melhor proveito do seu dinheiro, é muito importante saber como utilizá-lo da forma mais favorável a você. O aprendizado e a aplicação de conhecimentos práticos de educação financeira podem contribuir para melhorar a gestão de nossas finanças pessoais, tornando nossas vidas mais tranquilas e equilibradas sob o ponto de vista financeiro. Se pararmos para pensar, estamos sujeitos a um mundo financeiro muito mais complexo que o das gerações anteriores. No entanto, o nível de educação financeira da população não acompanhou esse aumento de complexidade. A ausência de educação financeira, aliada à facilidade de acesso ao crédito, tem levado muitas pessoas ao endividamento excessivo, privando-as de parte de sua renda em função do pagamento de prestações mensais que reduzem suas capacidades de consumir produtos que lhes trariam satisfação. Infelizmente, não faz parte do cotidiano da maioria das pessoas buscar informações que as auxiliem na gestão de suas finanças. Para agravar essa situação, não há uma cultura coletiva, ou seja, uma preocupação da sociedade organizada em torno do tema. Nas escolas, pouco ou nada é falado sobre o assunto. As empresas, não compreendendo a importância de ter seus funcionários alfabetizados financeiramente, também não investem nessa área. Similar problema é encontrado nas famílias, nas quais não há o hábito de reunir os membros para discutir e elaborar um orçamento familiar. Igualmente entre os amigos, assuntos ligados à gestão financeira pessoal muitas vezes são considerados invasão de privacidade e pouco se conversa em torno do tema. Enfim, embora todos lidem diariamente com dinheiro, poucos se dedicam a gerir melhor seus recursos. A educação financeira pode trazer diversos benefícios, entre os quais, possibilitar o equilíbrio das finanças pessoais, preparar para o enfrentamento de imprevistos financeiros e para a aposentadoria, qualificar para o bom uso do sistema financeiro, reduzir a possibilidade de o indivíduo cair em fraudes, preparar o caminho para a realização de sonhos, enfim, tornar a vida melhor. ////// No trecho do parágrafo 3 “As empresas, não compreendendo a importância de ter seus funcionários alfabetizados financeiramente, também não investem nessa área”, a oração destacada tem valor semântico de " ,
+    "answers": [
+      { "text": " causa ", "isCorrect": true },
+      { "text": " proporção ", "isCorrect": false },
+      { "text": " alternância ", "isCorrect": false },
+      { "text": " comparação ", "isCorrect": false },
+      { "text": " consequência ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " As vírgulas estão plenamente empregadas de acordo com o padrão formal da língua escrita em: " ,
+    "answers": [
+      { "text": " É preciso criar uma cultura de discutir, na família, na escola, com os amigos, sobre como usar melhor os recursos financeiros. ", "isCorrect": true },
+      { "text": " Há algumas décadas, se alguém falasse, em educação financeira, causaria um certo estranhamento. ", "isCorrect": false },
+      { "text": " Relacionar-se bem com o dinheiro de acordo com os especialistas, é uma forma de levar uma vida mais saudável, sem percalços. ", "isCorrect": false },
+      { "text": " A educação financeira, apesar de não resolver o problema da falta de dinheiro pode auxiliar, com um controle maior, de seu gasto. ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A frase que, ao ser reescrita, guarda o mesmo sentido do trecho “Enfim, embora todos lidem diariamente com dinheiro, poucos se dedicam a gerir melhor seus recursos.” é: " ,
+    "answers": [
+      { "text": " Enfim, apesar de todos lidarem diariamente com dinheiro, poucos se dedicam a gerir melhor seus recursos. ", "isCorrect": true },
+      { "text": " Enfim, quando todos lidam diariamente com dinheiro, poucos se dedicam a gerir melhor seus recursos. ", "isCorrect": false },
+      { "text": " Enfim, por todos lidarem diariamente com dinheiro, poucos se dedicam a gerir melhor seus recursos. ", "isCorrect": false },
+      { "text": " Enfim, como todos lidam diariamente com dinheiro, poucos se dedicam a gerir melhor seus recursos ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A colocação do pronome oblíquo átono está em acordo com a norma-padrão da língua portuguesa em: " ,
+    "answers": [
+      { "text": " Poder-se-á levar a educação financeira para as salas de aula, o que será muito proveitoso.  ", "isCorrect": true },
+      { "text": " Nos perguntam sempre sobre como gerir melhor a vida financeira ", "isCorrect": false },
+      { "text": " As famílias nunca preocuparam-se com a educação financeira como parte da formação de seus filhos. ", "isCorrect": false },
+      { "text": " Aqueles que relacionam-se bem com o dinheiro têm uma vida mais organizada.  ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+  {
+    "question": " Considerando-se as regras da norma-padrão da língua portuguesa, a concordância nominal da palavra destacada está adequadamente construída em:  " ,
+    "answers": [
+      { "text": " O mercado está vendo crescer uma tendência de conglomerados 'francos-brasileiros' no país. ", "isCorrect": true },
+      { "text": " Naquela palestra, foram 'abordadas' ensinamentos e orientações sobre o bom uso do dinheiro. ", "isCorrect": false },
+      { "text": " Sempre há 'bastante' investidores interessados em discussões que abordam o mercado de ações. ", "isCorrect": false },
+      { "text": " Perderemos 'menas' oportunidades se nos mantivermos sempre atentos ao mercado financeiro. ", "isCorrect": false },
+      { "text": " É 'proibida' a movimentação financeira efetuada por menores no âmbito do direito financeiro. ", "isCorrect": false }
+    ]
+  }
+  
+  
+]  
+

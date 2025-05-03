@@ -1,0 +1,1022 @@
+[ 
+  {
+    "question": " Três grandezas A, B e C, são tais que A é diretamente proporcional a B e inversamente proporcional ao quadrado de C. Quando B = 6 e C = 3 tem-se A = 1. Quando A = 3 e C = 2, o valor de B é: " ,
+    "answers": [
+      { "text": " 8 ", "isCorrect": true },
+      { "text": " 5 ", "isCorrect": false },
+      { "text": " 3 ", "isCorrect": false },
+      { "text": " 6 ", "isCorrect": false },
+      { "text": " 1 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Pedro pergunta a Paulo se ele pode trocar uma nota de R$ 100,00 por duas notas de R$ 50,00. Paulo responde que tem exatamente R$ 200,00 na carteira em notas de R$ 50,00, R$ 20,00 e R$ 10,00, mas não sabe quantas notas tem de cada valor. Sabe apenas que tem pelo menos uma de cada valor. Considere que todas as distribuições possíveis de notas de R$50,00, R$20,00 e R$10,00 que podem ocorrer na carteira de Paulo sejam igualmente prováveis. A probabilidade de que Paulo possa fazer a troca pedida por Pedro é de:  " ,
+    "answers": [
+      { "text": " 7/13 ", "isCorrect": true },
+      { "text": " 2/23 ", "isCorrect": false },
+      { "text": " 4/13 ", "isCorrect": false },
+      { "text": " 5/13 ", "isCorrect": false },
+      { "text": " 2/13 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Francisco estava devendo R$ 2.100,00 à operadora do cartão de crédito, que cobra taxa mensal de juros de 12%. No dia do vencimento pagou R$ 800,00 e prometeu não fazer nenhuma compra nova até liquidar com a dívida. No mês seguinte, no dia do vencimento da nova fatura pagou mais R$ 800,00 e, um mês depois, fez mais um pagamento terminando com a dívida. Sabendo que Francisco havia cumprido a promessa feita, o valor desse último pagamento, desprezando os centavos, foi de: " ,
+    "answers": [
+      { "text": " R$ 728,00 ", "isCorrect": true },
+      { "text": " R$ 708,00 ", "isCorrect": false },
+      { "text": " R$ 714,00 ", "isCorrect": false },
+      { "text": " R$ 720,00 ", "isCorrect": false },
+      { "text": " R$ 734,00 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Fernando possui um título que tem taxa de desconto de 0,75% ao mês e que paga mensalmente a quantia de R$ 900,00, perpetuamente. Se Fernando quiser vender esse título, o seu preço justo é de: " ,
+    "answers": [
+      { "text": " R$ 120.000,00 ", "isCorrect": true },
+      { "text": " R$ 12.000,00 ", "isCorrect": false },
+      { "text": " R$ 67.500,00 ", "isCorrect": false },
+      { "text": " R$ 90.000,00 ", "isCorrect": false },
+      { "text": " R$ 220.000,00 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Em uma agência bancária, dois caixas atendem em média seis clientes em 10 minutos. Considere que, nesta agência, todos os caixas trabalham com a mesma eficiência e que a média citada sempre é mantida. Assim, o tempo médio necessário para que cinco caixas atendam 45 clientes é de: " ,
+    "answers": [
+      { "text": " 30 minutos ", "isCorrect": true },
+      { "text": " 45 minutos ", "isCorrect": false },
+      { "text": " 20 minutos ", "isCorrect": false },
+      { "text": " 50 minutos ", "isCorrect": false },
+      { "text": " 48 minutos ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Francisco não tinha herdeiros diretos e assim, no ano de 2003, no dia do seu aniversário, fez seu testamento. Nesse testamento declarava que o saldo total da caderneta de poupança que possuía deveria ser dividido entre seus três sobrinhos em partes proporcionais às idades que tivessem no dia de sua morte. No dia em que estava redigindo o testamento, seus sobrinhos tinham 12, 18 e 20 anos. Francisco morreu em 2013, curiosamente, no dia do seu aniversário e, nesse dia, sua caderneta de poupança tinha exatamente R$ 300.000,00. Feita a divisão de acordo com o testamento, o sobrinho mais jovem recebeu: " ,
+    "answers": [
+      { "text": " R$ 82.500,00 ", "isCorrect": true },
+      { "text": " R$ 72.000,00 ", "isCorrect": false },
+      { "text": " R$ 94.000,00 ", "isCorrect": false },
+      { "text": " R$ 112.500,00 ", "isCorrect": false },
+      { "text": " R$ 120.000,00 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Levantamento estatístico de uma empresa constatou que 70% dos funcionários eram do sexo masculino. Ainda de acordo com esse levantamento, a média salarial mensal dos funcionários do sexo masculino era de R$ 3.000,00 e a média salarial mensal dos funcionários do sexo feminino era de R$ 4.500,00. Considerando todos os funcionários dessa empresa, a média salarial mensal é de: " ,
+    "answers": [
+      { "text": " R$ 3.450,00 ", "isCorrect": true },
+      { "text": " R$ 3.950,00 ", "isCorrect": false },
+      { "text": " R$ 3.750,00 ", "isCorrect": false },
+      { "text": " R$ 3.650,00 ", "isCorrect": false },
+      { "text": " R$ 3.250,00 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Para empréstimos a clientes comuns, uma financeira cobra taxa nominal de juros de 84% ao ano com capitalização mensal. Para um empréstimo de dois meses, a taxa efetiva de juros é, aproximadamente de: " ,
+    "answers": [
+      { "text": " 14,5% ", "isCorrect": true },
+      { "text": " 14,1% ", "isCorrect": false },
+      { "text": " 14,3% ", "isCorrect": false },
+      { "text": " 14,7% ", "isCorrect": false },
+      { "text": " 14,9% ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Para Hugo, qualquer pessoa com menos de 40 anos é jovem e qualquer pessoa com 40 anos ou mais é velha. Hugo diz que, na empresa em que trabalha 27% das pessoas são velhas. Ele verificou também que entre todas as pessoas da empresa, 20% das mulheres são velhas e 40% dos homens são velhos. Entre as pessoas que trabalham nessa empresa, a porcentagem de homens é de: " ,
+    "answers": [
+      { "text": " 35% ", "isCorrect": true },
+      { "text": " 40% ", "isCorrect": false },
+      { "text": " 45% ", "isCorrect": false },
+      { "text": " 55% ", "isCorrect": false },
+      { "text": " 65% ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um título de valor nominal R$ 8.800,00 é pago dois meses antes do vencimento com desconto comercial composto a uma taxa de 5% ao mês. O valor descontado é de: " ,
+    "answers": [
+      { "text": " R$ 7.942,00 ", "isCorrect": true },
+      { "text": " R$ 8.000,00 ", "isCorrect": false },
+      { "text": " R$ 7.982,00 ", "isCorrect": false },
+      { "text": " R$ 7.920,00 ", "isCorrect": false },
+      { "text": " R$ 7.910,00 ", "isCorrect": false }
+    ]
+  },
+  {
+    "question": " Jonas investiu R$50.000,00 em certo título e retirou o total de R$60.000,00 seis meses depois. A rentabilidade anual desse investimento no regime de juros compostos é de: " ,
+    "answers": [
+      { "text": " 44% ", "isCorrect": true },
+      { "text": " 1,44% ", "isCorrect": false },
+      { "text": " 40% ", "isCorrect": false },
+      { "text": " 140% ", "isCorrect": false },
+      { "text": " 144% ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um advogado comprou uma sala para instalar seu escritório por R$ 120.000,00 utilizando o sistema de amortização constante (SAC). O banco financiou a compra dessa sala em 24 meses com juros de 2% ao mês. A segunda prestação que esse advogado deverá pagar será de: " ,
+    "answers": [
+      { "text": " R$ 7.300,00 ", "isCorrect": true },
+      { "text": " R$ 5.800,00 ", "isCorrect": false },
+      { "text": " R$ 6.200,00 ", "isCorrect": false },
+      { "text": " R$ 6.700,00 ", "isCorrect": false },
+      { "text": " R$ 7.400,00 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Uma loja cobra, nas compras financiadas, 10% de juros ao mês. Nessa loja um forno de micro-ondas estava anunciado da seguinte forma: entrega na hora com zero de entrada, R$ 264,00 um mês após a compra e R$ 302,50 dois meses após a compra. O preço à vista equivalente para esse forno é de:  " ,
+    "answers": [
+      { "text": " R$ 490,00 ", "isCorrect": true },
+      { "text": " R$ 453,20 ", "isCorrect": false },
+      { "text": " R$ 467,00 ", "isCorrect": false },
+      { "text": " R$ 509,85 ", "isCorrect": false },
+      { "text": " R$ 566,50 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Renato pediu empréstimo ao banco para pagamento em um ano com taxa anual real de juros de 28%. Sabendo que a inflação prevista para o período é de 7%, a taxa aparente de juros é de, aproximadamente: " ,
+    "answers": [
+      { "text": " 37% ", "isCorrect": true },
+      { "text": " 33% ", "isCorrect": false },
+      { "text": " 34% ", "isCorrect": false },
+      { "text": " 35% ", "isCorrect": false },
+      { "text": " 36% ", "isCorrect": false }
+    ]
+  },
+  {
+    "question": " As 2023 assertivas a seguir estão escritas em um caderno. 1) Só 1 assertiva é falsa neste caderno. 2) Só 2 assertivas são falsas neste caderno. 3) Só 3 assertivas são falsas neste caderno. . . . n) Só n assertivas são falsas neste caderno. . . . 2022) Só 2022 assertivas são falsas neste caderno. 2023) Só 2023 assertivas são falsas neste caderno. Considerando-se essas 2023 assertivas, o número de assertivas verdadeiras é " ,
+    "answers": [
+      { "text": " 1 ", "isCorrect": true },
+      { "text": " 2023 ", "isCorrect": false },
+      { "text": " 2022 ", "isCorrect": false },
+      { "text": " 1011 ", "isCorrect": false },
+      { "text": " 0 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " J convenceu o diretor de um curso preparatório a abrir uma turma especialmente para o concurso em que ele pretende se inscrever, e comprometeu-se a trazer mais alunos para formar essa turma. O diretor do curso estabeleceu a seguinte condição: — Uma sala com 70 lugares, ou seja, com capacidade para até 70 estudantes, será disponibilizada para a turma, desde que cada estudante, incluindo você, J, pague mensalmente R$ 660,00, mais R$ 30,00 por cada lugar vago. Considerando-se a condição estabelecida pelo diretor, para que o curso tenha arrecadação mensal máxima com essa turma, ela deverá ter exatamente x estudantes. Dividindo-se x por 5, obtém-se resto igual a " ,
+    "answers": [
+      { "text": " 1 ", "isCorrect": true },
+      { "text": " 2 ", "isCorrect": false },
+      { "text": " 4 ", "isCorrect": false },
+      { "text": " 6 ", "isCorrect": false },
+      { "text": " 0 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um investidor muito supersticioso escolhe, mensalmente, um conjunto de três tipos de investimento para aplicar alguma quantia. Ele toma por regra dispor apenas dos mesmos nove tipos de investimentos e nunca repetir, em um mesmo mês, o mesmo conjunto de três tipos já usados em qualquer mês anterior. Por exemplo, se no 1o  mês ele escolheu os  investimentos de tipos A, B e C; no 2o  mês, A, B e D; e no 3o  mês, E, F e G, então ele não poderá investir novamente, num mesmo mês, por exemplo, no conjunto dos investimentos de tipos A, B e C, porjá tê-lo usado no 1o  mês. Considerando-se as condições descritas, o número máximo de meses em que o investidor poderá fazer esses investimentos é " ,
+    "answers": [
+      { "text": " 84 ", "isCorrect": true },
+      { "text": " 60 ", "isCorrect": false },
+      { "text": " 68 ", "isCorrect": false },
+      { "text": " 92 ", "isCorrect": false },
+      { "text": " 99 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um cliente tem duas opções para investir R$ 100.000,00 em um prazo de 2 anos. A primeira opção oferece um retorno de 12% ao ano no regime de juros compostos, mas há cobrança de 15% de imposto sobre os juros proporcionados pelo investimento. Já a segunda opção oferece um retorno de 10% ao ano no regime de juros compostos, mas sem qualquer cobrança de imposto. Ao escolher a opção mais lucrativa, ao final de exatos dois anos de investimento, esse cliente receberá a mais, em relação à opção menos lucrativa, uma quantia, em R$,igual a " ,
+    "answers": [
+      { "text": " 624,00 ", "isCorrect": true },
+      { "text": " 824,00 ", "isCorrect": false },
+      { "text": " 1.524,00 ", "isCorrect": false },
+      { "text": " 2.940,00 ", "isCorrect": false },
+      { "text": " 4.440,00 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um banco oferece para um cliente um investimento que lhe proporcionará uma taxa de juros de 1% ao mês, no regime de juros compostos. Esse mesmo banco também disponibiliza, para o mesmo cliente, uma linha de crédito de fácil acesso chamada cheque especial, cobrando uma taxa de juros de 4% ao mês, no regime de juros compostos. Para esse cliente, a diferença entre a taxa anual da operação financeira disponível no cheque especial e a taxa anual da operação financeira disponível no investimento oferecido é  // Dado: 1,0112 = 1,1268; 1,0412 = 1,6010" ,
+    "answers": [
+      { "text": " 47,42% ", "isCorrect": true },
+      { "text": " 12,68% ", "isCorrect": false },
+      { "text": " 36,00% ", "isCorrect": false },
+      { "text": " 48,68% ", "isCorrect": false },
+      { "text": " 60,10% ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O capital de um cliente do segmento ultra-especial ficou aplicado durante 50 dias a uma taxa de juros simples de 1,5% ao mês. Ao final desse prazo, o cliente resgatou tudo e pagou R$ 4.500,00, referentes a 22,5% de imposto de renda sobre os juros proporcionados pelo investimento. Considerando-se o mês com 30 dias, o valor aplicado nessa operação, em R$, foi " ,
+    "answers": [
+      { "text": " 800.000,00 ", "isCorrect": true },
+      { "text": " 450.000,00 ", "isCorrect": false },
+      { "text": " 700.000,00 ", "isCorrect": false },
+      { "text": " 750.000,00 ", "isCorrect": false },
+      { "text": " 950.000,00 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A empresa XYZ planeja comprar um equipamento em janeiro de 2023, cujo preço à vista é R$ 300.000,00, pagando com uma entrada e mais duas parcelas. A entrada, correspondente à primeira parcela, será paga em janeiro de 2023 (no ato da compra); a segunda parcela, em janeiro de 2024, no valor de R$ 150.000,00; e a terceira parcela, em janeiro de 2025, também no valor de R$ 150.000,00. Considerando-se a equivalência financeira a juros compostos, se a taxa de juros cobrada pelo vendedor é de 10% ao ano, o valor da entrada (primeira parcela no ato da compra), em R$, será, aproximadamente,  " ,
+    "answers": [
+      { "text": " 39.670,00 ", "isCorrect": true },
+      { "text": " 20.000,00 ", "isCorrect": false },
+      { "text": " 48.750,00 ", "isCorrect": false },
+      { "text": " 54.280,00 ", "isCorrect": false },
+      { "text": " 63.000,00 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Uma empresa tomou um empréstimo de R$ 50.000,00 em janeiro de 2022, a uma taxa de juros compostos de 5% ao mês. Para amortizar parte da dívida, a empresa pagou R$ 30.000,00 em março de 2022, e R$ 20.000,00 em abril de 2022. No que se refere a esse empréstimo, o valor, em R$, do saldo devedor dessa empresa, em maio de 2022, era, aproximadamente, " ,
+    "answers": [
+      { "text": " 6.700,00 ", "isCorrect": true },
+      { "text": " 3.625,00 ", "isCorrect": false },
+      { "text": " 3.806,00 ", "isCorrect": false },
+      { "text": " 6.381,00 ", "isCorrect": false },
+      { "text": " 7.201,00 ", "isCorrect": false }
+    ]
+  },
+  {
+    "question": " Um grande banco formará uma comissão que será comandada por três de suas funcionárias, Alice, Beatriz e Carla. Nessa comissão, uma delas será a  residente, outra será a gerente, e outra, a coordenadora. A distribuição desses cargos deverá, necessariamente, considerar as quatro seguintes restrições: I) Se Carla for a gerente, então Beatriz terá de ser a presidente; II) Se Alice for a presidente, então Carla terá de ser a gerente; III) Se Beatriz não for a coordenadora, então Alice terá de ser a gerente; IV) Se Carla for a coordenadora, então Beatriz terá de ser a gerente. Nessas circunstâncias, os respectivos cargos de Alice, Beatriz e Carla serão " ,
+    "answers": [
+      { "text": " presidente, gerente e coordenadora ", "isCorrect": true },
+      { "text": " gerente, coordenadora e presidente ", "isCorrect": false },
+      { "text": " gerente, presidente e coordenadora ", "isCorrect": false },
+      { "text": " coordenadora, presidente e gerente ", "isCorrect": false },
+      { "text": " presidente, coordenadora e gerente ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Uma fábrica vende mensalmente 200 malas a R$ 300,00 cada. O departamento de vendas trabalha com a hipótese de que cada aumento de R$ 10,00 no preço e cada mala implica a venda mensal de 20 malas a menos. Por exemplo, em um mês em que cada mala foi vendida por R$ 320,00, foram vendidas 160 malas. Suponha que a hipótese esteja correta e que, em um determinado mês, cada mala foi vendida por (300 + 10x) reais, sendo x o número inteiro de aumentos de R$ 10,00, tal que 0 < x < 10. Nesse mês, com a venda dessas malas, o valor y, em reais, arrecadado, em função de x, é dado por  " ,
+    "answers": [
+      { "text": " y = - 200x2 - 4000x + 63600 ", "isCorrect": true },
+      { "text": " y = - 200x2 - 5800x + 63600 ", "isCorrect": false },
+      { "text": " y = - 200x2 - 5800x + 60000 ", "isCorrect": false },
+      { "text": " y = - 200x2 - 4800x + 60800 ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " No primeiro dia de agosto, foram registradas 180 reclamações em um órgão de defesa do consumidor. No segundo dia, foram registradas 184 reclamações. Supondo-se que há reclamações todos os dias e que cada dia tenha 4 reclamações a mais do que o dia anterior, durante todos os 31 dias do mês de agosto, o total de reclamações registradas será igual a " ,
+    "answers": [
+      { "text": " 8.880 ", "isCorrect": true },
+      { "text": " 7.108 ", "isCorrect": false },
+      { "text": " 7.440 ", "isCorrect": false },
+      { "text": " 7.860 ", "isCorrect": false },
+      { "text": " 8.184 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Em um pacote, há algumas cédulas de R$ 10,00, algumas de R$ 20,00, algumas de R$ 50,00 e nada mais. Ao todo, são 68 cédulas, que totalizam R$ 1.380,00. Sabe-se que, contando só as cédulas de R$ 50,00, obtém-se R$ 550,00, e contando só as cédulas de R$ 20,00, obtém-se R$ 520,00. Nesse pacote, o número de cédulas de R$ 10,00 é igual a " ,
+    "answers": [
+      { "text": " 39 ", "isCorrect": true },
+      { "text": " 40 ", "isCorrect": false },
+      { "text": " 51 ", "isCorrect": false },
+      { "text": " 43 ", "isCorrect": false },
+      { "text": " 60 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Agora, são H horas e M minutos. Considerando-se apenas as 24 horas do dia de hoje, 3/7 do tempo que já se passou correspondem exatamente ao tempo que falta para a meia-noite. Dessa forma, H + M é igual a " ,
+    "answers": [
+      { "text": " 19 ", "isCorrect": true },
+      { "text": " 25 ", "isCorrect": false },
+      { "text": " 56 ", "isCorrect": false },
+      { "text": " 14 ", "isCorrect": false },
+      { "text": " 22 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Uma população é formada por quatro números, quais sejam, 2, 5, 10, 15, de modo que a média vale 8, e a variância, 24,5. Considerando-se todas as possíveis amostras aleatórias simples, com reposição, de tamanho 2 dessa população, a variância da distribuição amostral das médias é de " ,
+    "answers": [
+      { "text": " 12,25 ", "isCorrect": true },
+      { "text": " 24,50 ", "isCorrect": false },
+      { "text": " 32,67 ", "isCorrect": false },
+      { "text": " 3,50 ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Após uma festa de casamento, a anfitriã percebeu que foram esquecidos quatro telefones celulares. Na manhã seguinte, enviou uma mensagem para o grupo de convidados pelo WhatsApp sobre o esquecimento, e apenas quatro pessoas não responderam, fazendo com que ela presumisse, corretamente, que estas quatro pessoas seriam os proprietários dos telefones. Para devolvê-los, a anfitriã preparou quatro envelopes, cada um contendo um dos endereços desses quatro proprietários. Ato contínuo, colocou aleatoriamente cada celular em um envelope e os despachou para uma entrega expressa. A probabilidade de que apenas um desses quatro convidados tenha recebido o seu próprio celular é de " ,
+    "answers": [
+      { "text": " 3/8 ", "isCorrect": true },
+      { "text": " 1/3 ", "isCorrect": false },
+      { "text": " 1/2 ", "isCorrect": false },
+      { "text": " 2/3 ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Considere que, em uma agência bancária, o tempo médio que um cliente aguardou para começar a ser atendido, na primeira semana de um determinado mês de 2022, foi de 8min 30s e, na semana seguinte, esse tempo médio passou para 5min 30s. Considere, ainda, que na primeira semana foram atendidos 2.700 clientes, e na segunda semana, 1.350 clientes. O tempo médio de espera para um cliente começar a ser atendido no caixa, considerando essas duas semanas, foi de, aproximadamente " ,
+    "answers": [
+      { "text": " ****** ", "isCorrect": true },
+      { "text": " ****** ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Considere que, em uma agência bancária, o tempo médio que um cliente aguardou para começar a ser atendido, na primeira semana de um determinado mês de 2022, foi de 8min 30s e, na semana seguinte, esse tempo médio passou para 5min 30s. Considere, ainda, que na primeira semana foram atendidos 2.700 clientes, e na segunda semana, 1.350 clientes. O tempo médio de espera para um cliente começar a ser atendido no caixa, considerando essas duas semanas, foi de, aproximadamente " ,
+    "answers": [
+      { "text": " 6min 30s ", "isCorrect": true },
+      { "text": " 5min 50s ", "isCorrect": false },
+      { "text": " 6min 50s ", "isCorrect": false },
+      { "text": " 7min 30s ", "isCorrect": false },
+      { "text": " 7min 50s ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Para melhorar a educação financeira de seus clientes quanto ao uso do crédito, um banco contratou uma empresa de análise de risco, que classifica os clientes quanto à propensão de usar o cheque especial, em dois tipos: A e B, sendo o tipo A propenso a usar o cheque especial, e o tipo B, a não usar o cheque especial. Para uma determinada agência, um estudo da empresa mostrou que a probabilidade de um cliente tipo A usar o cheque especial, em um intervalo de um ano, é de 80%. Já para o tipo B, a probabilidade de usar é de 10%, no mesmo intervalo de tempo. Considere que, nessa agência, 30% dos clientes são considerados do tipo A. Nesse contexto, se um cliente entrou no cheque especial, a probabilidade de que seja do tipo A, é de, aproximadamente, " ,
+    "answers": [
+      { "text": " 82% ", "isCorrect": true },
+      { "text": " 65% ", "isCorrect": false },
+      { "text": " 70% ", "isCorrect": false },
+      { "text": " 77% ", "isCorrect": false },
+      { "text": " 85% ", "isCorrect": false }
+    ]
+  },
+  {
+    "question": " O dono de uma loja deu um desconto de 20% sobre o preço de venda (preço original) de um de seus produtos e, ainda assim, obteve um lucro de 4% sobre o preço de custo desse produto. Se vendesse pelo preço original, qual seria o lucro obtido sobre o preço de custo? " ,
+    "answers": [
+      { "text": " 50% ", "isCorrect": true },
+      { "text": " 40% ", "isCorrect": false },
+      { "text": " 30% ", "isCorrect": false },
+      { "text": " 35% ", "isCorrect": false },
+      { "text": " 20% ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Sabe-se que g é uma função par e está definida em todo domínio da função f, e a função f pode ser expressa por f(x) = x2  + k . x . g(x). Se f(1) = 7, qual o valor de f(1)? " ,
+    "answers": [
+      { "text": " - 5  ", "isCorrect": true },
+      { "text": " 7 ", "isCorrect": false },
+      { "text": " - 6  ", "isCorrect": false },
+      { "text": " 10 ", "isCorrect": false },
+      { "text": " 2 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Considere o conjunto A cujos 5 elementos são números inteiros, e o conjunto B formado por todos os possíveis produtos de três elementos de A. Se B = {30, 20, 12, 0, 30}, qual o valor da soma de todos os elementos de A? " ,
+    "answers": [
+      { "text": " 8 ", "isCorrect": true },
+      { "text": " - 12 ", "isCorrect": false },
+      { "text": " 2 ", "isCorrect": false },
+      { "text": " 6 ", "isCorrect": false },
+      { "text": " 10 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Uma sequência numérica tem seu termo geral representado por an , para n ≥ 1. Sabe-se que a1  = 0 e que a sequência cujo termo geral é bn  = an+1  an , n ≥ 1, é uma progressão aritmética cujo primeiro termo é b1  = 9 e cuja razão é igual a 4. O termo a1000 é igual a " ,
+    "answers": [
+      { "text": "  2.002.995 ", "isCorrect": true },
+      { "text": "  2.002.991 ", "isCorrect": false },
+      { "text": "  4.000.009 ", "isCorrect": false },
+      { "text": "  4.009.000 ", "isCorrect": false },
+      { "text": "  2.003.000 ", "isCorrect": false }
+    ]
+  },
+    {
+    "question": " Os jogadores X e Y lançam um dado honesto, com seis faces numeradas de 1 a 6, e observa-se a face superior do dado. O jogador X lança o dado 50 vezes, e o jogador Y, 51 vezes. A probabilidade de que o jogador Y obtenha mais faces com números ímpares do que o jogador X, é: " ,
+    "answers": [
+      { "text": " 1/2 ", "isCorrect": true },
+      { "text": " 1 ", "isCorrect": false },
+      { "text": " 1/6 ", "isCorrect": false },
+      { "text": " 1/7 ", "isCorrect": false },
+      { "text": " 1/8 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Uma empresa cria uma campanha que consiste no sorteio de cupons premiados. O sorteio será realizado em duas etapas. Primeiramente, o cliente lança uma moeda honesta: se o resultado for “cara”, o cliente seleciona, aleatoriamente, um cupom da urna 1; se o resultado for “coroa”, o cliente seleciona, aleatoriamente, um cupom da urna 2. Sabe-se que 30% dos cupons da urna 1 são premiados, e que 40% de todos os cupons são premiados. Antes de começar o sorteio, a proporção de cupons premiados na urna 2 é de " ,
+    "answers": [
+      { "text": " 50% ", "isCorrect": true },
+      { "text": " 5% ", "isCorrect": false },
+      { "text": " 10% ", "isCorrect": false },
+      { "text": " 15% ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Há dez anos a média das idades, em anos completos, de um grupo de 526 pessoas era de 30 anos, com desvio padrão de 8 anos. Considerando-se que todas as pessoas desse grupo estão vivas, o quociente entre o desvio padrão e a média das idades, em anos completos, hoje, é " ,
+    "answers": [
+      { "text": " 0,20 ", "isCorrect": true },
+      { "text": " 0,45 ", "isCorrect": false },
+      { "text": " 0,42 ", "isCorrect": false },
+      { "text": " 0,27 ", "isCorrect": false },
+      { "text": " 0,34 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Para obter uma amostra de tamanho 1.000 dentre uma população de tamanho 20.000, organizada em um cadastro em que cada elemento está numerado sequencialmente de 1 a 20.000, um pesquisador utilizou o seguinte procedimento: I - calculou um intervalo de seleção da amostra, dividindo o total da população pelo tamanho da amostra: 20.000/1.000 = 20; II - sorteou aleatoriamente um número inteiro, do intervalo [1, 20]. O número sorteado foi 15; desse modo, o primeiro elemento selecionado é o 15o ; III - a partir desse ponto, aplica-se o intervalo de seleção da amostra: o segundo elemento selecionado é o 35o  (15+20), o terceiro é o 55o  (15+40), o quarto é o 75o  (15+60), e assim sucessivamente. O último elemento selecionado nessa amostra é o " ,
+    "answers": [
+      { "text": " 19.995o ", "isCorrect": true },
+      { "text": " 19.997o ", "isCorrect": false },
+      { "text": " 9.965o ", "isCorrect": false },
+      { "text": " 19.975o ", "isCorrect": false },
+      { "text": " 19.980o ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Três caixas eletrônicos, X, Y e Z, atendem a uma demanda de 50%, 30% e 20%, respectivamente, das operações efetuadas em uma determinada agência bancária. Dados históricos registraram defeitos em 5% das operações realizadas no caixa X, em 3% das realizadas no caixa Y e em 2% das realizadas no caixa Z. Com vistas à melhoria no atendimento aos clientes, esses caixas eletrônicos passaram por uma revisão completa que: I - reduziu em 25% a ocorrência de defeito; II - igualou as proporções de defeitos nos caixas Y e Z; e III - regulou a proporção de defeitos no caixa X que ficou reduzida à metade da nova proporção de defeitos do caixa Y. Considerando-se que após a conclusão do procedimento de revisão, sobreveio um defeito, a  robabilidade de que ele tenha ocorrido no caixa Y é " ,
+    "answers": [
+      { "text": " 40% ", "isCorrect": true },
+      { "text": " 45% ", "isCorrect": false },
+      { "text": " 15% ", "isCorrect": false },
+      { "text": " 25% ", "isCorrect": false },
+      { "text": " 8% ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Dentre as atribuições de um certo gerente, encontra-se o oferecimento do produto A, de forma presencial e individualizada, aos seus clientes. A probabilidade de o gerente efetuar a venda do produto A em cada reunião com um cliente é 0,40. Em 20% dos dias de trabalho, esse gerente não se reúne com nenhum cliente; em 30% dos dias de trabalho, ele se reúne com apenas 1 cliente; e em 50% dos dias de trabalho, ele se reúne, separadamente, com exatos 2 clientes. Em um determinado dia de trabalho, a probabilidade de esse gerente efetuar pelo menos uma  renda presencial do produto A é " ,
+    "answers": [
+      { "text": " 0,44 ", "isCorrect": true },
+      { "text": " 0,54 ", "isCorrect": false },
+      { "text": " 0,46 ", "isCorrect": false },
+      { "text": " 0,20 ", "isCorrect": false },
+      { "text": " 0,26 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Os analistas de uma seguradora estimam corretamente que a probabilidade de um concorrente entrar no mercado de seguro de fiança locatícia é de 30%. É certo que se, de fato, o concorrente entrar no mercado, precisará aumentar seu quadro de funcionários. Sabe-se que, caso o concorrente não pretenda entrar no mercado desse segmento, existem 50% de probabilidade de que ele aumente o quadro de funcionários. Se o concorrente aumentou o quadro de funcionários, a probabilidade de que ele entre no mercado de seguro de fiança locatícia é de:  " ,
+    "answers": [
+      { "text": " 6/13 ", "isCorrect": true },
+      { "text": " 13/20 ", "isCorrect": false },
+      { "text": " 7/13 ", "isCorrect": false },
+      { "text": " 3/10 ", "isCorrect": false },
+      { "text": " 7/20 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Numa amostra de 30 pares de observações do tipo (xi , yi ), com i = 1, 2, ..., 30, a covariância obtida entre as variáveis X e Y foi 2. Os dados foram transformados linearmente da forma (zi  , wi ) = (3xi  + 1 , 2yi  + 3), para i = 1, 2, ..., 30. Qual o valor da covariância entre as variáveis Z e W transformadas? " ,
+    "answers": [
+      { "text": " 12 ", "isCorrect": true },
+      { "text": " 41 ", "isCorrect": false },
+      { "text": " 36 ", "isCorrect": false },
+      { "text": " 25 ", "isCorrect": false },
+      { "text": " 21 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Uma amostra aleatória de tamanho 5 é retirada de uma população e observa-se que seus valores, quando postos em ordem crescente, obedecem a uma Progressão Aritmética. Se a variância amostral não viciada vale 40, qual é o valorda razão da Progressão Aritmética? " ,
+    "answers": [
+      { "text": " 4 ", "isCorrect": true },
+      { "text": " 2 ", "isCorrect": false },
+      { "text": " 6 ", "isCorrect": false },
+      { "text": " 12 ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Uma professora do jardim da infância entregou um mesmo desenho para cada um de seus 10 alunos e distribuiu vários lápis de cor entre eles. A tarefa era pintar o desenho, que possuía diversas regiões. Cada uma dessas regiões apresentava a cor com a qual deveria ser pintada. Todos os alunos receberam a mesma quantidade de lápis de cor, mas nenhum aluno recebeu todas as cores necessárias para pintar todo o desenho e, portanto, eles precisavam se agrupar para conseguir completar a tarefa. Formando qualquer grupo de 6 alunos, uma região não poderia ser pintada, mas qualquer grupo de 7 alunos conseguiria completar a tarefa. Todas as regiões deveriam receber cores diferentes, e a professora distribuiu o menor número de lápis de cor para cada aluno. Quantos lápis de cor cada aluno recebeu? " ,
+    "answers": [
+      { "text": " 84 ", "isCorrect": true },
+      { "text": " 210 ", "isCorrect": false },
+      { "text": " 105 ", "isCorrect": false },
+      { "text": " 25 ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Em um jogo, os jogadores escolhem três números inteiros diferentes, de 1 a 10. Dois números são sorteados e se ambos estiverem entre os três números escolhidos por um jogador, então ele ganha um prêmio. O sorteio é feito utilizando-se uma urna com 10 bolas numeradas, de 1 até 10, e consiste na retirada de duas bolas da urna, de uma só vez, seguida da leitura em voz alta dos números nelas presentes. Qual é a probabilidade de um jogador ganhar um prêmio no sorteio do jogo? " ,
+    "answers": [
+      { "text": " 1/15 ", "isCorrect": true },
+      { "text": " 1/19 ", "isCorrect": false },
+      { "text": " 1/30 ", "isCorrect": false },
+      { "text": " 1/90 ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um empréstimo de R$ 30.000,00 será pago pelo Sistema de Amortização Constante (SAC), em 10 parcelas mensais, segundo uma taxa mensal de juros de 4%. A primeira parcela será paga um mês após a data do empréstimo. Qual será, em reais, o valor da quarta parcela? " ,
+    "answers": [
+      { "text": " 3.840,00 ", "isCorrect": true },
+      { "text": " 4.200,00 ", "isCorrect": false },
+      { "text": " 4.080,00 ", "isCorrect": false },
+      { "text": " 3.960,00 ", "isCorrect": false },
+      { "text": " 3.720,00 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O preço atual de um produto é representado por P. Sabe-se que, nos próximos meses, o preço P receberá dois aumentos sucessivos de 6%, em regime composto, ao final dos quais passará a custar R$ 2.303,38. Qual é, em reais, o preço P? " ,
+    "answers": [
+      { "text": " 2.026,97 ", "isCorrect": true },
+      { "text": " 2.303,26 ", "isCorrect": false },
+      { "text": " 2.050,00 ", "isCorrect": false },
+      { "text": " 2.035,27 ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Sabe-se que, daqui a n meses, o montante M(n) obtido em uma capitalização será dado por M(n) = 11.000 . (1, 1)n . Qual será, em reais, o montante obtido daqui a 4 meses? " ,
+    "answers": [
+      { "text": " 16.105,10 ", "isCorrect": true },
+      { "text": " 11.446,64 ", "isCorrect": false },
+      { "text": " 14.641,00 ", "isCorrect": false },
+      { "text": " 44.000,00 ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O preço de lançamento de um produto é indicado por P. Ao longo de um ano, o preço do produto passou por alterações, feitas na seguinte ordem: • Um desconto de 20%; • Um aumento de 100%.O percentual de cada alteração foi relativo ao preço em curso no momento da alteração. Considerando-se que Q é o preço do produto ao final das duas alterações, então, para retornar ao preço de lançamento P, bastaria que se desse, sobre Q, um desconto de " ,
+    "answers": [
+      { "text": " 37,5% ", "isCorrect": true },
+      { "text": " 40,0%  ", "isCorrect": false },
+      { "text": " 60,0% ", "isCorrect": false },
+      { "text": " 62,5% ", "isCorrect": false },
+      { "text": " 80,0% ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um banco oferece dois serviços aos seus clientes. Sabe-se, no entanto, que 20% dos clientes não contratam qualquer um deles, 50% contratam apenas um e os 30% restantes contratam os dois serviços oferecidos. Qual é a média do número de serviços contratados pelos clientes desse banco? " ,
+    "answers": [
+      { "text": " 1,10 ", "isCorrect": true },
+      { "text": " 0,11 ", "isCorrect": false },
+      { "text": " 1,00 ", "isCorrect": false },
+      { "text": " 1,30 ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Considere a seguinte distribuição de dados: 67 34 76 14 24 18 28 42 71 A soma dos três quartis dessa distribuição é igual a " ,
+    "answers": [
+      { "text": " 124 ", "isCorrect": true },
+      { "text": " 186 ", "isCorrect": false },
+      { "text": " 125 ", "isCorrect": false },
+      { "text": " 114 ", "isCorrect": false },
+      { "text": " 102 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Originalmente, uma distribuição possuía cinco dados: 2 7 11 5 3 Um sexto dado foi inserido, de modo que a nova distribuição passou a ter moda e mediana iguais. Qual foi o sexto dado inserido? " ,
+    "answers": [
+      { "text": " 5 ", "isCorrect": true },
+      { "text": " 2 ", "isCorrect": false },
+      { "text": " 7 ", "isCorrect": false },
+      { "text": " 12 ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Uma caixa continha apenas bolas pretas e brancas. 80% das bolas eram pretas. Foram então retiradas da caixa 5 bolas de cada cor, o que fez com que a porcentagem de bolas pretas remanescentes em seu interior subisse para 87,5%. Com base nessas informações, pode-se afirmar que, antes da retirada, o número de bolas brancas na caixa estava entre " ,
+    "answers": [
+      { "text": " 4 e 14. ", "isCorrect": true },
+      { "text": " 14 e 24 ", "isCorrect": false },
+      { "text": " 24 e 34. ", "isCorrect": false },
+      { "text": " 34 e 44 ", "isCorrect": false },
+      { "text": " 44 e 54 ", "isCorrect": false }
+    ]
+  },
+    {
+    "question": " Sílvio foi de carro de Cachoeiro de Itapemirim até Vitória passando por Guarapari. Ele deu início a sua viagem às 6h13min e chegou ao seu destino às 8h48min. Se o tempo gasto no trajeto de Guarapari até Vitória é 2/3 do tempo consumido de Cachoeiro de Itapemirim até Guarapari, conclui-se que Sílvio chegou a Guarapari às  " ,
+    "answers": [
+      { "text": " 7h46min ", "isCorrect": true },
+      { "text": " 6h44min ", "isCorrect": false },
+      { "text": " 7h15min ", "isCorrect": false },
+      { "text": " 7h31min ", "isCorrect": false },
+      { "text": " 7h50min ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Alguns dos números que podem ser escritos na forma de fração apresentam periodicidade quando representados na forma decimal. Isto é, a partir de uma certa casa decimal, um dígito (ou uma sequência de dígitos) passa a se repetir infinitamente. Como exemplo, temos: 1/13 = 0,076923076923076923076 … Nessa representação decimal, o 1232º dígito após a vírgula é " ,
+    "answers": [
+      { "text": " 7 ", "isCorrect": true },
+      { "text": " 6 ", "isCorrect": false },
+      { "text": " 3 ", "isCorrect": false },
+      { "text": " 2 ", "isCorrect": false },
+      { "text": " 0 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um trem que se desloca com velocidade constante é capaz de percorrer 210 quilômetros em 3 horas e meia. Se essa velocidade fosse aumentada em 10%, o trem seria capaz de percorrer, em 4 horas e 15 minutos, a distância máxima de " ,
+    "answers": [
+      { "text": " 280,5km. ", "isCorrect": true },
+      { "text": " 279,5km ", "isCorrect": false },
+      { "text": " 281,0km. ", "isCorrect": false },
+      { "text": " 281,5km. ", "isCorrect": false },
+      { "text": " 282,0km. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Sejam p, q e r proposições simples e ∼p, ∼q e ∼r, respectivamente, as suas negações. As seguintes proposições compostas têm valor lógico verdadeiro: p∨q q∨ ∼r r∨ ∼p Pode-se concluir que o conjunto de proposições simples logicamente verdadeiras é dado por  " ,
+    "answers": [
+      { "text": " {q}. ", "isCorrect": true },
+      { "text": " {p}. ", "isCorrect": false },
+      { "text": " {r}. ", "isCorrect": false },
+      { "text": " {p, q}. ", "isCorrect": false },
+      { "text": " {q, r}. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A quantidade de números inteiros e positivos formados por 2 algarismos cuja diferença vale 4 é igual a " ,
+    "answers": [
+      { "text": " 11 ", "isCorrect": true },
+      { "text": " 5 ", "isCorrect": false },
+      { "text": " 6 ", "isCorrect": false },
+      { "text": " 10 ", "isCorrect": false },
+      { "text": " 15 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Em um grupo de pessoas, há 16 homens. Ao todo, são 28 cidadãos brasileiros nesse grupo, entre os quais, 15 são mulheres. Sabe-se que 30% dos indivíduos do grupo não têm cidadania brasileira. Com relação ao total de pessoas no grupo, pode-se afirmar que a porcentagem de indivíduos que são estrangeiros ou são mulheres é " ,
+    "answers": [
+      { "text": " 67,5%. ", "isCorrect": true },
+      { "text": " 22,5% ", "isCorrect": false },
+      { "text": " 45,0% ", "isCorrect": false },
+      { "text": " 75,0%. ", "isCorrect": false },
+      { "text": " 90,0%. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Sejam A e B dois conjuntos finitos tais que A∪B = {1, 2, 3, 4, 5, 6, 7} e {1, 2, 5} é o conjunto de elementos que estão em A e não estão em B. O conjunto dos elementos que não estão em A ou estão em B é " ,
+    "answers": [
+      { "text": " {3, 4, 6, 7}. ", "isCorrect": true },
+      { "text": " {3, 4}. ", "isCorrect": false },
+      { "text": " {3, 6}. ", "isCorrect": false },
+      { "text": " {3, 4, 6}. ", "isCorrect": false },
+      { "text": " {4, 6, 7}. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Uma empresa premia seus empregados pela assiduidade. A cada mês, a empresa distribui R$ 930,00 reais entre os três empregados com o menor número de faltas ao trabalho, em partes inversamente proporcional ao número de faltas de cada um. Diogo, Eder e Fabio foram os premiados do último mês, com 2, 3 e 5 faltas, respectivamente. Assinale a alternativa correta:  " ,
+    "answers": [
+      { "text": " Diogo recebeu um prêmio equivalente a 3/2 do valor do prêmio de Eder.  ", "isCorrect": true },
+      { "text": " Diogo recebeu um prêmio de R$ 186,00 ", "isCorrect": false },
+      { "text": " Eder recebeu um prêmio de R$ 325,00. ", "isCorrect": false },
+      { "text": " Eder recebeu um prêmio de R$ 270,00.  ", "isCorrect": false },
+      { "text": " Fabio recebeu um prêmio equivalente a 5/3 do valor do prêmio de Eder.  ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um fabricante de bombons lançou a seguinte promoção: trocar cada 3 unidades de embalagens desse bombom por um novo bombom. Ana quis aproveitar essa promoção e comprou, de uma só vez, 11 bombons. Assim, é correto afirmar que, a partir dessa única compra, o número total de bombons que Ana poderá consumir é igual a: " ,
+    "answers": [
+      { "text": " 16 ", "isCorrect": true },
+      { "text": " 14 ", "isCorrect": false },
+      { "text": " 12 ", "isCorrect": false },
+      { "text": " 10 ", "isCorrect": false },
+      { "text": " 11 ", "isCorrect": false }
+    ]
+  },
+  {
+    "question": " Uma equipe formada por 6 pedreiros, constrói um muro com 270 m de comprimento em 5 horas. Se essa equipe fosse constituída por 8 pedreiros, um muro com 306 m de comprimento seria construído em:  " ,
+    "answers": [
+      { "text": " 4 horas e 15 minutos. ", "isCorrect": true },
+      { "text": " menos de 4 horas.  ", "isCorrect": false },
+      { "text": " 4 horas.  ", "isCorrect": false },
+      { "text": " 4 horas e 25 minutos.  ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Três amigos são sócios em uma empresa de tecnologia. Adão investiu o equivalente a 30% do capital da empresa, Bruno investiu 45% e Carlitos investiu o equivalente a 25% do capital da empresa. Por contrato, ao final de cada mês o lucro ou prejuízo é distribuído entre os sócios e, em caso de prejuízo, a distribuição deve ser de maneira inversamente proporcional ao capital aplicado por cada um deles. No último mês, a empresa registrou prejuízo de R$ 6.450,00. Sobre a distribuição desse prejuízo entre os sócios, é correto afirmar que: " ,
+    "answers": [
+      { "text": " A parte que coube a Adão é igual a R$ 2.250,00.  ", "isCorrect": true },
+      { "text": " A parte que coube a Adão é igual a R$ 1.935,00 ", "isCorrect": false },
+      { "text": " A parte que coube a Bruno é igual a R$ 2.250,00. ", "isCorrect": false },
+      { "text": " A parte que coube a Carlitos é igual a R$ 1.500,00. ", "isCorrect": false },
+      { "text": " A parte que coube a Carlitos é igual a R$ 1.935,00 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Marcos pretende quitar um financiamento. Para tal, irá fazer a antecipação das 5 parcelas mensais consecutivas restantes. Sabe-se que o valor nominal de cada parcela é R$ 520,00 e que a primeira delas vence daqui um mês. Considerando que a taxa mensal de juros praticada nesse financiamento foi de 10% a.m., é correto afirmar que para quitar esse financiamento, Marcos precisará desembolsar a quantia aproximada de:  " ,
+    "answers": [
+      { "text": " R$ 1.970,00. ", "isCorrect": true },
+      { "text": " R$ 1.650,00. ", "isCorrect": false },
+      { "text": " R$ 1.990,00.  ", "isCorrect": false },
+      { "text": " R$ 2.030,00. ", "isCorrect": false },
+      { "text": " R$ 2.260,00. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Quinze operários realizam determinada tarefa em 8 dias, trabalhando 10 horas por dia. Considerando-se o mesmo ritmo individual, se fossem 10 operários, trabalhando 8 horas por dia, o equivalente a 4/5 dessa tarefa seria realizada em:  " ,
+    "answers": [
+      { "text": " 10 dias ", "isCorrect": true },
+      { "text": " menos de 7 dias.  ", "isCorrect": false },
+      { "text": " mais de 7 e menos de 10 dias.  ", "isCorrect": false },
+      { "text": " 12 dias ", "isCorrect": false },
+      { "text": " 11 dias ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Jorge emprestou R$ 8.000,00 à taxa de juros compostos de 60% a.a. para seu amigo Hugo, por um período de 4 meses. Ocorreu que no momento de fazer o pagamento pelo empréstimo, Hugo não tinha todo o dinheiro, pois se confundiu e calculou o valor a pagar aplicando taxa de juros simples. Dessa forma, Hugo não teve condições de pagar o valor devido pelo empréstimo, pois lhe faltou:  " ,
+    "answers": [
+      { "text": " R$ 125,50.  ", "isCorrect": true },
+      { "text": " R$ 124,50. ", "isCorrect": false },
+      { "text": " R$ 124,75.  ", "isCorrect": false },
+      { "text": " R$ 125,05.  ", "isCorrect": false },
+      { "text": " R$ 124,05.  ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Janete fez um empréstimo de R$ 8.000,00 para ser pago em 5 parcelas mensais e consecutivas, à taxa de 5% a.m., pelo sistema de amortização constante (SAC). O valor da última parcela a ser paga por Janete é igual a:  " ,
+    "answers": [
+      { "text": " R$ 1.680,00. ", "isCorrect": true },
+      { "text": " R$ 1.760,00. ", "isCorrect": false },
+      { "text": " R$ 1.720,00.  ", "isCorrect": false },
+      { "text": " R$ 1.700,00.  ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Preocupado com sua saúde, um professor decidiu começar a correr. O profissional que o orientou estabeleceu como meta correr 5 km por dia. Entretanto, como o professor está fora de forma, terá de seguir um programa de treinamento gradual. Nas duas primeiras semanas, ele correrá, diariamente, 1 km e caminhará 4 km; na terceira e na quarta semanas, correrá 1,5 km e caminhará 3,5 km por dia. A cada duas semanas, o programa será alterado, de modo a reduzir a distância diária caminhada em 0,5 km e a aumentar a corrida em 0,5 km. Desse modo, se o professor não interromper o programa de treinamento, ele começará a correr 5 km diários na " ,
+    "answers": [
+      { "text": " 17a semana ", "isCorrect": true },
+      { "text": " 9a  semana ", "isCorrect": false },
+      { "text": " 12a semana ", "isCorrect": false },
+      { "text": " 18a semana ", "isCorrect": false },
+      { "text": " 20a  semana  ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Para ampliar o capital de giro de um novo negócio, um microempreendedor tomou um empréstimo no valor de R$20.000,00, em janeiro de 2021, a uma taxa de juros de 5% ao mês, no regime de juros compostos. Exatamente dois meses depois, em março de 2021, pagou 60% do valor do empréstimo, ou seja, dos R$20.000,00, e liquidou tudo o que devia desse empréstimo em abril de 2021. A quantia paga, em abril de 2021, que liquidou a referida dívida, em reais, foi de " ,
+    "answers": [
+      { "text": " 10.552,50 ", "isCorrect": true },
+      { "text": " 11.352,50 ", "isCorrect": false },
+      { "text": " 11.152,50 ", "isCorrect": false },
+      { "text": " 10.452,50 ", "isCorrect": false },
+      { "text": " 10.152,50 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Na semana da renda fixa promovida por um determinado banco, o cliente X fez um investimento de 150 mil reais em um banco que paga 8% ao ano, com prazo de vencimento de 1 ano. Nesse mesmo dia, o cliente Y aplicou 150 mil reais na poupança, cuja taxa esperada é de 5% ao ano. Um ano depois, os dois sacaram o montante de cada operação. Considere que o cliente X pagou 20% de imposto de renda sobre os juros obtidos com a aplicação, enquanto o cliente Y não pagou imposto algum, e que nenhum dos dois sacou qualquer valor antes desse resgate. A partir dessas informações, verifica-se que a diferença entre o ganho de capital do cliente X e o ganho de capital do cliente Y, comparando-se apenas as operações apresentadas, em reais, foi de " ,
+    "answers": [
+      { "text": " 2.100,00 ", "isCorrect": true },
+      { "text": " 2.400,00 ", "isCorrect": false },
+      { "text": " 3.500,00 ", "isCorrect": false },
+      { "text": " 4.100,00 ", "isCorrect": false },
+      { "text": " 4.500,00 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um cliente pagou, via internet banking, quatro duplicatas vencidas com exatamente 12 dias de atraso, cujos valores de face são de R$4.200,00; R$3.800,00; R$2.600,00 e R$7.400,00. Nesse caso, para pagamentos até 30 dias após o vencimento, são cobrados juros simples à taxa de 6% ao mês, mais uma multa de 2% sobre o valor de face de cada duplicata. Considerando-se o mês comercial (30 dias), o valor total pago, em reais, por essas quatro duplicatas vencidas foi de " ,
+    "answers": [
+      { "text": " 18.792,00 ", "isCorrect": true },
+      { "text": " 18.432,00 ", "isCorrect": false },
+      { "text": " 18.872,00 ", "isCorrect": false },
+      { "text": " 18.912,00 ", "isCorrect": false },
+      { "text": " 18.982,00 ", "isCorrect": false }
+    ]
+  },
+  {
+    "question": " Um banco oferece a um cliente um empréstimo de financiamento imobiliário pelo sistema SAC, no valor de R$120.000,00, pelo prazo de 12 meses, com taxa de juros de 1% ao mês. Qual é o valor da segunda prestação, em reais, a ser paga pelo cliente? " ,
+    "answers": [
+      { "text": " 11.100,00 ", "isCorrect": true },
+      { "text": " 10.000,00 ", "isCorrect": false },
+      { "text": " 10.500,00 ", "isCorrect": false },
+      { "text": " 10.900,00 ", "isCorrect": false },
+      { "text": " 11.200,00 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Uma pessoa tem uma dívida no valor de R$2.000,00, vencendo no dia de hoje. Com dificuldade de quitá-la, pediu o adiamento do pagamento para daqui a 3 meses. Considerando-se uma taxa de juros compostos de 2% a.m., qual é o valor equivalente, aproximadamente, que o gerente do banco propôs que ela pagasse, em reais? " ,
+    "answers": [
+      { "text": " 2.122,42 ", "isCorrect": true },
+      { "text": " 2.020,40 ", "isCorrect": false },
+      { "text": " 2.040,00 ", "isCorrect": false },
+      { "text": " 2.080,82 ", "isCorrect": false },
+      { "text": " 2.120,20 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um cliente de um banco está tentando simular o valor de financiamento imobiliário que pode conseguir para adquirir uma casa. Fazendo seu orçamento, estabeleceu que poderia pagar uma prestação inicial (1º mês) de R$2.669,33. Sabendo-se que o banco utiliza o sistema Price em seus financiamentos, uma taxa de juros de 1% a.m., um prazo de 60 meses e uma amortização inicial (1º mês) de R$1.469,33, qual o valor máximo aproximado, em reais, que ele pode receber? " ,
+    "answers": [
+      { "text": " 120.000,00  ", "isCorrect": true },
+      { "text": " 146.933,00 ", "isCorrect": false },
+      { "text": " 160.159,80 ", "isCorrect": false },
+      { "text": " 266.933,00 ", "isCorrect": false },
+      { "text": " 413.866,00 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um empréstimo deve ser pago pelo sistema SAC em 5 parcelas mensais com juros de 3% ao mês. Se a terceira parcela paga no financiamento do empréstimo for igual a R$26.160,00, o valor total do empréstimo, em reais, será de " ,
+    "answers": [
+      { "text": " 120.000,00 ", "isCorrect": true },
+      { "text": " 124.000,00 ", "isCorrect": false },
+      { "text": " 128.500,00 ", "isCorrect": false },
+      { "text": " 132.800,00 ", "isCorrect": false },
+      { "text": " 135.600,00 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um banco possui, atualmente, um modelo de financiamento em regime de juros compostos, em que as parcelas são pagas, mensalmente, a uma taxa de juros de 2% ao mês. Para um certo perfil de clientes, o banco pretende possibilitar o pagamento da dívida a cada três meses, a uma taxa de juros trimestral equivalente à praticada no modelo atual. A melhor aproximação para o valor da taxa de juros trimestral desse novo modelo de financiamento é: " ,
+    "answers": [
+      { "text": " 6,12% ", "isCorrect": true },
+      { "text": " 2,48% ", "isCorrect": false },
+      { "text": " 6,00% ", "isCorrect": false },
+      { "text": " 7,28% ", "isCorrect": false },
+      { "text": " 8,00% ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um imóvel pode ser comprado à vista pelo valor de R$240.000,00 ou pode ser financiado em 24 prestações mensais, a serem pagas de acordo com o sistema Price de amortização. Um potencial comprador, ciente da taxa de juros do financiamento, calculou quanto seria a soma das 24 prestações, encontrando, corretamente, o valor de R$272.331,64. A melhor aproximação para o valor da terceira parcela do financiamento, em reais, é de " ,
+    "answers": [
+      { "text": " 11.347,15 ", "isCorrect": true },
+      { "text": " 10.200,00 ", "isCorrect": false },
+      { "text": " 10.240,00 ", "isCorrect": false },
+      { "text": " 10.460,08 ", "isCorrect": false },
+      { "text": " 11.124,12 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Os alunos de certa escola formaram um grupo de ajuda humanitária e resolveram arrecadar fundos para comprar alimentos não perecíveis. Decidiram, então, fazer uma rifa e venderam 200 tíquetes, numerados de 1 a 200. Uma funcionária da escola resolveu ajudar e comprou 5 tíquetes. Seus números eram 75, 76, 77, 78 e 79. No dia do sorteio da rifa, antes de revelarem o ganhador do prêmio, anunciaram que o número do tíquete sorteado era par. Considerando essa informação, a funcionária concluiu acertadamente que a probabilidade de ela ser a ganhadora do prêmio era de " ,
+    "answers": [
+      { "text": " 2,0% ", "isCorrect": true },
+      { "text": " 1,0% ", "isCorrect": false },
+      { "text": " 3,0% ", "isCorrect": false },
+      { "text": " 4,0% ", "isCorrect": false },
+      { "text": " 5,0% ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Seis candidatos, aprovados para a penúltima etapa de um processo seletivo, foram submetidos a um teste de conhecimentos gerais com 10 itens do tipo “verdadeiro/falso”. Os dois primeiros candidatos acertaram 8 itens cada, o terceiro acertou 9, o quarto acertou 7, e os dois últimos, 5 cada. Pelas regras do concurso, passariam, para a etapa final da seleção, os candidatos cujo número de acertos fosse maior ou igual à mediana do número de acertos dos seis participantes. Quantos candidatos passaram para a etapa final? " ,
+    "answers": [
+      { "text": " 3 ", "isCorrect": true },
+      { "text": " 6 ", "isCorrect": false },
+      { "text": " 2 ", "isCorrect": false },
+      { "text": " 8 ", "isCorrect": false },
+      { "text": " 1 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Recentemente, a Organização Mundial da Saúde (OMS) mudou suas diretrizes sobre atividades físicas, passando a recomendar que adultos façam atividade física moderada de 150 a 300 minutos por semana. Seguindo as recomendações da OMS, um motorista decidiu exercitar-se mais e, durante os sete dias da última semana, exercitou-se, ao todo, 285 minutos.Quantos minutos diários, em média, o motorista dedicou a atividades físicas na última semana? " ,
+    "answers": [
+      { "text": " Entre 40 e 42 min ", "isCorrect": true },
+      { "text": " Mais de 46 min ", "isCorrect": false },
+      { "text": " Entre 44 e 46 min ", "isCorrect": false },
+      { "text": " Entre 42 e 44 min ", "isCorrect": false },
+      { "text": " Menos de 40 min ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um analista de investimentos acredita que o preço das ações de uma empresa seja afetado pela condição de fluxo de crédito na economia de um certo país. Ele estima que o fluxo de crédito na economia desse país aumente, com probabilidade de 20%. Ele estima também que o preço das ações da empresa suba, com probabilidade de 90%, dentro de um cenário de aumento de fluxo de crédito, e suba, com probabilidade de 40%, sob o cenário contrário. Uma vez que o preço das ações da empresa subiu, qual é a probabilidade de que o fluxo de crédito da economia tenha também aumentado? " ,
+    "answers": [
+      { "text": " 9/25 ", "isCorrect": true },
+      { "text": " 1/2 ", "isCorrect": false },
+      { "text": " 1/5 ", "isCorrect": false },
+      { "text": " 2/9 ", "isCorrect": false },
+      { "text": " 9/25 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Por estudos estatísticos, estima-se que um cliente de um certo banco tem 75% de probabilidade de ir para atendimento de caixa eletrônico, e 25% de ir para um atendimento personalizado. Em uma amostra de quatro clientes entrando no banco, qual é a probabilidade de que a maioria deles se dirija ao atendimento personalizado? " ,
+    "answers": [
+      { "text": " 13/256 ", "isCorrect": true },
+      { "text": " 5/256 ", "isCorrect": false },
+      { "text": " 3/64 ", "isCorrect": false },
+      { "text": " 27/64 ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Uma empresa investiu R$ 300.000,00 em uma aplicação com prazo de 50 dias, a uma taxa de juro de 0,9% ao mês, no regime de juros simples. Considere mês comercial (30 dias) para essa operação, em todo o período. Em seguida, investiu todo o montante da operação anterior, em outra aplicação, a uma taxa de juro composto de 1,0% ao mês, durante dois meses, resgatando todo o montante dessa segunda aplicação. Considere que ambas as operações são livres de impostos. Considerando-se o valor inicial da 1a  aplicação e o valor final da 2a  aplicação, o valor, em reais, que mais se aproxima do total de juros obtidos pela empresa é igual a " ,
+    "answers": [
+      { "text": " 10.620,00 ", "isCorrect": true },
+      { "text": " 10.840,00 ", "isCorrect": false },
+      { "text": " 11.420,00 ", "isCorrect": false },
+      { "text": " 12.151,00 ", "isCorrect": false },
+      { "text": " 12.440,00 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Para compor o capital de giro de sua empresa, um empresário tomou um empréstimo de R$ 100.000,00, em janeiro de 2024, a uma taxa de juro composto de 4% ao mês. Em março de 2024, após exatos 2 meses, efetuou o primeiro pagamento da dívida, pagando metade do saldo devedor. Em abril não efetuou qualquer pagamento, mas pretende quitar toda a dívida em maio de 2024, após exatos 4 meses. Considerando-se esse fluxo de capitais, o valor mais próximo, em reais, do saldo devedor desse empréstimo, em maio de 2024, é de " ,
+    "answers": [
+      { "text": " 58.493,00 ", "isCorrect": true },
+      { "text": " 57.934,00 ", "isCorrect": false },
+      { "text": " 58.193,00 ", "isCorrect": false },
+      { "text": " 58.943,00 ", "isCorrect": false },
+      { "text": " 59.806,00 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um cliente comprou um imóvel no valor de R$ 600.000,00. Para isso, pagou 20% desse valor de entrada, em dezembro de 2023, e financiou o restante em prestações mensais no Sistema de Amortização Constante (SAC), a uma taxa de 0,5% ao mês, em um prazo de 20 anos, com a primeira prestação para janeiro de 2024 e a última para dezembro de 2043. Considere que a prestação mensal será composta de juros, amortização e uma taxa fixa de R$ 100,00 mensais (no ano de 2024) referente ao seguro. Considere também que todas as prestações desse financiamento sejam pagas dentro do prazo. A soma das 12 primeiras prestações (referentes ao período de janeiro de 2024 a dezembro de 2024) a serem pagas, em  " ,
+    "answers": [
+      { "text": " 53.340,00 ", "isCorrect": true },
+      { "text": " 53.080,00 ", "isCorrect": false },
+      { "text": " 53.760,00 ", "isCorrect": false },
+      { "text": " 53.960,00 ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Uma determinada quantia foi emprestada a um cliente em janeiro de 2024, a uma taxa de 20% ao mês, no regime de juros compostos. Em fevereiro de 2024, não houve pagamentos. Em março de 2024, exatamente dois meses após a data do empréstimo, o cliente pagou R$ 1.440,00. E um mês após, em abril de 2024, pagou R$ 1.728,00, quitando a dívida. O valor do empréstimo realizado em janeiro de 2024, em reais, foi igual a " ,
+    "answers": [
+      { "text": " 2.000,00 ", "isCorrect": true },
+      { "text": " 1.800,00 ", "isCorrect": false },
+      { "text": " 1.900,00 ", "isCorrect": false },
+      { "text": " 2.100,00 ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Em um certo país, a lei exige que sejam exibidas a taxa mensal e a taxa anual equivalente, no regime de juros compostos, junto ao preço do produto que será financiado. Considerando-se que um estabelecimento cobra uma taxa de juro mensal de 5% ao mês, essa taxa anual é, aproximadamente, de ((  Dado 1,056  = 1,34 ))" ,
+    "answers": [
+      { "text": " 80% ", "isCorrect": true },
+      { "text": " 34% ", "isCorrect": false },
+      { "text": " 48% ", "isCorrect": false },
+      { "text": " 60% ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A Caixa Econômica Federal exerce a gestão e a distribuição centralizada de diversos programas sociais, podendo inclusive desempenhar o papel de administradora do benefício, em alguns casos. Em 2023, esses programas sociais representaram quase R$ 283 bilhões em benefícios pagos à população, entre janeiro e setembro. O destaque foi para o Bolsa Família, responsável por aproximadamente R$ 118 bilhões, beneficiando cerca de 24 milhões de famílias no mesmo período. Considere que esses 24 milhões de famílias foram beneficiados pelo programa durante todo o período considerado, ignorando a saída de famílias beneficiadas ou a entrada de novas famílias ao rol de beneficiados. O valor médio dos benefícios, em reais, recebidos por família durante todo o período é, aproximadamente, de " ,
+    "answers": [
+      { "text": " 5.000,00 ", "isCorrect": true },
+      { "text": " 7.000,00 ", "isCorrect": false },
+      { "text": " 10.000,00 ", "isCorrect": false },
+      { "text": " 11.000,00 ", "isCorrect": false },
+      { "text": " 12.000,00 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Uma pesquisa da Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais (Anbima) mostrou que a probabilidade de um brasileiro adulto investir o seu dinheiro é de apenas 36%. Para esses, o investimento mais popular é a poupança, investimento realizado por 1 a cada 4 investidores brasileiros. Com base nessa pesquisa e considerando-se uma população brasileira de 140 milhões de brasileiros adultos, quantos milhões de brasileiros adultos investem na poupança? " ,
+    "answers": [
+      { "text": " 12,6 ", "isCorrect": true },
+      { "text": " 35,0 ", "isCorrect": false },
+      { "text": " 50,4 ", "isCorrect": false },
+      { "text": " 54,0 ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A Caixa Econômica Federal é um dos maiores financiadores de habitação no país. A cada dia, são feitas cerca de 200 mil simulações de financiamentos habitacionais e 2.000 contratos novos são assinados. A probabilidade de que um par aleatório de simulações independentes resulte em pelo menos um novo contrato assinado é " ,
+    "answers": [
+      { "text": " 1,99% ", "isCorrect": true },
+      { "text": " 50,00% ", "isCorrect": false },
+      { "text": " 2,00% ", "isCorrect": false },
+      { "text": " 1,98% ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Para ampliar o capital de giro de um novo negócio, um microempreendedor tomou um empréstimo no valor de R$20.000,00, em janeiro de 2021, a uma taxa de juros de 5% ao mês, no regime de juros compostos. Exatamente dois meses depois, em março de 2021, pagou 60% do valor do empréstimo, ou seja, dos R$20.000,00, e liquidou tudo o que devia desse empréstimo em abril de 2021. A quantia paga, em abril de 2021, que liquidou a referida dívida, em reais, foi de   " ,
+    "answers": [
+      { "text": " 10.552,50 ", "isCorrect": true },
+      { "text": " 11.352,50 ", "isCorrect": false },
+      { "text": " 11.152,50 ", "isCorrect": false },
+      { "text": " 10.452,50 ", "isCorrect": false },
+      { "text": " 10.152,50f ", "isCorrect": false }
+    ]
+  },
+  {
+    "question": " Na semana da renda fixa promovida por um determinado banco, o cliente X fez um investimento de 150 mil reais em um banco que paga 8% ao ano, com prazo de vencimento de 1 ano. Nesse mesmo dia, o cliente Y aplicou 150 mil reais na poupança, cuja taxa esperada é de 5% ao ano. Um ano depois, os dois sacaram o montante de cada operação. Considere que o cliente X pagou 20% de imposto de renda sobre os juros obtidos com a aplicação, enquanto o cliente Y não pagou imposto algum, e que nenhum dos dois sacou qualquer valor antes desse resgate. A partir dessas informações, verifica-se que a diferença entre o ganho de capital do cliente X e o ganho de capital do cliente Y, comparando-se apenas as operações apresentadas, em reais, foi de  " ,
+    "answers": [
+      { "text": " 2.100,00 ", "isCorrect": true },
+      { "text": " 2.400,00 ", "isCorrect": false },
+      { "text": " 3.500,00 ", "isCorrect": false },
+      { "text": " 4.100,00 ", "isCorrect": false },
+      { "text": " 4.500,00 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um cliente pagou, via internet banking, quatro duplicatas vencidas com exatamente 12 dias de atraso, cujos valores de face são de R$4.200,00; R$3.800,00; R$2.600,00 e R$7.400,00. Nesse caso, para pagamentos até 30 dias após o vencimento, são cobrados juros simples à taxa de 6% ao mês, mais uma multa de 2% sobre o valor de face de cada duplicata. Considerando-se o mês comercial (30 dias), o valor total pago, em reais, por essas quatro duplicatas vencidas foi de " ,
+    "answers": [
+      { "text": " 18.792,00 ", "isCorrect": true },
+      { "text": " 18.432,00 ", "isCorrect": false },
+      { "text": " 18.872,00 ", "isCorrect": false },
+      { "text": " 18.912,00 ", "isCorrect": false },
+      { "text": " 18.982,00 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um banco oferece a um cliente um empréstimo de financiamento imobiliário pelo sistema SAC, no valor de R$120.000,00, pelo prazo de 12 meses, com taxa de juros de 1% ao mês. Qual é o valor da segunda prestação, em reais, a ser paga pelo cliente? " ,
+    "answers": [
+      { "text": " 11.100,00 ", "isCorrect": true },
+      { "text": " 10.000,00 ", "isCorrect": false },
+      { "text": " 10.500,00 ", "isCorrect": false },
+      { "text": " 10.900,00 ", "isCorrect": false },
+      { "text": " 11.200,00 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Uma pessoa tem uma dívida no valor de R$2.000,00, vencendo no dia de hoje. Com dificuldade de quitá-la, pediu o adiamento do pagamento para daqui a 3 meses. Considerando-se uma taxa de juros compostos de 2% a.m., qual é o valor equivalente, aproximadamente, que o gerente do banco propôs que ela pagasse, em reais? " ,
+    "answers": [
+      { "text": " 2.122,42 ", "isCorrect": true },
+      { "text": " 2.020,40 ", "isCorrect": false },
+      { "text": " 2.040,00 ", "isCorrect": false },
+      { "text": " 2.080,82 ", "isCorrect": false },
+      { "text": " 2.120,20 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um cliente de um banco está tentando simular o valor de financiamento imobiliário que pode conseguir para adquirir uma casa. Fazendo seu orçamento, estabeleceu que poderia pagar uma prestação inicial (1º mês) de R$2.669,33. Sabendo-se que o banco utiliza o sistema Price em seus financiamentos, uma taxa de juros de 1% a.m., um prazo de 60 meses e uma amortização inicial (1º mês) de R$1.469,33, qual o valor máximo aproximado, em reais, que ele pode receber? " ,
+    "answers": [
+      { "text": " 120.000,00 ", "isCorrect": true },
+      { "text": " 146.933,00 ", "isCorrect": false },
+      { "text": " 160.159,80 ", "isCorrect": false },
+      { "text": " 266.933,00 ", "isCorrect": false },
+      { "text": " 413.866,00 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um empréstimo deve ser pago pelo sistema SAC em 5 parcelas mensais com juros de 3% ao mês. Se a terceira parcela paga no financiamento do empréstimo for igual a R$26.160,00, o valor total do empréstimo, em reais, será de " ,
+    "answers": [
+      { "text": " 120.000,00 ", "isCorrect": true },
+      { "text": " 124.000,00 ", "isCorrect": false },
+      { "text": " 128.000,00 ", "isCorrect": false },
+      { "text": " 121.000,00 ", "isCorrect": false },
+      { "text": " 123.000,00 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um banco possui, atualmente, um modelo de financiamento em regime de juros compostos, em que as parcelas são pagas, mensalmente, a uma taxa de juros de 2% ao mês. Para um certo perfil de clientes, o banco pretende possibilitar o pagamento da dívida a cada três meses, a uma taxa de juros trimestral equivalente à praticada no modelo atual. A melhor aproximação para o valor da taxa de juros trimestral desse novo modelo de financiamento é: " ,
+    "answers": [
+      { "text": " 6,12% ", "isCorrect": true },
+      { "text": " 2,48% ", "isCorrect": false },
+      { "text": " 6,00% ", "isCorrect": false },
+      { "text": " 7,28% ", "isCorrect": false },
+      { "text": " 8,00% ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um imóvel pode ser comprado à vista pelo valor de R$240.000,00 ou pode ser financiado em 24 prestações mensais, a serem pagas de acordo com o sistema Price de amortização. Um potencial comprador, ciente da taxa de juros do financiamento, calculou quanto seria a soma das 24 prestações, encontrando, corretamente, o valor de R$272.331,64. A melhor aproximação para o valor da terceira parcela do financiamento, em reais, é de " ,
+    "answers": [
+      { "text": " 11.347,15 ", "isCorrect": true },
+      { "text": " 10.200,00 ", "isCorrect": false },
+      { "text": " 10.240,00 ", "isCorrect": false },
+      { "text": " 10.460,08 ", "isCorrect": false },
+      { "text": " 11.124,12 ", "isCorrect": false }
+    ]
+  }
+]  

@@ -1,0 +1,684 @@
+[ 
+  {
+    "question": " Numa instalação Unix (ou Linux), o comando cat xxx1 xxx2 > xxx3 provoca: " ,
+    "answers": [
+      { "text": " a gravação do arquivo xxx3 com o conteúdo dos arquivos xxx1 e xxx2; ", "isCorrect": true },
+      { "text": " a cópia dos arquivos xxx1 e xxx2 para a pasta xxx3; ", "isCorrect": false },
+      { "text": " a criação da pasta xxx3 contendo cópias dos arquivos xxx1 e xxx2; ", "isCorrect": false },
+      { "text": " a anexação do conteúdo dos arquivos xxx1 e xxx2, nessa ordem, ao arquivo xxx3; ", "isCorrect": false },
+      { "text": " a transferência dos arquivos das pastas xxx1 e xxx2 para a pasta xxx3. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Considere os seguintes procedimentos sobre uma tabela em um processador de textos: I. Selecionar uma linha, clicar com o botão direito do mouse sobre a seleção e seguir as opções do menu para inserir uma nova linha. II. Posicionar o cursor na última célula da última linha e teclar Tab () para inserir uma linha no final da tabela. III. Selecionar uma célula qualquer e usar a combinação de menu Inserir/Tabela para criar uma tabela dentro da célula selecionada. IV. Selecionar uma linha e teclar Delete para excluir da tabela a linha selecionada. Com relação aos processadores de texto MS Word 2010 e brOffice Writer 2.4, está correto afirmar que: " ,
+    "answers": [
+      { "text": " brOffice suporta somente os procedimentos I e II; Word suporta somente os procedimentos I, II e III; ", "isCorrect": true },
+      { "text": " brOffice e Word suportam somente os procedimentos I e II; ", "isCorrect": false },
+      { "text": " brOffice suporta todos os procedimentos; Word suporta somente os procedimentos I, II e III; ", "isCorrect": false },
+      { "text": " brOffice suporta somente os procedimentos I, II e III; Word suporta todos os procedimentos;  ", "isCorrect": false },
+      { "text": " brOffice e Word suportam somente os procedimentos I, II e III. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Uma equipe está utilizando o Microsoft Teams e deseja-se agrupar as conversas dessa equipe por assunto, formando um tópico de discussão. Para isso, é necessário criar, para essa equipe, um(a) " ,
+    "answers": [
+      { "text": " Canal ", "isCorrect": true },
+      { "text": " Grupo ", "isCorrect": false },
+      { "text": " Reunião ", "isCorrect": false },
+      { "text": " Atividade ", "isCorrect": false },
+      { "text": " Sub-equipe ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A ferramenta de Webmail viabiliza o uso do serviço de correio eletrônico de empresas utilizando um navegador Web. Após a composição de uma nova mensagem de correio eletrônico, o usuário deve fazer a submissão do formulário para o servidor Web que, por sua vez, fará a submissão do conteúdo da mensagem para a fila do servidor de correio eletrônico. Os protocolos de comunicação utilizados nestas duas etapas são, respectivamente, " ,
+    "answers": [
+      { "text": " HTTP e SMTP ", "isCorrect": true },
+      { "text": " SMTP e HTTP ", "isCorrect": false },
+      { "text": " POP3 e SMTP ", "isCorrect": false },
+      { "text": " SMTP e POP3 ", "isCorrect": false },
+      { "text": " HTTP e POP3 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " As estações de trabalho de uma empresa estão sujeitas a ataques que podem provocar vazamentos ou destruição completa dos dados. Uma boa prática de segurança é utilizar uma amostra biométrica para se conectar aos seus dispositivos, aplicativos, serviços on-line e redes. O Windows 10 possui um recurso de segurança de entrada que possibilita usar uma amostra biométrica do rosto, da íris e da impressão digital, ou, ainda, um PIN (Personal Identification Number). Tal recurso é o " ,
+    "answers": [
+      { "text": " Windows Hello ", "isCorrect": true },
+      { "text": " Windows Security ", "isCorrect": false },
+      { "text": " Advanced Login ", "isCorrect": false },
+      { "text": " Enhanced Login  ", "isCorrect": false },
+      { "text": " Enhanced Authentication ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um colaborador de uma empresa precisa restaurar uma versão específica de um documento que está sendo editado no aplicativo Word do Microsoft Office 365. Para verificar as versões do documento que estão disponíveis para a restauração, o colaborador deve selecionar o menu " ,
+    "answers": [
+      { "text": " Arquivo, escolher a opção Histórico e selecionar a opção Controle de Versões. ", "isCorrect": true },
+      { "text": " Arquivo, escolher a opção Sobre e selecionar a opção Controle de Versões. ", "isCorrect": false },
+      { "text": " Arquivo, escolher a opção Informações e selecionar a opção Histórico de Versões ", "isCorrect": false },
+      { "text": " Revisão, selecionar a opção Controlar Alterações e selecionar a opção De todas as Pessoas. ", "isCorrect": false },
+      { "text": " Revisão, selecionar a opção Controlar Alterações e selecionar a opção Somente as Minhas. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Os mecanismos de segurança combinam técnicas e ações de segurança para prover a proteção de usuários e de dados. O mecanismo de segurança que consiste em definir as ações que uma determinada entidade pode executar, ou a quais informações essa entidade pode ter acesso, é o de " ,
+    "answers": [
+      { "text": " confidencialidade ", "isCorrect": true },
+      { "text": " identificação ", "isCorrect": false },
+      { "text": " integridade ", "isCorrect": false },
+      { "text": " autenticação ", "isCorrect": false },
+      { "text": " autorização ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Os sistemas de arquivos permitem a organização dos dados em arquivos e pastas nos dispositivos de armazenamento. A quantidade máxima de dados armazenados por cada arquivo e a quantidade máxima de pastas variam entre os diversos sistemas de arquivos. O sistema de arquivos nativo do Windows 10 que permite o armazenamento de um arquivo com mais de 8GB dedados é o  " , 
+    "answers": [
+      { "text": " NTFS ", "isCorrect": true },
+      { "text": " ReiserFS ", "isCorrect": false },
+      { "text": " EXT4 ", "isCorrect": false },
+      { "text": " FAT16 ", "isCorrect": false },
+      { "text": " FAT32 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O som de uma música pode ser digitalizado e armazenado em um arquivo de computador. Suponha que em seu computador exista um arquivo de áudio que contém uma música e que foi codificado em um determinado formato (ex: MP3). Para poder reproduzir esse arquivo de áudio, no seu computador, é necessário ter um(a) " ,
+    "answers": [
+      { "text": " programa que faça a decodificação correta do arquivo ", "isCorrect": true },
+      { "text": " bom monitor de vídeo. ", "isCorrect": false },
+      { "text": " microfone adequado. ", "isCorrect": false },
+      { "text": " programa antivírus atualizado e em funcionamento ", "isCorrect": false },
+      { "text": " ligação com a internet em funcionamento ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Sistemas de suporte à decisão podem ser utilizados no nível gerencial de uma empresa, por exemplo na busca de maior eficiência e produtividade, e também podem ser utilizados no nível estratégico. Os sistemas de apoio à decisão no nível estratégico de uma empresa via de regra utilizam apenas dados " ,
+    "answers": [
+      { "text": " internos, da própria empresa, complementados por dados externos, do mercado onde a empresa atua. ", "isCorrect": true },
+      { "text": " internos, da própria empresa. ", "isCorrect": false },
+      { "text": " externos, do mercado onde a empresa atua ", "isCorrect": false },
+      { "text": " detalhados, dos concorrentes da empresa ", "isCorrect": false },
+      { "text": " externos, do mercado onde a empresa atua, complementados por dados detalhados dos concorrentes da empresa. ", "isCorrect": false }
+    ]
+  },
+  {
+    "question": " O Google Drive é uma das várias ferramentas da empresa Google que existem na nuvem. Essa ferramenta é particularmente adequada para " ,
+    "answers": [
+      { "text": " compartilhar arquivos de qualquer formato ", "isCorrect": true },
+      { "text": " administrar agendas ", "isCorrect": false },
+      { "text": " enviar e receber mensagens de correio eletrônico. ", "isCorrect": false },
+      { "text": " realizar apresentações ao vivo via internet. ", "isCorrect": false },
+      { "text": " realizar reuniões remotas via internet em tempo real ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Uma situação que ocorre no dia a dia da utilização de correio eletrônico é uma pessoa A (emissor), após enviar uma mensagem X para uma outra pessoa B (destinatário), receber uma resposta automática que informa que a caixa de correio do destinatário está cheia. Isso significa que a(o) " ,
+    "answers": [
+      { "text": " espaço ocupado por mensagens na caixa de correio do destinatário atingiu o limite autorizado. ", "isCorrect": true },
+      { "text": " quantidade de mensagens na caixa de correio do destinatário atingiu o limite autorizado. ", "isCorrect": false },
+      { "text": " quantidade de mensagens enviadas pelo emissor atingiu o limite autorizado. ", "isCorrect": false },
+      { "text": " quantidade máxima de mensagens que podem ser recebidas pelo destinatário naquele dia foi atingida ", "isCorrect": false },
+      { "text": " espaço ocupado pela mensagem X é muito grande, e seu envio não foi autorizado pela infraestrutura do emissor ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " ma prática comum e recomendada para proteção de estações de trabalho é que programas do tipo antivírus e antimalware sejam mantidos atualizados nessas estações e computadores em geral. Essas atualizações são necessárias principalmente para que esses programas " ,
+    "answers": [
+      { "text": " possam identificar vírus e problemas mais recentes. ", "isCorrect": true },
+      { "text": " possuam uma interface moderna com o usuário. ", "isCorrect": false },
+      { "text": " ocupem o menor espaço possível em disco ", "isCorrect": false },
+      { "text": " funcionem, porque versões desatualizadas não funcionam. ", "isCorrect": false },
+      { "text": " sejam executados de forma mais rápida e eficiente. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Sistemas de inteligência de negócio fornecem várias funcionalidades analíticas para atender à necessidade de entender rapidamente uma situação e tomar a decisão correta sobre ela. Dentre essas funcionalidades, está a conhecida como dashboard, que é uma ferramenta " ,
+    "answers": [
+      { "text": " que permite aos usuários criar relatórios com tabelas de cruzamento de dados, do tipo pivot-table, a partir de parâmetros que são definidos previamente. ", "isCorrect": true },
+      { "text": " de consulta ad-hoc em SQL aos dados mantidos no data warehouse da empresa, por meio de técnicas no-code ou low-code.  ", "isCorrect": false },
+      { "text": " de mineração de dados que permite fazer previsões sobre o desempenho da empresa. ", "isCorrect": false },
+      { "text": " que permite operações OLAP ad-hoc e é ligada diretamente ao banco de dados centralizado e operacional da empresa ", "isCorrect": false },
+      { "text": " visual, para apresentar dados de desempenho pré--definidos pelos usuários. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Segundo o Resumo Técnico do Censo da Educação Superior 2020, publicado pelo INEP, em 2020, pela primeira vez, o número de ingressantes de graduação na modalidade de Ensino a distância (EaD) superou o de ingressantes na modalidade presencial. A modalidade de EaD, atualmente, é uma opção real para o estudante de graduação brasileiro, graças a características que facilitam o acesso ao saber, como a(o) " ,
+    "answers": [
+      { "text": " autoaprendizagem mediada por recursos didáticos em diferentes suportes de informação. ", "isCorrect": true },
+      { "text": " eliminação da necessidade da interação social para a aprendizagem. ", "isCorrect": false },
+      { "text": " supervisão direta do docente por meio de sistemas tecnológicos inibidores da autonomia.  ", "isCorrect": false },
+      { "text": " sincronismo e a delimitação física do espaço geográfico dos encontros entre docente e discentes. ", "isCorrect": false },
+      { "text": " uso de vias de mão única para a comunicação entre docente e discente. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A utilização de computadores compartilhados aumenta o nível de risco da segurança da informação. Para reduzir tais riscos, pode-se ativar a navegação privativa, que não salva as informações de navegação, como histórico e cookies, e não deixa rastros após o término da sessão. Para navegar de forma privativa no Mozilla Firefox, o usuário deve abrir uma nova janela privativa, pressionando a seguinte combinação de teclas: " ,
+    "answers": [
+      { "text": " Ctrl+Shift+P ", "isCorrect": true },
+      { "text": " Ctrl+N ", "isCorrect": false },
+      { "text": " Ctrl+P ", "isCorrect": false },
+      { "text": " Ctrl+T ", "isCorrect": false },
+      { "text": " Ctrl+Shift+A ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " No processo de aprendizagem de máquina, busca-se identificar padrões compreensíveis em bases de dados. Desse modo, supõe-se a existência de uma hierarquia de três níveis: a base, com os itens elementares, captados e armazenados por recursos de Tecnologia da Informação; o nível intermediário, no qual esses itens são processados, com significados e contextos bem definidos; e o nível mais alto, contendo os padrões ou os conjuntos cuja formulação pode envolver ou relacionar os níveis inferiores. Os três níveis dessa hierarquia, listados, respectivamente, da base para o nível mais alto, são " ,
+    "answers": [
+      { "text": " conhecimento, informação e dado ", "isCorrect": true },
+      { "text": " dado, conhecimento e informação ", "isCorrect": false },
+      { "text": " dado, informação e conhecimento ", "isCorrect": false },
+      { "text": " informação, conhecimento e dado ", "isCorrect": false },
+      { "text": " informação, dado e conhecimento ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Uma organização decidiu monitorar a opinião do público sobre ela nas redes sociais. Para isso, processou as mensagens com referências ao seu nome, a fim de possibilitar o uso de uma técnica de processamento de linguagem natural conhecida como análise de sentimentos. Após transformar cada mensagem em uma string, um dos passos importantes nessa técnica é a tokenização, que consiste em " ,
+    "answers": [
+      { "text": " colocar todos os verbos da mensagem no infinitivo ", "isCorrect": true },
+      { "text": " colocar todos os caracteres da mensagem em minúsculas. ", "isCorrect": false },
+      { "text": " dividir o texto da mensagem em palavras isoladas ", "isCorrect": false },
+      { "text": " eliminar todos os marcadores HTML ou XML da mensagem. ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Sabendo que existe, na organização em que trabalha, uma base de dados formada por uma grande tabela que contém apenas o id do cliente e colunas do tipo booleano indicando se um cliente possuía ou já tinha possuído cada produto da organização, um funcionário de TI resolveu dividir os clientes em grupos apenas com base nessa informação, utilizando aprendizado de máquina. Para essa tarefa, o funcionário de TI deve utilizar o aprendizado de máquina " ,
+    "answers": [
+      { "text": " independente ", "isCorrect": true },
+      { "text": " não supervisionado ", "isCorrect": false },
+      { "text": " por recompensa ", "isCorrect": false },
+      { "text": " por reforço ", "isCorrect": false },
+      { "text": " supervisionado ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Organizações modernas estão sujeitas a uma grande quantidade de dados, principalmente se tratam com grandes quantidades de clientes. Muitas das demandas de tecnologia de informação a que essas organizações estão submetidas passaram a ser organizadas e tratadas dentro do conceito de Big Data. Além do grande volume de dados, o Big Data, em sua definição original, considera também a(s) seguinte(s) propriedade(s): " ,
+    "answers": [
+      { "text": " falta de qualidade, apenas ", "isCorrect": true },
+      { "text": " variedade, apenas ", "isCorrect": false },
+      { "text": " velocidade, apenas ", "isCorrect": false },
+      { "text": " variedade e velocidade ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+  {
+    "question": " O termo NoSQL refere-se " ,
+    "answers": [
+      { "text": " ao aumento da escalabilidade das bases de dados neles armazenados, aliado a um desempenho mais satisfatório no seu acesso ", "isCorrect": true },
+      { "text": " a uma abordagem teórica que segue o princípio de não utilização da linguagem SQL em bancos de dados heterogêneos.  ", "isCorrect": false },
+      { "text": " à renúncia às propriedades BASE (Basically Available, Soft state, Eventual consistency), potencializando seu espectro de uso. ", "isCorrect": false },
+      { "text": " à facilidade de implementação de bases de dados normalizadas, com vistas a minimização de redundâncias no conjunto de dados. ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Na versão 1.4.6 do Sqoop, é função do argumento " ,
+    "answers": [
+      { "text": " --meta-connect especificar a string de conexão ao metastore configurado com a ferramenta sqoopmetastore ", "isCorrect": true },
+      { "text": " --warehouse-dir especificar o diretório padrão onde os dados serão exportados do HDFS para o destino. ", "isCorrect": false },
+      { "text": " --staging-table criar uma tabela integradora ETL no processo de exportação para uma tabela relacional. ", "isCorrect": false },
+      { "text": " --incremental permitir, no modo append, a atualização das linhas de dados da tabela de origem. ", "isCorrect": false },
+      { "text": " --password solicitar a senha mediante o console a cada execução do Sqoop, desde que o arquivo de configuração esteja setado para chmod 400. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " No âmbito de bancos de dados relacionais, uma tabela que esteja na " ,
+    "answers": [
+      { "text": " terceira forma normal não pode conter dependências funcionais parciais. ", "isCorrect": true },
+      { "text": " segunda forma normal pode conter dependências funcionais parciais. ", "isCorrect": false },
+      { "text": " segunda forma normal não pode conter dependências funcionais transitivas. ", "isCorrect": false },
+      { "text": " terceira forma normal pode conter dependências funcionais transitivas ", "isCorrect": false },
+      { "text": " segunda forma normal não pode conter chave primária composta ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Uma das características inerentes ao modelo chave-valor de bancos de dados NoSQL é a(o) " ,
+    "answers": [
+      { "text": " favorecimento à evolução de esquemas conceituais ", "isCorrect": true },
+      { "text": " suporte à compreensão da semântica do valor associado à chave ", "isCorrect": false },
+      { "text": " dependência de linguagem de consulta específica ", "isCorrect": false },
+      { "text": " estrutura de armazenamento interna complexa ", "isCorrect": false },
+      { "text": " falta de suporte à concorrência ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Pig Latin é uma linguagem de programação orientada a workflows, onde cada operação realizada gera um novo conjunto de dados. Dentre suas diversas características, NÃO se identifica a seguinte: " ,
+    "answers": [
+      { "text": " possuir natureza declarativa: os usuários especificam o que desejam sem se preocupar com a forma como isso é feito ", "isCorrect": true },
+      { "text": " poder definir um elemento de dados como nulo (null), cuja semântica é de valor desconhecido; qualquer operação aritmética que o envolva retornará null. ", "isCorrect": false },
+      { "text": " combinar os operadores cogroup e foreach de forma equivalente a uma operação de junção (join), com a segunda utilizando o modificador flatten sem nulos nas chaves. ", "isCorrect": false },
+      { "text": " possuir, além dos tipos básicos de dados, três tipos complexos: maps, tuples e bags, sendo que um tipo complexo pode conter dados de quaisquer outros tipos ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " HiveQL é uma linguagem de consulta, semelhante ao SQL, para Hive. Uma das suas características interessantes é ter uma extensão que permite distribuir consultas entre reducers em um script do tipo map-reduce. Se for necessário simultaneamente distribuir as consultas e garantir a ordenação ou o agrupamento das chaves distribuídas, deve-se usar a extensão " ,
+    "answers": [
+      { "text": " CLUSTER BY ", "isCorrect": true },
+      { "text": " REDUCE BY ", "isCorrect": false },
+      { "text": " USING ", "isCorrect": false },
+      { "text": " GROUP BY ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um desenvolvedor precisava construir um modelo estrela para produzir um data warehouse sobre as transferências eletrônicas disponíveis (TED) feitas pelos correntistas do banco. Que tabelas seriam adequadas para representar as dimensões desse modelo? " ,
+    "answers": [
+      { "text": " data, correntista, banco destino, cpf destino ", "isCorrect": true },
+      { "text": " data, correntista, valor, banco destino ", "isCorrect": false },
+      { "text": " data, correntista, valor, cpf destino ", "isCorrect": false },
+      { "text": " correntista, valor, banco destino, cpf destino ", "isCorrect": false },
+      { "text": " data, valor, banco destino, cpf destino ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " AngularJS segue um modelo MVC. Qual a diretiva correta em AngularJS para ligar um elemento de entrada de dados da visão, como um campo input do tipo texto, a um elemento do modelo, como uma variável do tipo string? " ,
+    "answers": [
+      { "text": " ngLink ", "isCorrect": true },
+      { "text": " ngView ", "isCorrect": false },
+      { "text": " ngValue ", "isCorrect": false },
+      { "text": " ngBind ", "isCorrect": false },
+      { "text": " ngModel ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A arquitetura de protocolos TCP/IP consiste numa grande coleção de protocolos de comunicação que foram definidos como padrões da internet. Dentre esses protocolos de comunicação, há um que fornece um serviço de entrega de fluxo confiável na camada de transporte que garante a entrega de um fluxo de dados enviados de uma máquina para outra sem duplicação ou perda de dados. Esse protocolo de comunicação é o " ,
+    "answers": [
+      { "text": " TCP ", "isCorrect": true },
+      { "text": " IP ", "isCorrect": false },
+      { "text": " UDP ", "isCorrect": false },
+      { "text": " ICMP ", "isCorrect": false },
+      { "text": " IGMP ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um administrador de um computador com sistema operacional Linux criou uma terceira partição no segundo disco rígido SATA da máquina. A nomenclatura padrão do Linux para identificar discos e partições identifica essa partição como " ,
+    "answers": [
+      { "text": " /dev/sdb3 ", "isCorrect": true },
+      { "text": " /dev/hda2 ", "isCorrect": false },
+      { "text": " /dev/hdb3 ", "isCorrect": false },
+      { "text": " /dev/sda2 ", "isCorrect": false },
+      { "text": " /dev/sda3 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um empreendimento empresarial, cuja rede tem vários servidores, precisou montar uma estratégia de backup com ajuste de métricas bem definido, de modo a reduzir prejuízos em caso de falhas inesperadas desses servidores. Considerando a estratégia montada, quais são os dois parâmetros específicos usados para medir eficiência de backup? " ,
+    "answers": [
+      { "text": " tempo de recuperação e ponto de recuperação ", "isCorrect": true },
+      { "text": " quantidade de backups e tempo de backup ", "isCorrect": false },
+      { "text": " quantidade de backups e tempo de recuperação ", "isCorrect": false },
+      { "text": " partições de restauração e tempo de backup ", "isCorrect": false },
+      { "text": " partições de restauração e ponto de recuperação  ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um usuário do navegador Google Chrome, utilizando-o em ambiente desktop do MS Windows 10, deseja acessar a função de Gerenciador de Tarefas. Essa função permitirá ao usuário do Google Chrome  " ,
+    "answers": [
+      { "text": " controlar os recursos consumidos por esse navegador em tempo real, visualizando aspectos da navegação.  ", "isCorrect": true },
+      { "text": " gerenciar os recursos de hardware do computador, tais como aumentar o tempo de CPU para tarefas desse navegador ", "isCorrect": false },
+      { "text": " acessar o Gerenciador de Tarefas do sistema operacional, permitindo acesso aos controles sobre todos os processos que estão em atividade no computador ", "isCorrect": false },
+      { "text": " inspecionar aspectos de hardware e software que pertencem ao computador no qual esse navegador está ativo, inclusive tarefas relativas à rede e aos protocolos. ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Considere um usuário do MS Outlook, versão em português e que está rodando no ambiente desktop do MS Windows 10. Esse usuário precisa marcar um tipo de atividade e colocá-la no calendário, sendo que tal atividade, associada ao MS Outlook, não envolve convidar outras pessoas ou reservar recursos, como uma sala de conferência ou um equipamento, para ser efetivada. Esse tipo de atividade é um(a) " ,
+    "answers": [
+      { "text": " compromisso ", "isCorrect": true },
+      { "text": " item ", "isCorrect": false },
+      { "text": " tarefa ", "isCorrect": false },
+      { "text": " reunião ", "isCorrect": false },
+      { "text": " acompanhamento ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Considere as seguintes afirmativas sobre o uso de colunas num documento MS Word 2016 I. Na guia Layout de Página, é permitido usar o recurso Colunas para inserir numa forma retangular (caixa) um texto explicativo dividido em duas ou mais colunas. II. Nove é o número máximo de colunas permitido num trecho. III. É possível estabelecer larguras diferentes para cada coluna. Está correto o que se afirma somente em " ,
+    "answers": [
+      { "text": " III ", "isCorrect": true },
+      { "text": " I e II. ", "isCorrect": false },
+      { "text": " II ", "isCorrect": false },
+      { "text": " I ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Os termos Animação e Transição são usados frequentemente em aplicativos dedicados à apresentação de slides. Assinale a afirmativa correta a respeito das funções associadas a esses termos em alguns desses aplicativos. " ,
+    "answers": [
+      { "text": " A Animação aplica-se a elementos específicos de um slide. ", "isCorrect": true },
+      { "text": " Quando utilizados no PowerPoint e no Impress, são termos sinônimos, pois não há diferenças significativas entre as funções a eles associadas. ", "isCorrect": false },
+      { "text": " O PowerPoint não usa o termo Transição em sua interface. ", "isCorrect": false },
+      { "text": " O Impress não usa o termo Transição em sua interface. ", "isCorrect": false },
+      { "text": " A Transição estabelece a ordem dos slides durante uma apresentação ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " João cuida de uma planilha MS Excel que contém dados de um relatório a ser impresso. Esses dados estão localizados em cinco regiões da planilha, preestabelecidas e distintas entre si. Porém, há outras regiões que estão preenchidas com dados auxiliares, que não devem aparecer no relatório impresso. O trabalho de João é criar uma variedade de cenários manipulando os valores dos dados auxiliares e imprimir o relatório repetidamente de acordo com cada uma dessas variações introduzidas. Nesse processo, João usa comandos de selecionar/copiar/colar intensamente na manipulação dos dados auxiliares. Para acelerar a impressão, de modo a não ter que selecionar os trechos visíveis a cada impressão, uma boa dica para João, nesse caso, é utilizar  " ,
+    "answers": [
+      { "text": " o recurso Área de Impressão na guia Layout da Página ", "isCorrect": true },
+      { "text": " o recurso Mala Direta na guia Inserir ", "isCorrect": false },
+      { "text": " o recurso Segmentação de Dados na guia Inserir. ", "isCorrect": false },
+      { "text": " o recurso Tabela Dinâmica na guia Inserir ", "isCorrect": false },
+      { "text": " uma nova planilha para cada versão do relatório ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Considere uma planilha (aba) Calc que exibe, nas células A1, B1, C1, A2, B2, C2, A3, B3, C3, respectivamente, os valores 60, 20, 65, 30, 45, 10, 25, 5, 30. Para todas as demais células da planilha, o valor é 0. Dado que a célula C3 foi copiada da célula A1 por meio de Ctrl+C/Ctrl+V, assinale a fórmula originalmente contida na célula A1. " ,
+    "answers": [
+      { "text": " =$A$2+B1+$C2 ", "isCorrect": true },
+      { "text": " =A2+B1+$C2 ", "isCorrect": false },
+      { "text": " =A$2+B1+C$2 ", "isCorrect": false },
+      { "text": " =$A2+A3-B3+$C2 ", "isCorrect": false },
+      { "text": " =$A$2+$B$1+$C2 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Considere as afirmativas a seguir a respeito de arquivos e pastas no contexto do Windows. I. Um arquivo não pode ter tamanho zero. II. Todo arquivo deve ter uma extensão como, por exemplo, “teste.docx”. III. O nome completo de um arquivo contém o caminho (path) das pastas que o contêm. Está correto apenas o que se afirma em  " ,
+    "answers": [
+      { "text": " III ", "isCorrect": true },
+      { "text": " I ", "isCorrect": false },
+      { "text": " II ", "isCorrect": false },
+      { "text": " I e III ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " João conectou um pen drive no seu notebook com Windows, e precisa descobrir o espaço utilizado e a capacidade total desse dispositivo. No Explorador de Arquivos, depois de clicar com o botão direito do mouse na identificação do pen drive, João deve escolher a opção " ,
+    "answers": [
+      { "text": " Propriedades ", "isCorrect": true },
+      { "text": " Gerenciamento ", "isCorrect": false },
+      { "text": " Resumo ", "isCorrect": false },
+      { "text": " Segurança ", "isCorrect": false },
+      { "text": " Utilização ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " No contexto dos navegadores de Internet, assinale a definição mais adequada para o termo cookie. " ,
+    "answers": [
+      { "text": " Um arquivo armazenado no seu computador por um website, usado para registrar dados sobre a sua utilização. ", "isCorrect": true },
+      { "text": " Um arquivo que adiciona novas funcionalidades ao browser instalado na sua máquina ", "isCorrect": false },
+      { "text": " Um histórico de navegação na web gravado pelo browser ", "isCorrect": false },
+      { "text": " Um item de segurança que torna sua navegação mais segura por meio de criptografia.  ", "isCorrect": false },
+      { "text": " Uma funcionalidade adicional instalada pelo browser, usualmente utilizada por websites comerciais.  ", "isCorrect": false }
+    ]
+  },
+  {
+    "question": " No contexto do Windows, assinale a opção que permite examinar as janelas (e/ou programas) abertas e, a partir daí, escolher a janela que você deseja visualizar " ,
+    "answers": [
+      { "text": " Alt + Tab ", "isCorrect": true },
+      { "text": " Alt + T ", "isCorrect": false },
+      { "text": " Ctlr + Alt + Delete ", "isCorrect": false },
+      { "text": " Ctrl + J ", "isCorrect": false },
+      { "text": " F1 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Buscas na Internet por meio do Google permitem o uso de operadores, ou comandos especiais, que podem tornar o resultado mais preciso. Assinale o operador usado para garantir que o resultado de uma busca contenha uma palavra específica. " ,
+    "answers": [
+      { "text": " + ", "isCorrect": true },
+      { "text": " * ", "isCorrect": false },
+      { "text": " - ", "isCorrect": false },
+      { "text": " = ", "isCorrect": false },
+      { "text": " / ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Sobre Sistema Operacional analise as afirmativas abaixo: I - É um conjunto de programas computacionais que controla o hardware do computador e atua como interface com os programas de aplicação. II - É uma coleção de programas que inicializam o hardware do computador, fornecendo rotinas básicas para o controle de dispositivos, como também fornece gerência, escalonamento e interação de tarefas e mantém a integridade de sistema. III - Se trata de um programa especial que atua de forma intermediária entre os usuários e os omponentes de um computador. Está(ão) correta(s):  " ,
+    "answers": [
+      { "text": " Apenas as afirmativas I, II e III ", "isCorrect": true },
+      { "text": " Apenas as afirmativas I e II.  ", "isCorrect": false },
+      { "text": " Apenas as afirmativas I e III.  ", "isCorrect": false },
+      { "text": " Apenas a afirmativa II. ", "isCorrect": false },
+      { "text": " Nenhuma das afirmativas anteriores ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Entre as funções de um sistema operacional, podemos citar: I - Gerenciar os recursos dos hardwares para que todas as tarefas possam ser executadas a qualquer momento pelos usuários. II - Gerenciar o acesso de arquivos diversos, oferecendo possibilidade de criação, edição, modificação, alteração de local e até exclusão dos mesmos. III - Permitir o funcionamento de periféricos como impressoras, hd externos, mouses sem fio, webcams, pen drives, e outros ligados ao computador. IV - A compactação de arquivos reduzindo a quantidade de espaço necessária ao arquivo. Está(ão) correta(s): " ,
+    "answers": [
+      { "text": " Apenas as afirmativas I, II e III.  ", "isCorrect": true },
+      { "text": " Apenas as afirmativas I, III e IV ", "isCorrect": false },
+      { "text": " Apenas as afirmativas I e II.  ", "isCorrect": false },
+      { "text": " Apenas a afirmativa IV ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " As teclas de atalho do teclado que são utilizadas para copiar, recortar e colar no MSWord, são, respectivamente:  " ,
+    "answers": [
+      { "text": " CTRL + C; CTRL + X; CTRL + V ", "isCorrect": true },
+      { "text": " CTRL + C; CTRL + W; CTRL + A.  ", "isCorrect": false },
+      { "text": " SHIFT + C; SHIFT + X; SHIFT + V.  ", "isCorrect": false },
+      { "text": " CTRL + C; CTRL + R; CTRL + C ", "isCorrect": false },
+      { "text": " ALT + C; ALT + X; ALT + V.  ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Arquivos digitais de uso em computadores são produtos comuns no dia a dia das organizações. Eles podem conter relatórios, planilhas ou quaisquer outros elementos que viabilizem, de alguma forma, a execução dos processos de negócio. O acesso aos arquivos de um sistema pode ser realizado de diferentes formas. Qual o método de acesso a registros de um arquivo, que demanda a especificação de uma chave? " ,
+    "answers": [
+      { "text": " Indexado ", "isCorrect": true },
+      { "text": " Exclusão mútua ", "isCorrect": false },
+      { "text": " Não estruturado ", "isCorrect": false },
+      { "text": " Reentrância ", "isCorrect": false },
+      { "text": " Sequencial ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A computação distribuída permite que as máquinas integrantes de uma rede, que utiliza esse modelo computacional, executem o seu próprio processamento. Esse cenário permite que as organizações se beneficiem da integração de serviços, por meio da interconexão oferecida pelas redes de computadores, otimizando recursos e maximizando o poder de seu parque computacional. Nesse cenário, o modelo de redes ponto a ponto se caracteriza por " ,
+    "answers": [
+      { "text": " inexistir a figura de um servidor dedicado, já que qualquer equipamento pode desempenhar a função de servidor de um determinado serviço. ", "isCorrect": true },
+      { "text": " agrupar um conjunto de computadores, localizados em ambientes físicos distintos, para processar grandes volumes de dados ", "isCorrect": false },
+      { "text": " existir um servidor frontal (front-end) que se comunica com outro servidor traseiro (back-end), este responsável pelos dados do processamento ", "isCorrect": false },
+      { "text": " interligar um conjunto de computadores, de forma que pareça um supercomputador com considerável poder computacional. ", "isCorrect": false },
+      { "text": " oferecer um modelo em que existe a figura de um equipamento servidor, responsável por atender às requisições de equipamentos clientes. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Equipes do Microsoft Teams reúnem pessoas com o objetivo de facilitar a colaboração entre seus membros. Todo conteúdo público de um canal é visível aos membros da equipe, o que, em uma organização, pode não ser conveniente. Por vezes, é necessário que um subconjunto do grupo discuta questões confidenciais, sem ter que fazê-lo em uma equipe alternativa. Qual recurso do Microsoft Teams viabiliza a criação de uma área exclusiva dentro de uma equipe? " ,
+    "answers": [
+      { "text": " Canais privados ", "isCorrect": true },
+      { "text": " Caderno ", "isCorrect": false },
+      { "text": " Tarefas ", "isCorrect": false },
+      { "text": " Insights ", "isCorrect": false },
+      { "text": " Links para a equipe ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A possibilidade de configuração de conexões, oferecida pelo navegador Firefox, revela-se recurso interessante para organizações que necessitam, por exemplo, acessar um servidor de proxy que disponibiliza um serviço específico, não acessível ao público externo. No menu Configurações, qual a opção na qual a janela de configuração de conexão é acessada? " ,
+    "answers": [
+      { "text": " Geral ", "isCorrect": true },
+      { "text": " Início ", "isCorrect": false },
+      { "text": " Pesquisa ", "isCorrect": false },
+      { "text": " Sync ", "isCorrect": false },
+      { "text": " Privacidade e Segurança ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O compartilhamento de experiências de uma equipe de vendas pode ser uma interessante abordagem do departamento comercial de uma empresa. Para isso, uma solução é utilizar um sistema de páginas modificáveis por qualquer pessoa da equipe, em um formato que permita a edição, no formato de código de páginas (como HTML, por exemplo) ou em um que seja intuitivo, como um editor de textos padrão. Outra importante funcionalidade é a manutenção de histórico de versões. Como são designados os ambientes que implementam as funcionalidades descritas? " ,
+    "answers": [
+      { "text": " Wikis ", "isCorrect": true },
+      { "text": " Correio eletrônico ", "isCorrect": false },
+      { "text": " Podcasts ", "isCorrect": false },
+      { "text": " Telnet ", "isCorrect": false },
+      { "text": " Vídeo blogs (VLOGS) ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " As resoluções assumidas por um gestor dependem, fundamentalmente, da consolidação de dados e informações que sustentam o processo de tomada de decisão. Assim sendo, ferramentas que têm por objetivo organizar e apresentar dados e informações relevantes ao processo de tomada de decisão são denominadas " ,
+    "answers": [
+      { "text": " dashboards ", "isCorrect": true },
+      { "text": " codecs ", "isCorrect": false },
+      { "text": " hardening ", "isCorrect": false },
+      { "text": " weblogs ", "isCorrect": false },
+      { "text": " LMS (Learning Management Systems) ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O aplicativo de correio eletrônico pode ser configurado para enviar mensagens e acessar as caixas de mensagens que estão no servidor de correio. Um dos protocolos de comunicação mais utilizados para acessar as mensagens da caixa de entrada é o " ,
+    "answers": [
+      { "text": " IMAP ", "isCorrect": true },
+      { "text": " SMTP ", "isCorrect": false },
+      { "text": " SMB ", "isCorrect": false },
+      { "text": " SSH ", "isCorrect": false },
+      { "text": " RDP ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A assinatura digital é um controle de segurança que permite a verificação da integridade e da autenticidade do documento digital. Sabe-se que o certificado digital do signatário (CertSignatário) foi emitido pela Autoridade Certificadora 1 (AC1); o certificado da AC1 (CertAC1) foi emitido pela Autoridade Certificadora Raiz (ACZ); e que o certificado da ACZ (CertACZ) é autoassinado. Para validarmos a assinatura digital do signatário de um documento digital, nessa infraestrutura de chaves públicas em cadeia, é necessário ter-se " ,
+    "answers": [
+      { "text": "  todos os certificados da cadeia (CertSignatário, CertAC1 e CertACZ) ", "isCorrect": true },
+      { "text": " apenas o CertSignatário ", "isCorrect": false },
+      { "text": " apenas o CertAC1 ", "isCorrect": false },
+      { "text": " apenas o CertACZ  ", "isCorrect": false },
+      { "text": " apenas o CertSignatário e o CertACZ ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O Microsoft Edge pode sincronizar o histórico, os favoritos, as senhas e outros dados do navegador de um usuário em todos os dispositivos conectados. Para ativar a sincronização, deve-se selecionar a opção Sincronizar, pressionar o botão Ativar sincronização, selecionar os itens que devem ser sincronizados e pressionar o botão Confirmar. A opção Sincronizar é uma das subopções da opção de configuração de " ,
+    "answers": [
+      { "text": " Perfis ", "isCorrect": true },
+      { "text": " Sistema ", "isCorrect": false },
+      { "text": " Proteção para a família ", "isCorrect": false },
+      { "text": " Cookies e permissões de site ", "isCorrect": false },
+      { "text": " Privacidade, pesquisa e serviços ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um supervisor de equipe precisa redigir um memorando para envio à chefia imediata. Ele precisa da colaboração dos seus subordinados na edição desse texto. Todavia, o supervisor quer ter acesso ao histórico de alterações (quem alterou o quê), a fim de que possa julgar quais sugestões ele aceita ou não. Qual recurso do MS Word 365, versão português, oferece essa possibilidade? " ,
+    "answers": [
+      { "text": " Revisão ", "isCorrect": true },
+      { "text": " Correspondências ", "isCorrect": false },
+      { "text": " Layout ", "isCorrect": false },
+      { "text": " Pesquisar ", "isCorrect": false },
+      { "text": " Suplementos ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um usuário do sistema de correio eletrônico corporativo recebeu as instruções da equipe técnica para configurar o acesso à sua caixa postal de entrada e às suas pastas de mensagens mantidas no servidor corporativo, usando o aplicativo de correio do seu smartphone. Para assegurar que a comunicação entre o aplicativo e o servidor seja realizada através de um canal de comunicação seguro, o usuário deve optar pelo seguinte protocolo de comunicação: " ,
+    "answers": [
+      { "text": " IMAPS ", "isCorrect": true },
+      { "text": " HTTP ", "isCorrect": false },
+      { "text": " SMTPS ", "isCorrect": false },
+      { "text": " POP3 ", "isCorrect": false },
+      { "text": " DNS ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Os mecanismos de segurança são implementados para atender os fundamentos de segurança da informação e, dessa forma, viabilizar a segurança da informação. Dentre os mecanismos mais importantes, um deles visa assegurar que a origem dos dados recebidos ou a entidade associada em uma comunicação são exatamente quem reivindicam ser. Esse mecanismo de segurança é conhecido como  " ,
+    "answers": [
+      { "text": " assinatura digital ", "isCorrect": true },
+      { "text": " envelope digital ", "isCorrect": false },
+      { "text": " cifragem simétrica ", "isCorrect": false },
+      { "text": " hash de mensagem ", "isCorrect": false },
+      { "text": " autorização de acesso ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Em 2014, a arquitetura de redes neurais denominada Redes Adversárias Generativas (GAN) revolucionou o aprendizado de máquina. As GAN caracterizam-se por " ,
+    "answers": [
+      { "text": " serem compostas por duas redes neurais: uma discriminadora e outra geradora ", "isCorrect": true },
+      { "text": " serem usadas, exclusivamente, para classificação de imagens. ", "isCorrect": false },
+      { "text": " consistirem, apenas, em um gerador de ruídos e em uma rede neural classificatória. ", "isCorrect": false },
+      { "text": " serem incapazes de aprender a partir de conjuntos de dados não supervisionados. ", "isCorrect": false },
+      { "text": " não poderem ser aplicadas para gerar conteúdo linguístico ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um grupo de desenvolvedores de aplicativos multimídia está produzindo um novo aplicativo para reproduzir apenas arquivos de áudio. O grupo está trabalhando com a codificação e a decodificação desses tipos de arquivo, favorecendo a compactação para o armazenamento e a descompactação para a utilização do arquivo. Um tipo de arquivo de áudio que pode ser tratado nesse aplicativo é o " ,
+    "answers": [
+      { "text": " MPEG-1 Layer 3 ", "isCorrect": true },
+      { "text": " AVCHD ", "isCorrect": false },
+      { "text": " JPEG-1 ", "isCorrect": false },
+      { "text": " Windows Media Video ", "isCorrect": false },
+      { "text": " Portable Network Graphic ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Na técnica de memória virtual, a tarefa de tradução dos endereços virtuais é realizada por hardware, juntamente com o sistema operacional, para não comprometer o desempenho. O dispositivo de hardware responsável por essa tradução é a " ,
+    "answers": [
+      { "text": " MMU ", "isCorrect": true },
+      { "text": " FPU ", "isCorrect": false },
+      { "text": " ALU ", "isCorrect": false },
+      { "text": " VU ", "isCorrect": false },
+      { "text": " Cache ", "isCorrect": false }
+    ]
+  },
+  {
+    "question": " O ext2 (Second Extended File System) é um dos sistemas de arquivos suportados pelo sistema operacional Linux. Nesse sistema de arquivos, com exceção do nome do arquivo, todos os demais atributos, como permissões de acesso, identificação do dono do arquivo, identificação do grupo do arquivo, tamanho do arquivo, entre outros, são armazenados numa estrutura conhecida como " ,
+    "answers": [
+      { "text": " i-node ", "isCorrect": true },
+      { "text": " i-block ", "isCorrect": false },
+      { "text": " i-file ", "isCorrect": false },
+      { "text": " master file table ", "isCorrect": false },
+      { "text": " file allocation table ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A Unidade Central de Processamento (UCP) controla a operação de um computador e realiza suas funções e processamento de dados. O componente da UCP que faz os cálculos ou o processamento de dados, de fato, é o(a) " ,
+    "answers": [
+      { "text": " unidade lógica e aritmética ", "isCorrect": true },
+      { "text": " decodificador de instrução ", "isCorrect": false },
+      { "text": " interpretador da instrução ", "isCorrect": false },
+      { "text": " registrador de instrução ", "isCorrect": false },
+      { "text": " unidade de controle ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " No sistema decimal, os dígitos de 0 a 9 são utilizados para representar números na base 10. No sistema binário, apenas os dígitos 0 e 1 são utilizados para representar os números na base 2. A representação do número decimal positivo 16.383, no sistema binário, utilizando 2 bytes, é " ,
+    "answers": [
+      { "text": " 0011 1111 1111 1111 ", "isCorrect": true },
+      { "text": " 0000 0111 1111 1111 ", "isCorrect": false },
+      { "text": " 0000 1111 1111 1111 ", "isCorrect": false },
+      { "text": " 0001 1111 1111 1111 ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O processo de decodificação de uma instrução possibilita determinar o modo de endereçamento utilizado para localizar os operandos. Quando o operando tem magnitude limitada e sua busca não requer um ciclo de memória ou de cache dentro do ciclo de instrução, o modo de endereçamento utilizado pela instrução é o " ,
+    "answers": [
+      { "text": " imediato ", "isCorrect": true },
+      { "text": " direto ", "isCorrect": false },
+      { "text": " indireto ", "isCorrect": false },
+      { "text": " indireto por registrador ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Na arquitetura TCP/IP, a tarefa da camada inter-redes é permitir que os hosts injetem pacotes em qualquer rede e prover o tráfego dos pacotes até o seu destino, sem garantia de ordem de entrega dos pacotes. Dentre os protocolos utilizados nessa camada, tem-se o " ,
+    "answers": [
+      { "text": " ICMP e o IP ", "isCorrect": true },
+      { "text": " TCP e o IP ", "isCorrect": false },
+      { "text": " UDP e o IP ", "isCorrect": false },
+      { "text": " ICMP e o TCP ", "isCorrect": false },
+      { "text": " TCP e o UDP ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Em um sistema de transmissão de dados, o meio de transmissão é o caminho físico entre transmissor e receptor. Como exemplos de meios de transmissão guiados, tem-se o " ,
+    "answers": [
+      { "text": " cabo de fibra ótica e o cabo par-trançado ", "isCorrect": true },
+      { "text": " cabo par-trançado e o espectro de rádio por satélite ", "isCorrect": false },
+      { "text": " cabo par-trançado e o espectro de rádio terrestre ", "isCorrect": false },
+      { "text": " cabo de fibra ótica e o espectro de rádio por satélite ", "isCorrect": false },
+      { "text": " cabo de fibra ótica e o espectro de rádio terrestre ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O serviço de correio eletrônico possibilita o envio e o recebimento de e-mail (electronic mail). Os protocolos de comunicação que o cliente de correio utiliza para solicitar a entrega de um e-mail e para acessar a caixa postal de mensagens são, respectivamente, o " ,
+    "answers": [
+      { "text": " SMTP e o IMAP ", "isCorrect": true },
+      { "text": " SFTP e o HTTP ", "isCorrect": false },
+      { "text": " HTTP e o IMAP ", "isCorrect": false },
+      { "text": " SMTP e o SFTP ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A Resolução CMN no 4.893, de 26 de fevereiro de 2021, dispõe sobre a política de segurança cibernética e sobre os requisitos para a contratação de serviços de processamento e armazenamento de dados e de computação em nuvem, a serem observados pelas instituições autorizadas a funcionar pelo Banco Central do Brasil. Essa Resolução determina que a política de segurança cibernética e o plano de ação e de resposta a incidentes devem ser, no mínimo, documentados e revisados " ,
+    "answers": [
+      { "text": " anualmente ", "isCorrect": true },
+      { "text": " trimestralmente ", "isCorrect": false },
+      { "text": " semestralmente ", "isCorrect": false },
+      { "text": " bienalmente ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  }
+  
+  
+]  

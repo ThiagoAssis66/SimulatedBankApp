@@ -1,0 +1,803 @@
+[ 
+  {
+    "question": " A respeito do atual quadro eleitoral no Brasil e no resto da América Latina, é correto afirmar que: " ,
+    "answers": [
+      { "text": " no Chile, Michelle Bachelet se reelegeu em 2013 e anunciou diminuir as desigualdades sociais, mediante uma reforma tributária e investimentos para oferecer um sistema educacional público; ", "isCorrect": true },
+      { "text": " na Colômbia, o atual presidente Álvaro Uribe pretende concorrer ao segundo mandato, e, para tanto, está abrindo o diálogo com os guerrilheiros das Forças Armadas Revolucionárias da Colômbia (Farc); ", "isCorrect": false },
+      { "text": " no Uruguai, a direita, representada pelo presidente José Mujica, se lança à reeleição prometendo ampliar o combate à dependência química iniciado em 2013, com a criminalização do uso de maconha; ", "isCorrect": false },
+      { "text": " no Brasil, os candidatos de oposição à reeleição da atual Presidente Dilma Roussef (PT), Eduardo Campos (PSDB) e Aécio Neves (PMDB), têm bases em Pernambuco e em Minas Gerais, estados nos quais já foram governadores; ", "isCorrect": false },
+      { "text": " na Bolívia, Evo Morales anuncia concorrer em 2014 ao segundo mandato presidencial, dando prosseguimento ao programa de apoio aos movimentos camponeses e indígenas na América Latina. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Analise as características dos biomas descritos abaixo: I. É um bioma exclusivamente brasileiro, constituído principalmente por savanas estépicas, ocupando a totalidade do estado do Ceará, parte de Alagoas, Bahia, Pernambuco e Piauí, entre outros. Entre as espécies de planta encontradas nesse bioma, há a amburana, a aroeira, o umbu e o juazeiro. II. É um bioma considerado uma das savanas mais ricas do mundo em biodiversidade, reunindo uma grande variedade de paisagens, entre chapadas e vales. Esse bioma se estende pelos estados de Mato Grosso, Mato Grosso do Sul, Goiás, Tocantins, Minas Gerais, Distrito Federal e Piauí, sobretudo. As características descritas correspondem, respectivamente, aos biomas: " ,
+    "answers": [
+      { "text": " Caatinga e Cerrado; ", "isCorrect": true },
+      { "text": " Mata Atlântica e Pampa; ", "isCorrect": false },
+      { "text": " Pampa e Amazônia; ", "isCorrect": false },
+      { "text": " Cerrado e Mata Atlântica; ", "isCorrect": false },
+      { "text": " Amazônia e Caatinga. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O Comitê de Política Monetária (Copom) do Banco Central tem o objetivo de estabelecer as diretrizes da política monetária e de definir a taxa de juros, sendo a sistemática de metas de inflação uma das principais diretrizes dessa política. Usualmente a meta de inflação tem sido definida por um valor central e as margens de tolerância, em pontos percentuais, para cima e para baixo. Para 2014, o valor central e as margens de tolerância foram fixadas, respectivamente, em: " ,
+    "answers": [
+      { "text": " quatro e meio por cento, 2 pontos percentuais; ", "isCorrect": true },
+      { "text": " dois e meio por cento, 2 pontos percentuais; ", "isCorrect": false },
+      { "text": " três e meio por cento, 2 pontos percentuais; ", "isCorrect": false },
+      { "text": " cinco por cento, 2 pontos percentuais; ", "isCorrect": false },
+      { "text": " seis e meio por cento, 1 ponto percentual. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Acerca do Banco do Nordeste do Brasil, é correto afirmar que: " ,
+    "answers": [
+      { "text": " é uma instiuição financeira pública constituída sob a forma de sociedade anônima aberta e de economia mista;  ", "isCorrect": true },
+      { "text": " foi criado pela Lei nº 2004, de 19 de junho de 1954; ", "isCorrect": false },
+      { "text": " sua área de atuação abrange todos os Estados da Região Nordeste, Tocantins e o norte do Estado de Minas Gerais; ", "isCorrect": false },
+      { "text": " sua administração é feita por uma diretoria executiva composta de 10 (dez) membros, sendo um presidente e nove diretores; ", "isCorrect": false },
+      { "text": " criou em 2003 sua Comissão de Ética, para receber reclamações dos clientes insatisfeitos com as soluções apresentadas pelos canais de atendimento ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Leia o texto a seguir, extraído da home page do Banco do Nordeste do Brasil S.A. (BNB): “A atividade que define uma instituição financeira é a concessão de crédito”. Porém, para cumprir a missão de desenvolvimento em uma região com muitas potencialidades ainda não exploradas, o Banco do Nordeste entende que o crédito é necessário, mas não deve ser o único serviço oferecido. Com esta convicção, o Banco criou diversos instrumentos que lhe possibilitaram atuar mais próximo dos clientes e ampliar suas atividades, indo além da intermediação financeira, buscando contribuir para garantir a sustentabilidade dos empreendimentos financiados, associada à melhoria das condições de vida da população nordestina. São ações antecedentes e subsequentes à concessão de crédito que vêm contribuindo para maior efetividade dos recursos aplicados, seja por darem maior capilaridade ao Banco, possibilitando maior aproximação com o cliente e conhecimento de seu negócio, seja por favorecerem a identificação de parceiros para implementação de iniciativas conjuntas, por exemplo, nas áreas de pesquisa, assistência técnica e apoio à comercialização”. Com relação às ações e instrumentos utilizados pelo Banco do Nordeste, analise os itens a seguir: (I) O Programa de Desenvolvimento da Agricultura Familiar na Zona da Mata - PROMATA - de apoio aos pequenos produtores; (II) As políticas de desenvolvimento territorial; (III) O Crediamigo, programa de microcrédito produtivo orientado que facilita o acesso ao crédito a milhares de empreendedores; (IV)Os agentes de desenvolvimento e as agências itinerantes. Assinale se: " ,
+    "answers": [
+      { "text": " somente II, III e IV estiverem corretos; ", "isCorrect": true },
+      { "text": " somente III estiver correto; ", "isCorrect": false },
+      { "text": " somente I e IV estiverem corretos; ", "isCorrect": false },
+      { "text": " somente I, II e III estiverem corretos; ", "isCorrect": false },
+      { "text": " somente I, II e IV estiverem corretos. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Mateus mantém uma planilha com a lista de fornecedores de uma empresa, contendo o código de cada fornecedor e diversas informações de cadastro. Na planilha, cada fornecedor ocupa uma linha, e os dados estão dispostos em colunas. Como cada fornecedor deve ter um código único, Mateus gostaria de verificar a integridade dos dados com algum tipo de alerta que ajudasse a identificar um erro comum de preenchimento, que é o de atribuir o mesmo código a mais de um fornecedor. No Excel 2010, um alerta desse tipo, que não interfira no preenchimento da planilha ou na ordem em que os registros aparecem, pode ser mais fácil e rapidamente implementado por meio: " ,
+    "answers": [
+      { "text": " do recurso de Formatação Condicional; ", "isCorrect": true },
+      { "text": " do recurso de Validação de Dados; ", "isCorrect": false },
+      { "text": " de uma função definida pelo usuário, escrita em VBA; ", "isCorrect": false },
+      { "text": " dos recursos oferecidos pelo menu Controlar Alterações; ", "isCorrect": false },
+      { "text": " dos recursos oferecidos pelo menu Classificar e Filtrar.  ", "isCorrect": false }
+    ]
+  },
+    {
+    "question": " A principal característica dos bancos exclusivamente digitais é a  " ,
+    "answers": [
+      { "text": " oferta de todos os serviços operados pelos bancos múltiplos. ", "isCorrect": true },
+      { "text": " oferta de produtos e serviços por meio digital ", "isCorrect": false },
+      { "text": " oferta de serviços por meio de agências bancárias. ", "isCorrect": false },
+      { "text": " ausência de operações com moeda estrangeira ", "isCorrect": false },
+      { "text": " cobrança de taxas similares às cobradas pelos bancos tradicionais. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " No Sistema Financeiro Nacional, identificam-se os bancos-sombra (shadow banks) como bancos que " ,
+    "answers": [
+      { "text": " possuem diversos tipos de carteiras em suas operações ativas. ", "isCorrect": true },
+      { "text": " se especializam em transações financeiras como bancos estrangeiros ", "isCorrect": false },
+      { "text": " se concentram em transações financeiras no mercado local. ", "isCorrect": false },
+      { "text": " realizam operações financeiras à margem do sistema de regulação e supervisão do Banco Central do Brasil. ", "isCorrect": false },
+      { "text": " se originam a partir de indivíduos que se associam para prestar serviços financeiros a seus associados. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Ao longo das crises financeiras agudas, em que se observam elevada incerteza e temor em relação à solvência de empresas e bancos, a extrema preferência por liquidez tende a fazer com que os agentes econômicos aumentem as práticas de entesouramento. Nesse contexto, a moeda assume, precipuamente, a função de " ,
+    "answers": [
+      { "text": " meio de troca ", "isCorrect": true },
+      { "text": " meio de financiamento dos investimentos ", "isCorrect": false },
+      { "text": " unidade de conta ", "isCorrect": false },
+      { "text": " reserva de valor ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A economia digital propiciou a criação de um modelo de negócios em que uma empresa gerencia uma plataforma digital por meio da qual diversas empresas, concorrentes ou não, ofertam e vendem produtos e serviços on-line num ambiente que se assemelha a um shopping virtual. A plataforma digital descrita acima é denominada " ,
+    "answers": [
+      { "text": " mobile banking ", "isCorrect": true },
+      { "text": " startup ", "isCorrect": false },
+      { "text": " marketplace ", "isCorrect": false },
+      { "text": " fintech ", "isCorrect": false },
+      { "text": " internet banking ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " No sistema financeiro contemporâneo, o uso de tecnologias blockchain é considerado revolucionário, porque " ,
+    "answers": [
+      { "text": " privilegia a linguagem analógica, em detrimento da digital. ", "isCorrect": true },
+      { "text": " possibilita o armazenamento e compartilhamento de dados de forma distribuída, criptografada e sem a intermediação de terceiros. ", "isCorrect": false },
+      { "text": " envolve múltiplos intermediários financeiros, mas mantém a centralização das informações em apenas um deles.  ", "isCorrect": false },
+      { "text": " permite a quebra do sigilo inerente às transações financeiras. ", "isCorrect": false },
+      { "text": " elimina as práticas ilegais em curso nas transações financeiras, por meio do uso de linguagem criptografada ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Desde janeiro de 2018, os novos contratos de empréstimos do Banco Nacional de Desenvolvimento Econômico e Social (BNDES), destinados a financiar os investimentos das empresas brasileiras, passaram a ser corrigidos pela  " ,
+    "answers": [
+      { "text": " taxa de longo prazo (TLP) ", "isCorrect": true },
+      { "text": " taxa de juros neutra ", "isCorrect": false },
+      { "text": " London Interbank Offered Rate (LIBOR) ", "isCorrect": false },
+      { "text": " taxa de juros de longo prazo (TJLP) ", "isCorrect": false },
+      { "text": " taxa de juros básica de curto prazo (Selic) ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Considere o texto a seguir. O bom desempenho dos grandes bancos em meio à pior recessão da história brasileira comprovou a solidez do sistema financeiro do país, porém colocou sob os holofotes o poder de mercado dessas instituições – que não era desconhecido, mas se mostrou maior do que se podia imaginar. Se na crise de 2008, os bancos americanos e europeus viram seus resultados despencarem, as cinco maiores instituições do país absorveram mais de R$360 bilhões em calotes no crédito desde 2014, sem que sua rentabilidade, sempre entre as maiores do setor em comparações internacionais, fosse substancialmente afetada. Mesmo após a perda com inadimplência e todos os outros custos, inclusive tributários, o lucro somado desse grupo de bancos atingiu R$244 bilhões entre 2014 e 2017 (...). “Aqui, os bancos têm domínio da oferta de crédito. Com isso, não há competição forte”, diz Alberto Borges Matias, professor aposentado da USP e presidente do Instituto de Ensino e Pesquisa em Administração (Inepad). MOREIRA, T; TORRES, F. Crise coloca sob holofotes poder de mercado dos bancos. Valor Econômico, 21 ar. 2018, p.C4. Adaptado. De acordo com o texto, a despeito da grave recessão ocorrida no período 2015-2016 e das perdas com inadimplência, o principal fator que explica a elevada rentabilidade dos principais bancos que atuam no Brasil, no período recente, foi a(o) " ,
+    "answers": [
+      { "text": " ausência de regulação do sistema bancário brasileiro ", "isCorrect": true },
+      { "text": " ausência de regulação do sistema bancário brasileiro ", "isCorrect": false },
+      { "text": " elevada taxa de juros incidente sobre os recursos captados pelos bancos ", "isCorrect": false },
+      { "text": " elevado percentual dos depósitos compulsórios exigidos pelo Banco Central ", "isCorrect": false },
+      { "text": " elevado custo de tributação bancária ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " No final de março de 2018, as autoridades monetárias brasileiras anunciaram que as alíquotas dos depósitos compulsórios incidentes sobre depósitos à vista seriam reduzidas de 40% para 25%. Tendo em vista a dinâmica do mercado financeiro, essa medida objetiva, principalmente, " ,
+    "answers": [
+      { "text": " aumentar a oferta de crédito para empresas e consumidores no Brasil. ", "isCorrect": true },
+      { "text": " reduzir o nível de inadimplência observado no sistema bancário brasileiro. ", "isCorrect": false },
+      { "text": " aumentar a regulação do sistema bancário brasileiro ", "isCorrect": false },
+      { "text": " estimular os encaixes voluntários do sistema bancário brasileiro. ", "isCorrect": false },
+      { "text": " igualar as taxas de juros médias cobradas pelos bancos às taxas de juros básicas determinadas pelo Banco Central do Brasil. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Com o objetivo de evitar crises financeiras, o Banco Central do Brasil tem adotado, nas últimas décadas, diversos mecanismos visando a compatibilizar as normas do Sistema Financeiro Nacional com os requisitos emanados dos chamados Acordos de Capital da Basileia, que estabelecem regras do Banco de Compensações Internacionais (BIS, na sigla em inglês) para assegurar a estabilidade financeira internacional. Desde o final da década de 1980, foram emitidos os Acordos da Basileia I (1988), Basileia II (2004) e Basileia III (2010). No caso do Acordo da Basileia III, concebido após a crise financeira global de 2008, as normas introduzidas e já implementadas pelo Banco Central do Brasil foram ainda mais rígidas, porque " ,
+    "answers": [
+      { "text": " adotaram maiores exigências adicionais de capital principal, incluindo procedimentos para o cálculo da parcela dos ativos ponderados pelo risco referente às exposições ao risco de crédito ", "isCorrect": true },
+      { "text": " impuseram proibições aos bancos de transacionarem nos mercados de derivativos, altamente vulneráveis a especulações financeiras ", "isCorrect": false },
+      { "text": " estabeleceram mecanismos de supervisão bancária prudencial e disciplina do mercado bancário. ", "isCorrect": false },
+      { "text": " fixaram exigências de capital para riscos de crédito e de mercado, bem como para risco operacional. ", "isCorrect": false },
+      { "text": " estabeleceram mecanismos de supervisão do processo de avaliação da adequação de capital dos bancos. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Os agentes econômicos bem informados, sejam empresas ou consumidores, estão sempre atentos às decisões do Comitê de Política Monetária (Copom) do Banco Central do Brasil, com respeito à fixação da taxa de juros básica de curto prazo (a taxa Selic), porque esta influencia as demais taxas de juros da economia como um todo. De agosto de 2016 a março de 2018, a taxa Selic foi reduzida de 14,25% a.a. para 6,50% a.a., o que, descontada a inflação anual, significou maior convergência entre as taxas de juros reais brasileiras e internacionais. Tendo em vista a determinação das taxas de juros básicas de curto prazo num país que adota um regime de metas de inflação, como o Brasil, os dois fatores que justificam a contínua e significativa redução da taxa Selic no país, desde agosto de 2016, foram a(o) " ,
+    "answers": [
+      { "text": " convergência das expectativas de inflação para as metas de inflação anuais e os níveis elevados de capacidade ociosa da economia brasileira ", "isCorrect": true },
+      { "text": " queda da inflação ao consumidor (IPCA) e o baixo nível de desemprego no Brasil ", "isCorrect": false },
+      { "text": " enorme volatilidade do Ibovespa e o ambiente de incerteza nos mercados globais ", "isCorrect": false },
+      { "text": " rápida recuperação em curso da economia brasileira e o cenário econômico externo favorável ", "isCorrect": false },
+      { "text": " significativo crescimento econômico doméstico e a recuperação dos preços das commodities exportadas pelo Brasil ", "isCorrect": false }
+    ]
+  }, 
+   {
+    "question": " Uma pessoa jurídica deseja associar todas suas chaves Pix a apenas uma de suas contas no banco W. Nesse caso, o número máximo de chaves Pix que podem ser associadas a essa conta é " ,
+    "answers": [
+      { "text": " 20 ", "isCorrect": true },
+      { "text": " 1 ", "isCorrect": false },
+      { "text": " 2 ", "isCorrect": false },
+      { "text": " 6 ", "isCorrect": false },
+      { "text": " 10 ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um grupo financeiro desenvolverá uma solução tecnológica voltada para alguns serviços financeiros. Os serviços serão oferecidos através de um tipo de sistema computacional, cujas características principais são: (i) tratar de serviços para acesso a saldo e a extrato da conta; (ii) possuir medidas de segurança limitadas à autenticação em dois fatores, sem a necessidade de criptografia ou de outras tecnologias avançadas; (iii) notificar o usuário quando um pagamento ou uma transferência forem realizados; (iv) garantir compatibilidade com uma ampla variedade de dispositivos e de sistemas operacionais; e (v) oferecer uma interface mais amigável para os usuários, facilitando o acesso para pessoas com diferentes níveis de habilidade digital. A forma adequada para implantar essa solução tecnológica é através do uso de " ,
+    "answers": [
+      { "text": " aplicativo Mobile Banking ", "isCorrect": true },
+      { "text": " bluetooth em caixas eletrônicos ", "isCorrect": false },
+      { "text": " software com protocolo ATM CBR ", "isCorrect": false },
+      { "text": " página Web com melhor usabilidade ", "isCorrect": false },
+      { "text": " navegadores com extensões de acesso a bancos ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um grupo financeiro deseja estabelecer um sistema para atuar num ambiente de operações e de intermediação financeira para fornecer crédito, informalmente, sem passar por qualquer regulação, por meio de atividades paralelas ao sistema bancário oficial. Nesse caso, qual operação esse grupo pode gerenciar? " ,
+    "answers": [
+      { "text": " Fundos de hedge ", "isCorrect": true },
+      { "text": " FGTS ", "isCorrect": false },
+      { "text": " RPPS ", "isCorrect": false },
+      { "text": " Poupança ", "isCorrect": false },
+      { "text": " Fomento científico ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um grupo de usuários de operações financeiras pretende desenvolver um sistema com uma tecnologia que trabalhe com um banco de dados específico para gerenciar negociações de Bitcoins e outros ativos digitais. Assim, as transações estarão organizadas de forma cronológica, com dados com proteção criptográfica, mas podendo ser acessados por outros grupos. Para essa implantação, necessita-se, para esse tipo de banco de dados, da tecnologia de " ,
+    "answers": [
+      { "text": " blockchain ", "isCorrect": true },
+      { "text": " buffers pool ", "isCorrect": false },
+      { "text": " marketplace ", "isCorrect": false },
+      { "text": " open source ", "isCorrect": false },
+      { "text": " triggers cursor ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Uma instituição financeira trabalhará usando o modelo fintech para suas operações. Uma operação típica que poderá ser executada por essa instituição é " ,
+    "answers": [
+      { "text": " representar a figura de fiador digital em um contrato, facilitando processos de aluguel de imóveis residenciais. ", "isCorrect": true },
+      { "text": " conectar-se a uma agência bancária física, por meio de redes de conexão VPN. ", "isCorrect": false },
+      { "text": " realizar sorteios no modelo BETs, segundo regras estabelecidas pelo Banco Central do Brasil. ", "isCorrect": false },
+      { "text": " ser uma interface para um banco digital, através da Web, usando navegador específico. ", "isCorrect": false },
+      { "text": " servir de portal de vendas digitais de produtos de mercado, oferecendo-se como interface entre compradores e vendedores. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um cidadão é casado com uma técnica bancária vinculada à agência onde ele exerce suas funções há muitos anos. Esse cidadão inicia empreendimento no ramo de madeira após ter recebido proposta para explorar local situado no Norte do Brasil. Ao chegar ao local, ele verifica que não existe certificação legal para o projeto de extração. Desejoso de continuar o negócio, propõe à sua esposa a criação de uma pessoa jurídica para legalizar o fluxo de caixa do empreendimento. Nos termos da Lei no  9.613/1998, a dissimulação da origem de valores provenientes de infração penal caracteriza o crime de " ,
+    "answers": [
+      { "text": " lavagem de dinheiro ", "isCorrect": true },
+      { "text": " locupletação patrimonial  ", "isCorrect": false },
+      { "text": " desvio de finalidade ", "isCorrect": false },
+      { "text": " adulteração documental ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Determinada instituição autorizada a funcionar pelo Banco Central do Brasil reúne sua diretoria para traçar políticas para cumprimento das normas bancárias, sem correr riscos de sanções legais. Nos termos da Circular Bacen no  3.978/2020, para assegurar os procedimentos e os controles internos de prevenção à lavagem de dinheiro, essa instituição deve dispor de estrutura de " ,
+    "answers": [
+      { "text": " governança ", "isCorrect": true },
+      { "text": " controle ", "isCorrect": false },
+      { "text": " correição ", "isCorrect": false },
+      { "text": " disciplina ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um economista foi contratado por uma instituição financeira para organizar o fluxo de dados pessoais dos clientes, garantindo a sua preservação, de acordo com as normas em vigor. Nos termos da Lei no  13.709/2018, a disciplina da proteção de dados pessoais tem como fundamentos, dentre outros, os direitos " ,
+    "answers": [
+      { "text": " humanos ", "isCorrect": true },
+      { "text": " reais ", "isCorrect": false },
+      { "text": " atuais ", "isCorrect": false },
+      { "text": " progressivos ", "isCorrect": false },
+      { "text": " organizados ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um economista, com doutorado em prestigiada universidade americana, foi convidado para compor o Conselho de Administração de um Banco. Tendo assumido o cargo, deparou-se com inúmeros pleitos de aumento dos valores recebidos por diversos colaboradores em decorrência das funções e dos cargos ocupados. Nos termos do Estatuto Social do Banco da Amazônia, o órgão que assessora o Conselho de Administração em processos referentes a administradores, conselheiros fiscais e demais membros de órgãos estatutários é o Comitê de Pessoas, Elegibilidade, Sucessão e " ,
+    "answers": [
+      { "text": " Remuneração ", "isCorrect": true },
+      { "text": " Indicação ", "isCorrect": false },
+      { "text": " Progressão ", "isCorrect": false },
+      { "text": " Avaliação ", "isCorrect": false },
+      { "text": " Projeção ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um empresário, que pretende investir no norte do Brasil, auscultou diversas pessoas para obter informações dos melhores locais e municípios para aportar capital próprio e de terceiros. Verifica, através do uso de informações bancárias, fornecidas por amigos integrantes de instituições financeiras, que existem vários projetos em curso com polpudo financiamento estatal e que levarão as regiões beneficiadas a um surto de crescimento econômico. Nos termos do Código de Ética do Banco da Amazônia, as revelações de informações obtidas em decorrência do trabalho violam o princípio da  " ,
+    "answers": [
+      { "text": " confidencialidade ", "isCorrect": true },
+      { "text": " garantia ", "isCorrect": false },
+      { "text": " discrição ", "isCorrect": false },
+      { "text": " relação ", "isCorrect": false },
+      { "text": " dignidade ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Sobre o reajuste do preço do GLP (Gás Liquefeito de Petróleo) ocorrido no final de setembro passado é INCORRETO afirmar:  " ,
+    "answers": [
+      { "text": " O preço do botijão de gás residencial de 13 quilos é tabelado em todo o território nacional.  ", "isCorrect": true },
+      { "text": " A Petrobrás estima que o reajuste ao consumidor final seja na casa de 5%, uma vez que o impacto do aumento varia de acordo com sua destinação.  ", "isCorrect": false },
+      { "text": " A Petrobrás reajustou o preço do gás duas vezes no mês de setembro.   ", "isCorrect": false },
+      { "text": " O percentual médio de aumento foi na casa de 11%. ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O Fundo Garantidor de Créditos (FGC) é uma entidade privada, sem fins lucrativos, que administra um mecanismo de proteção aos correntistas, poupadores e investidores, que www.pciconcursos.com.br 6 permite recuperar os depósitos ou créditos mantidos em instituição financeira, em caso de intervenção, de liquidação ou de falência. Com essa informação, assinale a alternativa correta a respeito da FGC: " ,
+    "answers": [
+      { "text": " O total de créditos de cada pessoa contra a mesma instituição associada, ou contra todas as instituições associadas do mesmo conglomerado financeiro, será garantido até o valor de R$ 250.000,00 (duzentos e cinquenta mil reais).  ", "isCorrect": true },
+      { "text": " O total de créditos de cada pessoa contra a mesma instituição associada, ou contra todas as instituições associadas do mesmo conglomerado financeiro, será garantido até o valor de R$ 350.000,00 (trezentos e cinquenta mil reais).  ", "isCorrect": false },
+      { "text": " O total de créditos de cada pessoa contra a mesma  instituição associada, ou contra todas as instituições associadas do mesmo conglomerado financeiro, será garantido até o valor de R$ 200.000,00 (duzentos mil reais).  ", "isCorrect": false },
+      { "text": " O total de créditos de cada pessoa contra a mesma instituição associada, ou contra todas as instituições associadas do mesmo conglomerado financeiro, será garantido até o valor de R$ 300.000,00 (trezentos mil reais).  ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " - O Crédito Direto ao Consumidor – CDC - é uma operação de crédito concedida a pessoas físicas ou jurídicas para a aquisição de bens e serviços. Com base nessa afirmação, assinale a alternativa correta sobre o CDC: " ,
+    "answers": [
+      { "text": " O consumidor que contrata o CDC passa a desfrutar imediatamente de um bem que será pago com sua renda futura.  ", "isCorrect": true },
+      { "text": " O consumidor que contrata o CDC passa a desfrutar de um bem noventa dias após quitação da primeira parcela de pagamento.  ", "isCorrect": false },
+      { "text": " O consumidor que contrata o CDC passa a desfrutar do bem adquirido após trinta dias da quitação da primeira parcela de pagamento ", "isCorrect": false },
+      { "text": " O consumidor que contrata o CDC passa a desfrutar do bem adquirido após sessenta dias da quitação da terceira parcela de pagamento ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Os cartões de crédito, também conhecidos como dinheiro de plástico são amplamente utilizados no mercado nacional tendo em vista sua facilidade e relativa segurança. Sendo assim, assinale a alternativa correta a respeito dos cartões de crédito:  " ,
+    "answers": [
+      { "text": " Os bancos podem cobrar basicamente cinco tarifas referentes à prestação de serviços de cartão de crédito, considerados serviços essenciais: anuidade, emissão de segunda via do cartão, pelo seu uso no saque em espécie, pelo seu uso para pagamento de contas.  ", "isCorrect": true },
+      { "text": " Os bancos podem cobrar um tipo de tarifa referente à prestação de serviços de cartão de crédito, conhecida como anuidade. ", "isCorrect": false },
+      { "text": " Os bancos podem cobrar duas tarifas referentes à prestação de serviços de cartão de crédito, ou seja, a anuidade, e o seguro contra perda, extravio ou roubo. ", "isCorrect": false },
+      { "text": " Os bancos são proibidos de cobrar tarifas referentes à prestação de serviços de cartão de crédito, ficando essa cobrança a cargo da operadora dos cartões de crédito. ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Hot money designa fundos aplicados em ativos financeiros, em diversos países, que atraem pela possibilidade de ganhos rápidos devido a elevadas taxas de juros ou a grandes diferenças cambiais. Sendo assim, assinale a alternativa correta sobre as aplicações em Hot Money: " ,
+    "answers": [
+      { "text": " Hot Money São operações de curtíssimo prazo, em que os recursos podem ser deslocados de um mercado para outro com muita rapidez ", "isCorrect": true },
+      { "text": " Hot Money São operações de longo prazo, em que os recursos para serem deslocados de um mercado para outro com rapidez depende de regras do mercado financeiro internacional.  ", "isCorrect": false },
+      { "text": " Hot Money são recursos administrados por agentes de cambio no mercado financeiro e caracterizam-se por baixa volatilidade.  ", "isCorrect": false },
+      { "text": " Hot Money são considerados salvadores de turbulências nos mercados financeiros, uma vez que têm a finalidade de financiar o capital de giro das empresas para cobrir necessidades imediatas de recursos ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+  {
+    "question": " O mercado de balcão organizado é um ambiente administrado por instituições autorreguladoras que propiciam sistemas informatizados e regras para a negociação de títulos e valores mobiliários. Diante dessa informação, assinale a alternativa correta a respeito dos títulos negociados no mercado de balcão organizado: " ,
+    "answers": [
+      { "text": " O mercado de balcão organizado pode admitir à negociação somente as ações de companhias abertas com registro para negociação em mercado de balcão organizado. ", "isCorrect": true },
+      { "text": " O mercado de balcão organizado pode admitir à negociação somente as ações de companhias de capital fechado com registro para negociação emmercado de balcão organizado. ", "isCorrect": false },
+      { "text": " O mercado de balcão organizado pode admitir à negociação somente as ações de companhias governamentais com registro para negociação em mercado de balcão organizado ", "isCorrect": false },
+      { "text": " O mercado de balcão organizado pode admitir à negociação somente as debêntures de emissão de companhias abertas com registro para negociação em mercado de balcão organizado ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " As bolsas de valores são ambientes organizados para negociação de títulos e valores mobiliários. Sua principal função é proporcionar um ambiente mais líquido, transparente e seguro para a realização de negócios, contribuindo assim para a eficiência do mercado de capitais. Diante desta informação, assinale a alternativa correta sobre os benefícios gerados pelas bolsas de valores para a economia e a sociedade como um todo: " ,
+    "answers": [
+      { "text": " As bolsas de valores servem como um canal que as companhias utilizam para aumentar seus ativos e seu valor de mercado através da oferta de compra de ações de uma companhia por outra companhia.  ", "isCorrect": true },
+      { "text": " As bolsas de valores fornecem um excelente ambiente para as companhias levantarem capital para expansão de suas atividades através da venda de imobilizados, e outros produtos, ao público investidor.  ", "isCorrect": false },
+      { "text": " As bolsas de valores fornecem um excelente ambiente para as companhias divulgarem sua produção de capital para expansão de suas atividades através da venda de imobilizados, e outros produtos, ao público investidor ", "isCorrect": false },
+      { "text": " As bolsas de valores servem como um canal que as companhias utilizam para distribuir seus ativos e aumentar seu valor de mercado através da divulgação de suas ações sociais.  ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Ação é um valor mobiliário, emitido por sociedades anônimas, que representa uma parcela do seu capital social. O investimento em ações pode ser individual ou coletivo. Com essa informação, assinale a alternativa correta a respeito do mercado de ações: " ,
+    "answers": [
+      { "text": " A propriedade da ação é representada por um 'Certificado de Ações' ou pelo 'Extrato de Posição Acionária' emitidos, respectivamente, pela companhia e por uma instituição contratada pela sociedade para o atendimento aos acionistas.  ", "isCorrect": true },
+      { "text": " Ao optar por investir coletivamente os interessados devem formar uma cooperativa de crédito que contrata os serviços de uma Corretora que intermediará as negociações através das ordens do cliente. ", "isCorrect": false },
+      { "text": " Apesar de todas as sociedades anônimas terem o seu capital dividido em ações, somente as ações que forem emitidas por companhias de capital social superior a dez milhões de Reais (valores atualizados), poderão ser negociadas publicamente.  ", "isCorrect": false },
+      { "text": " O proprietário de ações emitidas por uma companhia é chamado de acionista e tem status de sócio, tendo plenos direitos e deveres perante a sociedade.  ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " No Brasil, o mercado de câmbio é o ambiente onde se realizam as operações de câmbio entre os agentes autorizados pelo Banco Central e entre estes e seus clientes, diretamente ou por meio de seus correspondentes. Diante dessa explicação, assinale a alternativa correta a respeito do mercado de cambio:  " ,
+    "answers": [
+      { "text": " Incluem-se no mercado de câmbio brasileiro as operações relativas aos recebimentos, pagamentos e transferências para o exterior mediante a utilização de cartões de uso internacional, bem como as operações referentes às transferências financeiras postais internacionais, inclusive vales postais e reembolsos postais internacionais.  ", "isCorrect": true },
+      { "text": " O mercado de câmbio é regulamentado pelo Banco Central e fiscalizado pelo Banco do Brasil e compreende as operações de compra e de venda de moeda estrangeira ", "isCorrect": false },
+      { "text": " As operações do mercado de câmbio são realizadas por intermédio das instituições bancárias comerciais que possuam filiais de suas operações em países dos quais a instituição pretenda comercializar a moeda.  ", "isCorrect": false },
+      { "text": " À margem do mercado de câmbio funciona um segmento denominado mercado paralelo onde, os negócios realizados são vantajosos. ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O Sistema Integrado de Comércio Exterior – SISCOMEX, instituído pelo Decreto nº 660, de 25 de setembro de 1992, é um sistema informatizado responsável por integrar as atividades de registro, acompanhamento e controle das operações de comércio exterior, através de um fluxo único eautomatizado de informações. Sabendo disso, assinale a alternativa correta sobre as vantagens do SISCOMEX:  " ,
+    "answers": [
+      { "text": " Eliminação de coexistências de controles e sistemas paralelos de coleta de dados. ", "isCorrect": true },
+      { "text": " Redução dos pontos do atendimento ", "isCorrect": false },
+      { "text": " Aumento significativo do volume de documentos.  ", "isCorrect": false },
+      { "text": " Redução de impostos e taxas de importação e exportação para todas as empresas envolvidas no Sistema ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Uma das principais funções do mercado é possibilitar que as companhias ou outros emissores de valores mobiliários, com o intuito de viabilizar projetos de investimento, captem recursos diretamente do público investidor em condições mais vantajosas do que as oferecidas pelos empréstimos e financiamentos bancários. O Mercado de capitais é dividido em Mercado Primário e Mercado Secundário. Sabendo disso, assinale a alternativa correta sobre o Mercado secundário: " ,
+    "answers": [
+      { "text": " O mercado secundário é o local onde os investidores negociam e transferem entre si os valores mobiliários emitidos pelas companhias.  ", "isCorrect": true },
+      { "text": "  Mercado secundário é aquele onde os valores mobiliários de uma nova emissão da companhia são negociados diretamente entre a companhia e os investidores. ", "isCorrect": false },
+      { "text": " Os recursos adquiridos em transações ocorridas no mercado secundário são destinados para os projetos de investimento da empresa ou para o caixa. ", "isCorrect": false },
+      { "text": "  No mercado secundário ocorre apenas a divulgação de propriedade e de recursos entre investidores, ficando a transferência uma operação no mercado primário ", "isCorrect": false },
+      { "text": " O mercado primário oferece liquidez aos títulos emitidos no mercado secundário.  ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Quando a pessoa jurídica, ou a pessoa física decide abrir uma conta bancária, são necessários alguns documentos básicos da pessoa física ou da pessoa jurídica, dependendo do tipo de conta a ser solicitada a abertura. Diante desta informação, assinale a alternativa correta sobre os documentos básicos necessários que uma pessoa precisa apresentar quando da abertura de uma conta corrente de depósito à vista individual para pessoa física para: " ,
+    "answers": [
+      { "text": " Carteira de Identidade ou documento equivalente; Inscrição no CPF; Comprovante de renda; Comprovante de residência. ", "isCorrect": true },
+      { "text": " Título de eleitor; Inscrição no CPF; Contrato social; Comprovante de residência; Inscrição no CNPJ.  ", "isCorrect": false },
+      { "text": " Passaporte; Inscrição no CPF; Comprovante de residência; Contrato social; registro na junta comercial. ", "isCorrect": false },
+      { "text": " Carteira Nacional de Habilitação com foto; Inscrição no CPF; Comprovante de residência; Contrato social; Inscrição no CNPJ.  ", "isCorrect": false },
+      { "text": " Carteira de Identidade ou documento equivalente; Inscrição no CNPJ; Comprovante de renda; Comprovante de residência ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um dos documentos necessário para a abertura de conta em banco é o comprovante de residência ou domicílio. Sabendo disso, assinale a alternativa correta referente ao domicílio da pessoa física:  " ,
+    "answers": [
+      { "text": " É considerado domicílio da pessoa física o lugar onde ela estabelece a sua residência com ânimo definitivo. ", "isCorrect": true },
+      { "text": " É considerado domicílio da pessoa física o lugar onde ela estabelece sua residência e sua conta bancária com ânimo definitivo.  ", "isCorrect": false },
+      { "text": " É considerado domicílio da pessoa física o lugar onde ela estabelece sua residência e o local de instalação de telefone fixo com ânimo definitivo.  ", "isCorrect": false },
+      { "text": " É considerado domicílio da pessoa física o lugar onde ela estabelece sua residência e o local de votação em eleições municipais com ânimo definitivo. ", "isCorrect": false },
+      { "text": " É considerado domicílio da pessoa física o lugar onde ela estabelece sua residência e o seu local de trabalho com ânimo definitivo. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O conceito de título de crédito segundo a Lei nº 10.406, de 10 de janeiro de 2002, artigo 887: “documento necessário ao exercício do direito literal e autônomo nele contido, somente produz efeito quando preencha os requisitos da lei”. Com essa informação, assinale a alternativa correta a respeito da data de emissão do título de crédito: " ,
+    "answers": [
+      { "text": " O título de crédito que não contenha data de vencimento será considerado título de crédito à vista. ", "isCorrect": true },
+      { "text": " O título de crédito que não contenha data de vencimento será considerado título de crédito à prazo. ", "isCorrect": false },
+      { "text": " O título de crédito que contenha data de vencimento será considerado título de crédito negociável.  ", "isCorrect": false },
+      { "text": " O título de crédito que contenha data de vencimento será considerado título de crédito ao portador.  ", "isCorrect": false },
+      { "text": " O título de crédito que não contenha data de vencimento será considerado título de crédito sem valor. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Conforme o Sistema de Pagamentos Brasileiros - SPB, “documento de ordem de crédito é uma ordem de transferência de fundos intercambiária por conta ou a favor de pessoas físicas ou jurídicas, clientes de instituições financeiras ou de instituições de pagamento”. Com essa informação, assinale a alternativa correta a respeito do DOC:  " ,
+    "answers": [
+      { "text": " O DOC só pode ser remetido e recebido por bancos comerciais, bancos múltiplos com carteira comercial, caixas econômicas e instituições de pagamento autorizadas a funcionar pelo Banco Central do Brasil.  ", "isCorrect": true },
+      { "text": " A compensação bancária do DOC é da mesma maneira como os cheques, e é efetivada em, aproximadamente, cinco minutos após a confirmação da transação.  ", "isCorrect": false },
+      { "text": " A vantagem em se utilizar o DOC é o fato de que, em caso de algum erro na remessa, este é facilmente realizar estorno.  ", "isCorrect": false },
+      { "text": " O DOC é o instrumento de pagamento em que o pagador autoriza previamente (ao seu banco ou ao beneficiário do pagamento) debitar na sua contacorrente o valor contratado ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+  {
+    "question": " O Sistema de Pagamentos Brasileiro define Cheque como “o instrumento de pagamento em que o pagador autoriza previamente (ao seu banco ou ao beneficiário do pagamento) debitar a sua conta-corrente, em geral para liquidação de obrigações recorrentes ou periódicas”. Em algumas situações especificas o cheque pode ser devolvido pelo banco. Diante dessa informação, assinale a alternativa correta a respeito dos motivos de devolução do cheque: " ,
+    "answers": [
+      { "text": " Quando um cheque é devolvido constando como critério de devolução o motivo 11 (onze) significa que o cheque estava sem fundos na primeira apresentação ", "isCorrect": true },
+      { "text": " Quando um cheque é devolvido constando como critério de devolução o motivo 21 (vinte e um) significa que o cheque estava sem fundos na primeira apresentação.  ", "isCorrect": false },
+      { "text": " Quando um cheque é devolvido constando como critério de devolução o motivo 41 (quarenta e um) significa que o cheque estava sem fundos na primeira apresentação ", "isCorrect": false },
+      { "text": " Quando um cheque é devolvido constando como critério de devolução o motivo 31 (trinta e um) significa que o cheque estava sem fundos na primeira apresentação.  ", "isCorrect": false },
+      { "text": " Quando um cheque é devolvido constando como critério de devolução o motivo 51 (cinquenta e um) significa que o cheque estava sem fundos na primeira apresentação. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O cheque é uma ordem de pagamento à vista, porque deve ser pago no momento de sua apresentação ao banco sacado. Com essa informação, assinale a alternativa correta: " ,
+    "answers": [
+      { "text": " O cheque é uma ordem de pagamento à vista, válida para o dia de sua apresentação ao banco.  ", "isCorrect": true },
+      { "text": " O cheque é uma ordem de pagamento à vista, válida para a data indicada nele.  ", "isCorrect": false },
+      { "text": " Os bancos podem impedir ou limitar o direito do emitente de sustar o pagamento de um cheque. ", "isCorrect": false },
+      { "text": " Em caso de cheque devolvido, a instituição financeira sacada não pode fornecer nome completo e endereços residencial e comercial do emitente devido ao sigilo bancário.  ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O Sistema de Pagamentos Brasileiro (SPB) engloba as entidades, sistemas e procedimentos relacionados à compensação e liquidação de transferências de fundos, ativos financeiros, transações com títulos e valores mobiliários e moeda estrangeira. Com essa informação, assinale a alternativa correta sobre a importância dos sistemas de pagamentos para os bancos centrais: " ,
+    "answers": [
+      { "text": " Os sistemas de pagamentos representam um pilar central de sustentação da estabilidade financeira, sendo essencial que funcionem de forma segura e eficiente ", "isCorrect": true },
+      { "text": " Os sistemas de pagamentos representam um pilar central de sustentação da estabilidade dos bancos centrais, sendo essencial que funcionem de forma segura e eficiente.  ", "isCorrect": false },
+      { "text": " Os sistemas de pagamentos representam um pilar central de sustentação da estabilidade financeira, sendo essencial que funcionem nos representantes bancários.  ", "isCorrect": false },
+      { "text": " Os sistemas de pagamentos representam um pilar central de sustentação da estabilidade bancária, sendo essencial que funcionem com autorização do banco central de forma segura e eficiente ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Segundo a Lei nº 10.406, de 10 de Janeiro de 2002, Art. 1.052. “Na sociedade limitada, a responsabilidade de cada sócio é restrita ao valor de suas quotas, mas todos respondem solidariamente pela integralização do capital social”. Assinale a alternativa correta sobre o funcionamento das Quotas: " ,
+    "answers": [
+      { "text": " O capital social divide-se em quotas, iguais ou desiguais, cabendo uma ou diversas a cada sócio.  ", "isCorrect": true },
+      { "text": " É permitida contribuição de quotas que consista em prestação de serviços.  ", "isCorrect": false },
+      { "text": " A quota é divisível em relação à sociedade, salvo para efeito de transferência.  ", "isCorrect": false },
+      { "text": " Pela exata estimação de bens conferidos ao capital social respondem solidariamente todos os sócios, até o prazo de dez anos da data do registro da sociedade.  ", "isCorrect": false },
+      { "text": " Pela exata estimação de bens conferidos ao capital social respondem solidariamente todos os sócios, até o prazo de seis anos da data do registro da sociedade. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O Conselho Monetário Nacional – CMN - é o órgão do sistema financeiro nacional responsável por formular a política da moeda e do crédito brasileiro. Diante disso, assinale a alternativa correta referente as funções do CMN " ,
+    "answers": [
+      { "text": " Adaptar o volume dos meios de pagamento às reais necessidades da economia.  ", "isCorrect": true },
+      { "text": " Regular o valor interno e externo da moeda e o equilíbrio do balanço de pagamentos. ", "isCorrect": false },
+      { "text": " Determinar a aplicação dos recursos das administrações públicas federais, estaduais e municipais ", "isCorrect": false },
+      { "text": " Propiciar o aperfeiçoamento dos sindicatos bancários e patronais do sistema financeiro.  ", "isCorrect": false },
+      { "text": " Coordenar a liquidez e solvência da dívida pública.  ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A missão institucional do Banco Central do Brasil - BCB é a estabilidade do poder de compra da moeda e a solidez do sistema financeiro. Seu funcionamento adequado é essencial para a estabilidade financeira e condição necessária para salvaguardar os canais de transmissão da política monetária. Assim, assinale a alternativa correta a respeito do papel do BCB no sistema financeiro nacional: " ,
+    "answers": [
+      { "text": " Cabe ao BCB assegurar que as infraestruturas e os arranjos de pagamentos operados no Brasil sejam administrados consistentemente com os objetivos de interesse público ", "isCorrect": true },
+      { "text": " Compete ao BCB a definição de quais são os sistemas de liquidação favorecem o recebimento de impostos por parte da receita federal.  ", "isCorrect": false },
+      { "text": " É função do BCB executar as ordens de transferência de fundos, observar os requisitos, inclusive os de segurança, aplicáveis às situações de pagamento e de recebimento de mensagens observando índice de confiabilidade mínimo de 99,8%.  ", "isCorrect": false },
+      { "text": " É papel do Banco Central do Brasil, seguindo diretrizes dadas pelo Conselho Monetário Nacional, regulamentar, juntamente com a receita federal, nas suas respectivas esferas de competência, o funcionamento das instituições financeiras no Brasil.  ", "isCorrect": false },
+      { "text": " O Banco Central do Brasil, diferentemente dos bancos comerciais, não pode conceder crédito às instituições financeiras participantes do STR, na forma de operações compromissadas com títulos públicos federais, sem custos financeiros.  ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A lei 10.048/2000 trata da prioridade de atendimento às pessoas portadoras de deficiência, os idosos com idade igual ou superior a 60 (sessenta) anos, as gestantes, as lactantes e as pessoas acompanhadas por crianças de colo. Sendo assim, assinale a alternativa correta sobre o atendimento prioritário com base nessa lei:  " ,
+    "answers": [
+      { "text": " É assegurada, em todas as instituições financeiras, a prioridade de atendimento às pessoas mencionadas no art. 1º da lei 10.048/2000.  ", "isCorrect": true },
+      { "text": " As repartições públicas e empresas concessionárias de serviços públicos não são obrigadas a dispensar atendimento prioritário uma vez que a constituição federal diz que todo cidadão é igual perante a lei. ", "isCorrect": false },
+      { "text": " É assegurada, em todas as instituições comerciais, a prioridade de atendimento em ordem de chegada, alvo em caso idosos acompanhados de seus representantes legais.  ", "isCorrect": false },
+      { "text": " As repartições públicas e empresas concessionárias de serviços públicos não são obrigadas a dispensar atendimento prioritário salvo em caso de manifestações públicas que prejudiquem o acesso ao local do atendimento. ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O Decreto Federal nº. 5.296/04 regulamenta a implementação da acessibilidade arquitetônica e urbanística da lei 10.048/2000. Assim, assinale a alternativa correta:  " ,
+    "answers": [
+      { "text": " A construção, reforma ou ampliação de edificações de uso público ou coletivo, ou a mudança de destinação para estes tipos de edificação, deverão ser executadas de modo que sejam ou se tornem acessíveis à pessoa portadora de deficiência ou com mobilidade reduzida.  ", "isCorrect": true },
+      { "text": " A construção, reforma ou ampliação de edificações de uso público ou coletivo, ou a mudança de destinação para estes tipos de edificação, deverão ser executadas por pessoa portadora de deficiência ou com mobilidade reduzida de modo a promover sua inclusão social. ", "isCorrect": false },
+      { "text": " O Poder Público, após certificar a acessibilidade de edificação ou serviço, isentará a colocação, em espaços ou locais de ampla visibilidade, do 'Símbolo Internacional de Acesso', uma vez que as edificações estão atendendo os requisitos da lei.   ", "isCorrect": false },
+      { "text": " Caberá ao Poder Público promover a inclusão social das pessoas, em condições de prioridade de atendimento, na educação profissional e tecnológica e do ensino superior dos cursos de Engenharia.  ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um vendedor do departamento de seguros de um banco foi chamado para atender um cliente que desejava informações a respeito de renovação de apólice de seguro de vida. Antes de encontrá-lo, o vendedor foi orientado pelo supervisor a acessar uma base de dados com informações pessoais dos clientes que o banco mantinha ilicitamente. Ao explorar essa base de dados, o vendedor descobriu que o cliente era acometido de uma enfermidade crônica que comprometia em muito a sua saúde. De posse dessa informação, o vendedor alterou sua estratégia de negociação e impôs condições para renovação que eram bem mais desfavoráveis ao cliente. O problema ético observado nesse caso é caracterizado como " ,
+    "answers": [
+      { "text": " espionagem ", "isCorrect": true },
+      { "text": " propina ", "isCorrect": false },
+      { "text": " aliciamento ", "isCorrect": false },
+      { "text": " desafio tácito ", "isCorrect": false },
+      { "text": " conflito de interesses ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O objetivo do marketing de relacionamento não é vender mais para o maior número de clientes, e sim vender mais para cada cliente atual. Diante dessa afirmação, assinale a alternativa correta a respeito de marketing de relacionamento:  " ,
+    "answers": [
+      { "text": " O marketing de relacionamento trata de uma mudança profunda na forma de entender e trabalhar o relacionamento com os mercados.  ", "isCorrect": true },
+      { "text": " O marketing de relacionamento defende que o trabalho de marketing deve ser direcionado para a massa e não para cada cliente individual. ", "isCorrect": false },
+      { "text": " O marketing de relacionamento é de extrema dificuldade por não ser possível a utilização de banco de dados para a manutenção continua de duas vias com os clientes.  ", "isCorrect": false },
+      { "text": " A vantagem do marketing de relacionamento é a facilidade de ser implantado sem o envolvimento dos funcionários. ", "isCorrect": false },
+      { "text": " O marketing de relacionamento deve buscar o conhecimento íntimo do indivíduo para estimular a compra de produtos na concorrência. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " As virtudes dos integrantes de uma organização definem o seu clima ético e seus stakeholders solidificam sua confiança na empresa a partir da identificação e percepção que têm de sua cultura. Em relação à ética nas organizações, assinale a alternativa correta " ,
+    "answers": [
+      { "text": " A ética organizacional significa não ao individualismo e a seus subprodutos: não ao egocentrismo e corporativismo ", "isCorrect": true },
+      { "text": " A ética deve estar presente apenas nos níveis do negócio, reflete seus costumes e moral estabelecidos, além de relações humanas fundamentais e plurais globais ", "isCorrect": false },
+      { "text": " A ética não é um elemento a mais na organização e precisa estar dissociada das decisões corporativas.  ", "isCorrect": false },
+      { "text": " ) Para se introduzir ou reforçar a ética empresarial, a empresa precisa rever a relação que estabeleceu entre a hierarquia, colocando a organização como o centro de tudo. ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+  {
+    "question": " Um bom líder vê sua situação na organização como um serviço, ajudando a melhorar também a vida dos demais seres humanos, colocando em ação virtudes e valores éticos. Assim, assinale a alternativa correta que mostre as razões para que a liderança seja ética:   " ,
+    "answers": [
+      { "text": " Os trabalhadores possuem mais conhecimentos, informação e poder, e desta forma, a ética do líder influencia diretamente a ética dos empregados.   ", "isCorrect": true },
+      { "text": " Os trabalhadores possuem mais conhecimentos, informação e poder, e desta forma, a ética dos empregados influencia diretamente a ética do líder. ", "isCorrect": false },
+      { "text": " É necessário o uso coercitivo ou manipulador de poder, uma vez que, atualmente, as pessoas não respeitam mais líderes.  ", "isCorrect": false },
+      { "text": " A necessidade dos empregados em conquistar a boa vontade dos líderes, de maneira que eles se colocam a serviço dos objetivos empresariais, tratando, portanto, dos funcionários com respeito.  ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A Caixa Econômica Federal, é uma instituição semelhante aos bancos comerciais, podendo captar depósitos à vista, realizar operações ativas e efetuar prestação de serviços. Uma característica distintiva da Caixa é que ela prioriza a concessão de empréstimos e financiamentos a programas e projetos nas áreas de assistência social, saúde, educação, trabalho, transportes urbanos e esporte. Com essa informação assinale a alternativa correta a respeito da finalidade da Caixa Econômica Federal: " ,
+    "answers": [
+      { "text": " Exercer o monopólio das operações sobre penhores civis, com caráter permanente e da continuidade. ", "isCorrect": true },
+      { "text": " Explorar, em parceria com bancos comerciais, os serviços da Loteria Federal do Brasil e da Loteria Esportiva Federal nos termos da legislação pertinente.  ", "isCorrect": false },
+      { "text": " Conceder empréstimos e financiamentos aos representantes do sistema financeiro nacional, cooperando com as entidades de direito privado na solução dos problemas sociais e econômicos.  ", "isCorrect": false },
+      { "text": " Receber em depósito sob a garantia da União, economias populares, incentivando os hábitos de aplicações no mercado de capitais, cooperando assim, como o desenvolvimento da indústria nacional.  ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Banco Cooperativo é um Banco comercial ou banco múltiplo constituído, obrigatoriamente, com carteira comercial. Diferencia-se dos demais por ter como acionistas-controladores cooperativas centrais de crédito, as quais devem deter no mínimo 51% das ações com direito a voto. Sabendo disso, assinale a alternativa correta sobre as condições de constituição das cooperativas de crédito:  " ,
+    "answers": [
+      { "text": " Demanda de serviços financeiros apresentada pelo segmento social ou de cooperativas de crédito a ser potencialmente filiado.  ", "isCorrect": true },
+      { "text": " Apresentação de estudo de viabilidade econômicofinanceira abrangendo um horizonte de, no mínimo, cinco anos de funcionamento ", "isCorrect": false },
+      { "text": " Análise sócio demográfica do munícipio área de atuação e do segmento social definido pelas condições de associação ", "isCorrect": false },
+      { "text": " Definição de prazo mínimo para início das atividades após a concessão, pelo Banco do Brasil, da autorização para funcionamento. ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " - As sociedades de arrendamento mercantil são constituídas sob a forma de sociedade anônima, devendo constar obrigatoriamente na sua denominação social a expressão 'Arrendamento Mercantil'. Assinale a alternativa correta sobre as sociedades de arrendamento mercantil:  " ,
+    "answers": [
+      { "text": "  Atuam com operações de arrendamento mercantil de bens móveis, de produção nacional ou estrangeira, e bens imóveis adquiridos pela entidade arrendadora para fins de uso próprio do arrendatário.  ", "isCorrect": true },
+      { "text": " Suas operações ativas são constituídas unicamente por títulos da dívida pública.  ", "isCorrect": false },
+      { "text": " São supervisionadas pelo Banco do Brasil (Resolução CMN 2.309, de 1996).  ", "isCorrect": false },
+      { "text": " Os contratos de arrendamento mercantil celebrado com entidades domiciliadas no exterior serão submetidos a registro no Banco do Brasil.  ", "isCorrect": false },
+      { "text": " A entrada no território nacional dos bens objeto de arrendamento mercantil, contratado com entidades arrendadoras com sede no exterior, não se confunde com o regime da admissão temporária de que trata o Decreto-lei número 37, de 18 de novembro de 1966, e se sujeitará a todas as normas legais que regem a importação.  ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O Sistema Especial de Liquidação e Custódia – Selic - é o depositário central dos títulos que compõem a dívida pública federal interna (DPMFi) de emissão do Tesouro Nacional. Sobre a o SELIC, assinale a alternativa correta: " ,
+    "answers": [
+      { "text": "  É também um sistema eletrônico que processa o registro e a liquidação financeira das operações realizadas com títulos públicos pelo seu valor bruto e em tempo real.  ", "isCorrect": true },
+      { "text": " Todos os títulos são escriturais, isto é, emitidos exclusivamente na forma título ao portador. ", "isCorrect": false },
+      { "text": " O sistema, que é gerido pelo Banco Nacional de Desenvolvimento e por ele operado em parceria com a CVM, tem seus centros operacionais localizados na cidade do Rio de Janeiro ", "isCorrect": false },
+      { "text": " Somente o Banco do Brasil e o Tesouro Nacional podem ser participantes do Selic.  ", "isCorrect": false },
+      { "text": " As câmaras ou prestadores de serviços de compensação e de liquidação têm a sua participação no Selic definida no Regulamento do CVM. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A previdência complementar é um benefício opcional, que proporciona ao trabalhador um seguro previdenciário adicional, conforme sua necessidade e vontade. No Brasil existem dois tipos de previdência complementar: a previdência aberta e a previdência fechada. Assim, assinale a alternativa correta sobre a previdência fechada:  " ,
+    "answers": [
+      { "text": " As Entidades Fechadas de Previdência  Complementar (EFPC), são instituições sem fins lucrativos que mantêm planos de previdência coletivos.  ", "isCorrect": true },
+      { "text": " Os planos da previdência fechada são comercializados por bancos e seguradoras, e podem ser adquiridos por qualquer pessoa física ou jurídica.  ", "isCorrect": false },
+      { "text": " O órgão do governo que fiscaliza e dita as regras dos planos de Previdência Privada Fechada é a Susep (Superintendência de Seguros Privados), que é ligada ao Ministério da Fazenda.  ", "isCorrect": false },
+      { "text": " A Previdência Complementar é uma aposentadoria contratada para substituir a previdência social no momento da aposentadoria.  ", "isCorrect": false },
+      { "text": " A previdência complementar é permitida exclusivamente aos empregados de uma empresa privada e aos associados ou membros de pessoas jurídicas de caráter profissional, classista ou setorial, denominados instituidores.  ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Com a introdução no Brasil, nos anos de 1990, dos primeiros caixas automáticos ou terminais bancários ou ATM, o processo de prestação de serviços se modificou. Desde então, os clientes passaram a integrar uma parte desse processo, realizando um conjunto de atividades que antes eram feitas pelo prestador do serviço. Assim, o cliente passou a ser parte da solução do serviço, que tem como característica a " ,
+    "answers": [
+      { "text": " coprodução ", "isCorrect": true },
+      { "text": " coopetição ", "isCorrect": false },
+      { "text": " estocagem ", "isCorrect": false },
+      { "text": " homogeneidade ", "isCorrect": false },
+      { "text": " simultaneidade ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " No primeiro semestre de 2021, o câmbio do dólar fechou acima de R$5,90, no maior patamar dos últimos anos, devido à pandemia e ao cenário de recessão. Suponha que o administrador de produtos bancários cambiais de um grande banco deve entregar um relatório, analisando as forças macroambientais que impactam o produto. Diante desse contexto, o administrador deve considerar a valorização do dólar na dimensão do ambiente " ,
+    "answers": [
+      { "text": " econômico ", "isCorrect": true },
+      { "text": " político ", "isCorrect": false },
+      { "text": " tecnológico ", "isCorrect": false },
+      { "text": " cultural ", "isCorrect": false },
+      { "text": " demográfico ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Desde 2013, o setor bancário tradicional vem sendo afetado pela concorrência das Fintechs. No início, muitas delas abalaram a estabilidade de grandes bancos, por oferecer serviços completos de um banco, porém sem agências físicas e com operações de baixo custo. Essa estratégia lhes deu capacidade de praticar baixas tarifas e, ainda assim, gerar uma lucratividade considerável. Desse modo, verifica-se que a estratégia genérica de posicionamento das Fintechs foi de " ,
+    "answers": [
+      { "text": " liderança em custo ", "isCorrect": true },
+      { "text": " diferenciação de produto ", "isCorrect": false },
+      { "text": " diversificação de indústria ", "isCorrect": false },
+      { "text": " expansão de mercados ", "isCorrect": false },
+      { "text": " extensão de marca ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um jovem trabalha em uma empresa de prestação de serviços, sendo responsável pela equipe de atendimento. Em um determinado dia, sua equipe recebe um cliente que é considerado uma pessoa com deficiência. Nos termos da Lei no  13.146/2015, o atendimento em todas as instituições e serviços de atendimento ao público a pessoas com deficiência deve ser " ,
+    "answers": [
+      { "text": " prioritário ", "isCorrect": true },
+      { "text": " exclusivo ", "isCorrect": false },
+      { "text": " normal ", "isCorrect": false },
+      { "text": " ordenado ", "isCorrect": false },
+      { "text": " adequado ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um correntista de um banco recebe proposta de fornecimento de cartão de crédito sem anuidade, justificado pelo fato de ele receber seu salário através da agência bancária proponente. No entanto, após um ano, ele é surpreendido com a cobrança de anuidade. Imediatamente apresenta reclamação para o seu gerente, que diz não ter alçada para solver tal questão. O caso é levado para gerência superior que resolve o litígio. Nos termos da Resolução no  4.539/2016, as instituições devem assegurar a consistência de rotinas e de procedimentos operacionais afetos ao relacionamento com clientes e usuários, aplicando, no caso descrito, a técnica de " ,
+    "answers": [
+      { "text": " mediação de conflitos ", "isCorrect": true },
+      { "text": " prêmio por desempenho ", "isCorrect": false },
+      { "text": " subordinação hierárquica  ", "isCorrect": false },
+      { "text": " defesa contratua ", "isCorrect": false },
+      { "text": " proteção institucional ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um gerente de contas de determinada instituição financeira atende diversos segmentos de clientes, incluindo pessoas jurídicas. Sabedor de que vários dos clientes possuem residências em locais cujo acesso é vinculado a pedágios, resolve enviar, para alguns, um novo produto, corporificado num cartão que permite o pagamento on-line do pedágio, evitando, dessa forma, as longas filas nos dias de feriados prolongados. De acordo com o Código de Defesa do Consumidor, enviar ou entregar ao consumidor, sem solicitação prévia, qualquer produto, ou fornecer qualquer serviço, caracteriza " ,
+    "answers": [
+      { "text": " prática abusiva ", "isCorrect": true },
+      { "text": " quebra de sigilo ", "isCorrect": false },
+      { "text": " concorrência desleal ", "isCorrect": false },
+      { "text": " vício do serviço ", "isCorrect": false },
+      { "text": " defeito no produto ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um funcionário de determinado banco é o responsável pelo guichê de caixa da agência onde exerce suas funções. Com a transformação do banco em digital, ele é transferido para outras funções, mas percebe que, apesar disso, vários clientes ainda buscam o atendimento no guichê de caixa. Nos termos da Resolução CMN no  3.694/2009, a digitalização dos serviços bancários acarreta a " ,
+    "answers": [
+      { "text": " manutenção de serviços convencionais ", "isCorrect": true },
+      { "text": " modificação dos serviços de investimentos ", "isCorrect": false },
+      { "text": " exclusão dos clientes inadaptados ", "isCorrect": false },
+      { "text": " realização de treinamento para os clientes ", "isCorrect": false },
+      { "text": " extinção dos contratos físicos ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Ao analisar o mercado de uma região, o gerente identificou três tipos de clientes bancários. O primeiro grupo de clientes decide o banco que contrata, com base na rapidez de atendimento às suas demandas. O segundo grupo reúne os consumidores que consideram mais importante o custo dos serviços bancários cobrados na hora de escolher um banco. O terceiro grupo é formado por indivíduos que consideram mais importante a segurança que o banco pode oferecer ao patrimônio dos investidores. Nesse caso, a base para segmentação do mercado é denominada segmentação " ,
+    "answers": [
+      { "text": " comportamental ", "isCorrect": true },
+      { "text": " demográfica ", "isCorrect": false },
+      { "text": " psicográfica ", "isCorrect": false },
+      { "text": " geográfica ", "isCorrect": false },
+      { "text": " terciária ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O vendedor de equipamentos de informática sai de uma agência bancária contrariado. Um colega de trabalho, que o esperava para almoçar, nota o seu desconforto e lhe pergunta o que houve. Ele diz que o gerente do banco havia-lhe proposto que virasse cliente da agência e contratasse um seguro, para que, então, esse gerente sugerisse à direção a  ompra dos equipamentos oferecidos pelo vendedor. O conflito ético de vendas observado nesse caso é denominado " ,
+    "answers": [
+      { "text": " reciprocidade ", "isCorrect": true },
+      { "text": " propina ", "isCorrect": false },
+      { "text": " suborno ", "isCorrect": false },
+      { "text": " falsidade ideológica ", "isCorrect": false },
+      { "text": " conflito de interesses ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " O Banco P oferece a possibilidade de clientes acessarem seus serviços através de vários canais, como telefone, internet ou agência física. Um cliente queria desbloquear seu cartão de crédito e fez isso pelo telefone. Ao tentar sacar dinheiro na agência, lhe foi perguntado se havia desbloqueado o cartão, tendo que dar a informação de que já o havia feito por telefone. Como ficou claro, não há integração entre os sistemas utilizados pelo Banco P, o que mostra que esse Banco utiliza o modelo de negócios denominado " ,
+    "answers": [
+      { "text": " Multicanal ", "isCorrect": true },
+      { "text": " Multinível ", "isCorrect": false },
+      { "text": " Interseções ", "isCorrect": false },
+      { "text": " Omnichannel ", "isCorrect": false },
+      { "text": " Plurissistemas ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Os diretores de um banco procuraram influenciadores digitais para lhes apresentar os fundos de investimento do banco. Eles sabem que os influenciadores digitais divulgam informalmente produtos bancários e oferecem conselhos ou informações sobre investimentos financeiros, dizendo, por exemplo, quais, dentre as diversas opções de aplicações financeiras, são as melhores para o tipo de audiência que o acompanha. Os influenciadores digitais, portanto, funcionam como  " ,
+    "answers": [
+      { "text": " líderes de opinião ", "isCorrect": true },
+      { "text": " fontes de intervenção ", "isCorrect": false },
+      { "text": " grupo de afinidade ", "isCorrect": false },
+      { "text": " referências primárias ", "isCorrect": false },
+      { "text": " grupo de dissociaç ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um cidadão obtém ingresso nos quadros da Caixa Econômica Federal (CEF), passando a integrar área de investimentos, onde, por força da sua função, é compelido a realizar várias reuniões diárias com autoridades públicas e pretendentes a parceiros de negócios. Nos termos do Código de Ética, Conduta e Integridade da CEF, todas as reuniões com agentes públicos envolvendo pessoas externas à CEF deverão ser registradas em " ,
+    "answers": [
+      { "text": " ata ", "isCorrect": true },
+      { "text": " apontamento ", "isCorrect": false },
+      { "text": " anotação ", "isCorrect": false },
+      { "text": " agenda ", "isCorrect": false },
+      { "text": " arquivo ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Uma sociedade empresária apresentou projeto para a Caixa Econômica Federal com necessidade de expressivo aporte financeiro. Na análise realizada por técnicos da instituição, foram verificados, nessa sociedade empresária, problemas com trabalho degradante, segundo informações do órgão competente do Ministério do Trabalho. Nos termos da Política de Responsabilidade Social, Ambiental e Climática da Caixa Econômica Federal, o financiamento pleiteado " ,
+    "answers": [
+      { "text": " será vedado, pela existência do problema trabalhista indicado ", "isCorrect": true },
+      { "text": " terá deferimento, devido ao número de empregos que serão gerados pelo empreendimento ", "isCorrect": false },
+      { "text": " ocorrerá de acordo com a estrutura econômica da região atingida ", "isCorrect": false },
+      { "text": " entrará na fila de pretendentes por ordem de protocolo. ", "isCorrect": false },
+      { "text": " constará do planejamento da instituição para modelo. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A Lei Geral de Proteção de Dados Pessoais (LGPD), Lei no  13.709/2018, foi promulgada para proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural. A LGPD estabelece que o tratamento dos dados pessoais pode ser realizado por dois agentes de tratamento: o controlador e o operador. Essa lei também prevê o papel do encarregado, que é a pessoa indicada pelo controlador e pelo operador para atuar como canal de comunicação entre o controlador, os titulares dos dados e a " ,
+    "answers": [
+      { "text": " ANPD ", "isCorrect": true },
+      { "text": " ANP ", "isCorrect": false },
+      { "text": " ANAC ", "isCorrect": false },
+      { "text": " ANEEL ", "isCorrect": false },
+      { "text": " ANVISA ", "isCorrect": false }
+    ]
+  },
+  {
+    "question": " Um Banco está estruturando seus procedimentos de monitoramento e seleção de operações que possam configurar indícios de ocorrência dos crimes de “lavagem” ou ocultação de bens, direitos e valores. De acordo com a Carta Circular no  4.001/2020, incluem-se nas situações relacionadas com operações em espécie em moeda nacional com a utilização de contas de depósitos ou de contas de pagamento os seguintes exemplos:   " ,
+    "answers": [
+      { "text": " depósitos ou aportes em espécie em contas de clientes que exerçam atividade comercial relacionada com negociação de bens de luxo ou de alto valor, tais como obras de arte, imóveis, barcos, joias, automóveis ou aeronaves. ", "isCorrect": true },
+      { "text": " concentração de depósitos ou outro instrumento de transferência de recurso eletrônico, excluídos os boletos de pagamento, de forma a dissimular o valor total da movimentação. ", "isCorrect": false },
+      { "text": " saques no período de quinze dias úteis em valores superiores aos limites estabelecidos, de forma a dissimular o valor total da operação e evitar comunicações de operações em espécie. ", "isCorrect": false },
+      { "text": " saques em espécie de conta-corrente ou conta-poupança que receba diversos depósitos por transferência eletrônica de uma única origem, em longo período de tempo ", "isCorrect": false },
+      { "text": " depósitos ou aportes de baixos valores em espécie, de forma única, em caixas ou terminais de autoatendimento próximos, destinados sempre a uma única conta. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Uma administradora de empresas é responsável por organizar os formulários utilizados pela instituição financeira onde atua. Ao criar novo formulário para seguir comandos legais, depara-se com novos conceitos de dados pessoais que devem ser aplicados. Sendo assim, ela precisa saber que, nos termos da Lei no  13.709/2018, dados pessoais sensíveis estão relacionados a " ,
+    "answers": [
+      { "text": " convicção religiosa ", "isCorrect": true },
+      { "text": " opção desportiva ", "isCorrect": false },
+      { "text": " escolha de lazer ", "isCorrect": false },
+      { "text": " método de trabalho ", "isCorrect": false },
+      { "text": " hábito alimentar ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " P foi diretor de sociedade empresária que foi acusada de praticar atos de corrupção, com geração de prejuízos superiores a cem milhões de reais. Após longo período de negociação, P e a sociedade resolvem compor os prejuízos causados. Nos termos da Lei no  12.846/2013, caso preenchidos os requisitos exigidos, poderá ser realizado(a) " ,
+    "answers": [
+      { "text": " acordo de leniência ", "isCorrect": true },
+      { "text": " compromisso de honestidade ", "isCorrect": false },
+      { "text": " negócio jurídico ", "isCorrect": false },
+      { "text": " transação legal ", "isCorrect": false },
+      { "text": " promessa de restauração ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Embora as taxas de câmbio R$/US$, cotadas diariamente nos mercados de câmbio à vista, sejam expressas em valores nominais, ao longo do tempo essas taxas podem-se desviar de seus valores reais. Contribui para a apreciação real da moeda brasileira, em relação ao dólar norte-americano, a(o) " ,
+    "answers": [
+      { "text": " taxa de inflação no Brasil maior do que a taxa de inflação norte-americana ", "isCorrect": true },
+      { "text": " redução da produtividade média no Brasil, comparativamente à dos Estados Unidos ", "isCorrect": false },
+      { "text": " queda dos preços das commodities exportadas pelo Brasil ", "isCorrect": false },
+      { "text": " compra de reservas internacionais pelo Banco Central do Brasil ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " A principal marca distintiva do Pix, em relação aos mecanismos de pagamento com cartões de débito automático, é que o Pix é um sistema de pagamento instantâneo criado pelo(s) " ,
+    "answers": [
+      { "text": " Banco Central do Brasil  ", "isCorrect": true },
+      { "text": " Banco do Brasil ", "isCorrect": false },
+      { "text": " Banco do Nordeste ", "isCorrect": false },
+      { "text": " bancos comerciais ", "isCorrect": false },
+      { "text": " ****** ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Desde 1999, o Brasil adota um regime de câmbio flutuante (ou flexível). Considerando-se a prática brasileira desde então, nesse regime cambial, a " ,
+    "answers": [
+      { "text": " taxa de câmbio é determinada pela oferta e demanda de moeda estrangeira. ", "isCorrect": true },
+      { "text": " taxa de câmbio é fixada pelo Banco Central do Brasil. ", "isCorrect": false },
+      { "text": " taxa de câmbio não sofre interferência do Banco Central do Brasil. ", "isCorrect": false },
+      { "text": " taxa de câmbio não influencia a rentabilidade dos exportadores ", "isCorrect": false },
+      { "text": " fixação da taxa básica de juros (Selic) torna-se dependente da política cambial. ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Nos contratos de financiamento de automóveis, a garantia de pagamento da dívida é o próprio bem, isto é, o automóvel adquirido pelo devedor. Nesse caso, trata-se de " ,
+    "answers": [
+      { "text": " alienação fiduciária ", "isCorrect": true },
+      { "text": " aval ", "isCorrect": false },
+      { "text": " fiança ", "isCorrect": false },
+      { "text": " hipoteca ", "isCorrect": false },
+      { "text": " penhor mercantil ", "isCorrect": false }
+    ]
+  },
+   {
+    "question": " Um trabalhador é regido pelas regras da CLT e tem conta vinculada ao FGTS. Curioso por saber as hipóteses de levantamento do FGTS, formula consulta ao órgão competente. Nos termos da Lei no  8.036/1990, a conta vinculada do trabalhador no FGTS poderá ser movimentada no caso de  " ,
+    "answers": [
+      { "text": " aposentadoria concedida pela Previdência Social ", "isCorrect": true },
+      { "text": " aquisição de imóvel comercial ", "isCorrect": false },
+      { "text": " desligamento por justa causa ", "isCorrect": false },
+      { "text": " compra de automóvel ", "isCorrect": false },
+      { "text": " aluguel de entidade familiar ", "isCorrect": false }
+    ]
+  }  
+  
+]  
