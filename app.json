@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "SimulatedBankApp",
-    "slug": "SimulatedBankApp",
+    "name": "Fokus Simulado Bancos",
+    "slug": "fokussimulatedbank",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,10 +20,17 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.thiagoassis66.fokussimulatedbank"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bcefad78-e222-4063-ad99-4bcd0e3540da"
+      }
+    },
+    "owner": "thiagoassis66"
   }
 }
